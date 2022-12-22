@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 243.97 244"
+   version="1.1"
+   sodipodi:docname="semi2.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <svg:metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>limited</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     id="namedview22"
+     showgrid="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:zoom="9.6248231"
+     inkscape:cx="108.55741"
+     inkscape:cy="115.06988"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <script
+     id="current-song-media-session-proxy" />
+  <svg:defs
+     id="defs4">
+    <svg:style
+       id="style2">.cls-1{fill:red;}.cls-2{fill:#fff;}</svg:style>
+  </svg:defs>
+  <svg:title
+     id="title6">limited</svg:title>
+  <svg:g
+     id="limited_mc"
+     data-name="limited mc">
+    <svg:g
+       id="banned_circle2_0_Layer0_0_FILL"
+       data-name="banned circle2 0 Layer0 0 FILL">
+      <svg:path
+         d="M208.25,35.75Q172.49,0,122,0T35.8,35.75Q0,71.53,0,122T35.8,208.22Q71.56,244,122,244t86.22-35.76Q244,172.45,244,122T208.25,35.75Z"
+         transform="translate(-0.04 0.01)"
+         id="path8" />
+    </svg:g>
+    <svg:g
+       id="banned_circle2_0_Layer0_1_FILL"
+       data-name="banned circle2 0 Layer0 1 FILL">
+      <svg:path
+         class="cls-1"
+         d="M200.24,43.75q-32.52-32.52-78.39-32.52T43.46,43.75Q11,76.26,11,122.14t32.51,78.39Q76,233.05,121.85,233.05t78.39-32.52q32.5-32.5,32.51-78.39T200.24,43.75Z"
+         transform="translate(-0.04 0.01)"
+         id="path11" />
+    </svg:g>
+    <svg:g
+       id="banned_circle2_0_Layer0_2_FILL"
+       data-name="banned circle2 0 Layer0 2 FILL">
+      <svg:path
+         d="M183,60.9q-25.29-25.3-61-25.3t-61,25.3q-25.29,25.29-25.29,61t25.29,61q25.29,25.29,61,25.29t61-25.29q25.29-25.31,25.29-61T183,60.9Z"
+         transform="translate(-0.04 0.01)"
+         id="path14" />
+    </svg:g>
+    <svg:g
+       id="FL_1_mc_0_Layer0_0_FILL"
+       data-name="FL 1 mc 0 Layer0 0 FILL">
+      <svg:path
+         class="cls-2"
+         d="M79.9,77.16l8.85-2.44,5.89-1.32,4.88-.4q8,0,8,7.42v73.71l-.4,11.28-1.22,4.47-1.73,1.73a6,6,0,0,1-3,1l-6,.71L85,174.05v7h81.23v-7l-9.46-.61-5.59-.61-3.25-.91a5.17,5.17,0,0,1-1.73-1.12l-1.42-1.73a8.28,8.28,0,0,1-.71-2.74l-.41-4.68-.1-7.52V50.83L77.87,68.73Z"
+         transform="translate(-0.04 0.01)"
+         id="path17" />
+    </svg:g>
+  </svg:g>
+  <svg:circle
+     r="79.679878"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58488;stroke-linecap:square;stroke-dashoffset:6.80315;stop-color:#000000"
+     id="path849"
+     cx="121.835"
+     cy="122.15" />
+  <svg:text
+     id="text843"
+     y="182.62286"
+     x="61.242146"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:242.87px;line-height:1.25;font-family:'SquareType B';-inkscape-font-specification:'SquareType B Bold';fill:#ffffff;fill-opacity:1;stroke-width:5.05982"
+     xml:space="preserve"><svg:tspan
+       style="stroke-width:5.05982"
+       y="182.62286"
+       x="61.242146"
+       id="tspan841"
+       sodipodi:role="line">2</svg:tspan></svg:text>
+</svg:svg>

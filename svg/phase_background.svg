@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="phase_background.svg"
+   version="1.1"
+   viewBox="0 0 56 56"
+   data-name="Layer 1"
+   id="Layer_1">
+  <svg:metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="Layer_1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:cy="28.510435"
+     inkscape:cx="31.336627"
+     inkscape:zoom="46.206814"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     showgrid="false"
+     id="namedview33"
+     inkscape:window-height="2066"
+     inkscape:window-width="3840"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <script
+     id="current-song-media-session-proxy" />
+  <svg:defs
+     id="defs19">
+    <svg:style
+       id="style2">.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#linear-gradient-2);}.cls-3{fill:url(#linear-gradient-3);}</svg:style>
+    <svg:linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1, 0, 0, -1, 0, 56)"
+       y2="56"
+       x2="27.9"
+       y1="0.15"
+       x1="27.9"
+       id="linear-gradient">
+      <svg:stop
+         id="stop4"
+         stop-color="#fff"
+         offset="0" />
+      <svg:stop
+         id="stop6"
+         offset="0.54" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.38, 0, 0, -0.38, -12.16, -81.69)"
+       y2="-364.55"
+       x2="106.68"
+       y1="-217.15"
+       x1="106.68"
+       id="linear-gradient-2">
+      <svg:stop
+         id="stop9"
+         stop-color="#fff"
+         offset="0" />
+      <svg:stop
+         id="stop11"
+         offset="0.69" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.38, 0, 0, -0.38, -12.16, -81.69)"
+       y2="-227.75"
+       x2="106.73"
+       y1="-356.25"
+       x1="106.73"
+       id="linear-gradient-3">
+      <svg:stop
+         id="stop14"
+         stop-color="#fff"
+         offset="0" />
+      <svg:stop
+         id="stop16"
+         offset="1" />
+    </svg:linearGradient>
+    <svg:mask
+       id="mask1029"
+       maskUnits="userSpaceOnUse">
+      <svg:path
+         transform="scale(-1,1)"
+         d="m 10.870105,10.850479 h 34.1702 v 34.1702 h -34.1702 z"
+         style="fill:none;fill-opacity:0.75;stroke:#ffffff;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;stop-color:#000000"
+         id="path1031"
+         width="34.1702"
+         height="34.1702"
+         x="10.870105"
+         y="10.850479"
+         sodipodi:type="rect" />
+    </svg:mask>
+    <svg:mask
+       id="mask1033"
+       maskUnits="userSpaceOnUse">
+      <svg:rect
+         transform="scale(-1,1)"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87446;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;stop-color:#000000"
+         id="rect1035"
+         width="10.297483"
+         height="39.058567"
+         x="-52.433079"
+         y="8.5706863" />
+    </svg:mask>
+  </svg:defs>
+  <svg:title
+     id="title21">phase_background</svg:title>
+  <svg:g
+     data-name="Layer0 2 FILL"
+     id="Layer0_2_FILL">
+    <svg:path
+       id="path29"
+       d="M27.91,3.81a23.26,23.26,0,0,0-17.06,7.07,23.22,23.22,0,0,0-7.06,17A23.23,23.23,0,0,0,10.85,45a23.28,23.28,0,0,0,17.06,7.06A23.22,23.22,0,0,0,45,45,23.26,23.26,0,0,0,52,27.93a23.2,23.2,0,0,0-7.08-17A23.19,23.19,0,0,0,27.91,3.81Z"
+       class="cls-3" />
+  </svg:g>
+  <svg:path
+     mask="url(#mask1033)"
+     sodipodi:type="rect"
+     y="10.850364"
+     x="10.809857"
+     height="34.1702"
+     width="34.1702"
+     id="rect860"
+     style="fill:none;fill-opacity:0.75;stroke:#ffffff;stroke-width:0.3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;stop-color:#000000" />
+  <svg:text
+     id="text883"
+     y="10.850364"
+     x="16.160057"
+     style="font-weight:bold;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+     xml:space="preserve"><svg:tspan
+       y="10.850364"
+       x="16.160057"
+       id="tspan881"
+       sodipodi:role="line"></svg:tspan></svg:text>
+  <svg:g
+     inkscape:label="Layer 1"
+     id="layer1"
+     inkscape:groupmode="layer">
+    <svg:rect
+       mask="url(#mask1029)"
+       transform="scale(-1,1)"
+       y="8.5706863"
+       x="-13.629278"
+       height="39.058567"
+       width="11.379575"
+       id="rect931"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.97049;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;stop-color:#000000" />
+  </svg:g>
+  <svg:g
+     style="display:inline"
+     inkscape:label="Layer 2"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <svg:g
+       style="font-weight:bold;font-size:5.7445px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.119677"
+       id="text864-0-1"
+       aria-label="PLAYER">
+      <svg:path
+         id="path1054"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';fill:#ffffff;stroke-width:0.119677"
+         d="m 18.919175,43.162234 h -0.774161 v 2.182237 h 0.83026 q 0.785381,0 1.150022,-0.274884 0.370251,-0.280493 0.370251,-0.875138 0,-0.330982 -0.123417,-0.544157 -0.117807,-0.218785 -0.476839,-0.353421 -0.353421,-0.134637 -0.976116,-0.134637 z m -0.774161,2.238335 v 1.840036 h -0.06171 v -4.14008 h 0.83587 q 0.880749,0 1.256609,0.258054 0.381471,0.258054 0.381471,0.83587 0,0.622695 -0.38708,0.914407 -0.387081,0.291713 -1.194901,0.291713 z" />
+      <svg:path
+         id="path1056"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';fill:#ffffff;stroke-width:0.119677"
+         d="m 21.432394,43.100525 v 4.083981 h 2.238335 v 0.0561 h -2.300044 v -4.14008 z" />
+      <svg:path
+         id="path1058"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';fill:#ffffff;stroke-width:0.119677"
+         d="m 25.953944,43.145404 h -0.04488 l -0.959287,2.602977 h 1.963452 z m 0.981726,2.659076 h -2.008331 l -0.532937,1.436125 h -0.06171 l 1.525883,-4.14008 h 0.140247 l 1.531492,4.14008 h -0.06732 z" />
+      <svg:path
+         id="path1060"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';fill:#ffffff;stroke-width:0.119677"
+         d="m 29.538646,45.299592 h 0.04488 l 1.436125,-2.199067 h 0.07293 l -1.497833,2.283215 v 1.856865 h -0.06171 V 45.38374 l -1.497833,-2.283215 h 0.06732 z" />
+      <svg:path
+         id="path1062"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';fill:#ffffff;stroke-width:0.119677"
+         d="m 31.967717,45.002269 v 2.182237 h 2.182237 v 0.0561 h -2.243945 v -4.14008 h 2.243945 v 0.06171 h -2.182237 v 1.778327 h 2.06443 v 0.06171 z" />
+      <svg:path
+         id="path1064"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';fill:#ffffff;stroke-width:0.119677"
+         d="m 36.562197,45.153735 v 0.05049 q 0.190735,0.07854 0.308542,0.252444 0.123417,0.173906 0.314152,0.617085 l 0.521718,1.166852 h -0.06732 l -0.504887,-1.144413 q -0.129027,-0.280493 -0.207565,-0.420739 -0.07293,-0.140247 -0.157076,-0.252444 -0.07854,-0.117807 -0.196346,-0.151467 -0.117807,-0.03927 -0.241224,-0.0561 -0.117807,-0.01683 -0.359031,-0.01683 h -0.718063 v 2.041991 h -0.06171 v -4.14008 h 0.779771 q 0.246834,0 0.443179,0.02244 0.201955,0.01683 0.43196,0.07293 0.235614,0.0561 0.39269,0.151466 0.157076,0.09537 0.263664,0.263664 0.106587,0.168296 0.106587,0.40952 0,0.493668 -0.252444,0.768551 -0.246834,0.269274 -0.7966,0.364641 z m -1.307099,-0.01122 h 0.718063 q 0.83026,0 1.200511,-0.263664 0.375861,-0.269273 0.375861,-0.858309 0,-0.42635 -0.375861,-0.639524 -0.375861,-0.218785 -1.200511,-0.218785 h -0.718063 z" />
+    </svg:g>
+    <svg:g
+       style="font-weight:bold;font-size:5.7445px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.119677"
+       id="text864-0"
+       aria-label="OPPONENT">
+      <svg:path
+         id="path1037"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';fill:#ffffff;stroke-width:0.119677"
+         d="m 14.103109,12.276735 q -0.448789,-0.555376 -0.448789,-1.570762 0,-1.0209948 0.443179,-1.5763713 0.443179,-0.5553765 1.251,-0.5553765 0.81343,0 1.256609,0.5553765 0.443179,0.5553765 0.443179,1.5763713 0,1.015386 -0.443179,1.570762 -0.443179,0.549767 -1.256609,0.549767 -0.807821,0 -1.24539,-0.549767 z m 0.02805,-0.04488 q 0.42635,0.538547 1.217341,0.538547 0.7966,0 1.21734,-0.532937 0.42074,-0.538547 0.42074,-1.537103 0,-0.9985552 -0.42074,-1.5314923 -0.42074,-0.532937 -1.21734,-0.532937 -0.790991,0 -1.211731,0.532937 -0.42074,0.5329371 -0.42074,1.5314923 0,0.998556 0.41513,1.531493 z" />
+      <svg:path
+         id="path1039"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';fill:#ffffff;stroke-width:0.119677"
+         d="m 18.731246,8.6920323 h -0.774161 v 2.1822367 h 0.83026 q 0.785381,0 1.150022,-0.274883 0.370251,-0.280493 0.370251,-0.8751388 0,-0.3309819 -0.123417,-0.5441567 Q 20.066394,8.9613058 19.707363,8.8266691 19.353941,8.6920323 18.731246,8.6920323 Z m -0.774161,2.2383357 v 1.840035 h -0.06171 V 8.6303238 h 0.835869 q 0.880749,0 1.25661,0.2580538 0.381471,0.2580537 0.381471,0.8358696 0,0.6226948 -0.387081,0.9144078 -0.387081,0.291713 -1.194901,0.291713 z" />
+      <svg:path
+         id="path1041"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';fill:#ffffff;stroke-width:0.119677"
+         d="m 22.018626,8.6920323 h -0.774161 v 2.1822367 h 0.83026 q 0.785381,0 1.150022,-0.274883 0.370251,-0.280493 0.370251,-0.8751388 0,-0.3309819 -0.123417,-0.5441567 Q 23.353774,8.9613058 22.994742,8.8266691 22.641321,8.6920323 22.018626,8.6920323 Z m -0.774161,2.2383357 v 1.840035 h -0.06171 V 8.6303238 h 0.835869 q 0.880749,0 1.25661,0.2580538 0.38147,0.2580537 0.38147,0.8358696 0,0.6226948 -0.38708,0.9144078 -0.387081,0.291713 -1.194901,0.291713 z" />
+      <svg:path
+         id="path1043"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';fill:#ffffff;stroke-width:0.119677"
+         d="m 24.660872,12.276735 q -0.448789,-0.555376 -0.448789,-1.570762 0,-1.0209948 0.443179,-1.5763713 0.443179,-0.5553765 1.251,-0.5553765 0.81343,0 1.256609,0.5553765 0.443179,0.5553765 0.443179,1.5763713 0,1.015386 -0.443179,1.570762 -0.443179,0.549767 -1.256609,0.549767 -0.807821,0 -1.24539,-0.549767 z m 0.02805,-0.04488 q 0.42635,0.538547 1.217341,0.538547 0.7966,0 1.21734,-0.532937 0.42074,-0.538547 0.42074,-1.537103 0,-0.9985552 -0.42074,-1.5314923 -0.42074,-0.532937 -1.21734,-0.532937 -0.790991,0 -1.211731,0.532937 -0.42074,0.5329371 -0.42074,1.5314923 0,0.998556 0.41513,1.531493 z" />
+      <svg:path
+         id="path1045"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';fill:#ffffff;stroke-width:0.119677"
+         d="M 31.151484,12.703085 V 8.6303238 h 0.06171 V 12.770403 H 31.072946 L 28.570947,8.6976422 h -0.0561 v 4.0727608 h -0.06171 V 8.6303238 h 0.140247 l 2.501999,4.0727612 z" />
+      <svg:path
+         id="path1047"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';fill:#ffffff;stroke-width:0.119677"
+         d="m 32.374435,10.532068 v 2.182236 h 2.182236 v 0.0561 H 32.312726 V 8.6303238 h 2.243945 v 0.061708 h -2.182236 v 1.7783267 h 2.064429 v 0.06171 z" />
+      <svg:path
+         id="path1049"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';fill:#ffffff;stroke-width:0.119677"
+         d="M 38.298451,12.703085 V 8.6303238 h 0.06171 v 4.1400792 h -0.140246 l -2.502,-4.0727608 h -0.0561 v 4.0727608 h -0.06171 V 8.6303238 h 0.140247 l 2.501999,4.0727612 z" />
+      <svg:path
+         id="path1051"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';fill:#ffffff;stroke-width:0.119677"
+         d="m 42.135596,8.6303238 v 0.061708 H 40.75557 v 4.0783707 h -0.06171 V 8.6920323 h -1.374416 v -0.061708 z" />
+    </svg:g>
+  </svg:g>
+</svg:svg>

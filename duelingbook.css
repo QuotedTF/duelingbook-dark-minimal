@@ -1,0 +1,926 @@
+@import url(https://fonts.googleapis.com/css2?family=Calibri:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,900;1,100;1,300;1,400;1,500;1,600;1,700;1,900&display=swap);
+
+@font-face {font-family: "SquareType B"; src: url("//db.onlinewebfonts.com/t/5f7f9bb991d5476ca410b3df083d9070.eot"); src: url("//db.onlinewebfonts.com/t/5f7f9bb991d5476ca410b3df083d9070.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/5f7f9bb991d5476ca410b3df083d9070.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/5f7f9bb991d5476ca410b3df083d9070.woff") format("woff"), url("//db.onlinewebfonts.com/t/5f7f9bb991d5476ca410b3df083d9070.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/5f7f9bb991d5476ca410b3df083d9070.svg#SquareType B") format("svg"); }
+
+@font-face {font-family: "Work Sans Thin"; src: url("//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.eot"); src: url("//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.woff") format("woff"), url("//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.svg#Work Sans Thin") format("svg"); } 
+
+/* MAIN MENU */
+
+/*duel! arrow*/
+/*#duel_btn>img {}*/
+
+/* DUEL UI */
+
+/*===== CHANGE AVATAR AND BACKGROUND by replacing links below with your image or gif links =====*/
+
+
+/*Control dimming of the background image*/
+
+:root{
+    --bg-dim: 50%;
+}
+
+/*Background image*/
+
+body{
+    background: linear-gradient( rgba(0, 0, 0, var(--bg-dim)),rgba(0, 0, 0, var(--bg-dim))), url(https://wallpaperaccess.com/full/22271.jpg);
+    background-size: cover;
+}
+
+/*In duel avatar*/
+
+#avatar1>img.image {
+    content: url(https://mykes.s-ul.eu/aNMvZwxh);
+}
+
+/*Hide default background*/
+
+#circuit_board {
+    visibility: hidden;
+}
+
+#circuit_cover {
+    visibility: hidden;
+}
+
+#greenlines {
+    visibility: hidden;
+}
+
+/*===== CHANGE FONT by adding @import of your font and replace " Roboto, sans-serif " below =====*/
+
+:root {
+    --font-family: 'Roboto', sans-serif;
+}
+
+/*===== CHANGE COLOR by replacing the HEX values(#000000) =====*/
+
+:root {
+    --bg-color: linear-gradient(0deg, #1c1c21 0%, #17171b 100%);
+}
+
+:root {
+    --text-color: #d6d6d6;
+}
+
+:root {
+    --border-color: #3a3a3d;
+}
+
+:root {
+    --select-color: #4486c4;
+}
+
+:root {
+    --lp-color-p1: linear-gradient(90deg, #ce404f 0%, #cb4141 100%);
+}
+
+:root {
+    --lp-color-p2: linear-gradient(90deg, #3c49af 0%, #293594 100%);
+}
+
+
+
+/*----------- SECTION: DARK MODE ---------*/
+
+
+/*Player colors were too bright on dark*/
+
+div.os-content.selectable.os-textarea b font {
+    font-weight: 600;
+    filter: contrast(70%)hue-rotate(348deg);
+}
+
+/*Lifepoint and player colors*/
+
+div#lifepoints1.lifepoints div.life_bar {
+    background: var(--lp-color-p1);
+}
+
+div#lifepoints2.lifepoints div.life_bar {
+    background: var(--lp-color-p2);
+}
+
+div.life_border {
+    border-color: #303030;
+}
+
+div.black_bar {
+    background: linear-gradient(90deg, #040404 0%, #161616 100%);
+    ;
+}
+
+div#avatar1.duel_avatar {
+    background: var(--lp-color-p1);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+div#avatar2.duel_avatar {
+    background: var(--lp-color-p2);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+div.gone {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+/*Phase buttons*/
+
+/*Player current status*/
+
+#status1 .status_txt, #status2 .status_txt {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+/*Links*/
+
+div a u {
+    color: #476fff;
+}
+
+/*Selection color*/
+
+::selection {
+    color: white;
+    background: var(--select-color);
+}
+
+/* Card preview text */
+
+#preview_txt {
+    color: var(--text-color);
+    background: var(--bg-color);
+    border: solid 1px var(--border-color);
+}
+
+div.os-scrollbar-handle {
+    background-color: gainsboro;
+}
+
+/*Watchers section*/
+
+#watchers {
+    color: var(--text-color);
+    background: var(--bg-color);
+    border: solid 1px var(--border-color);
+}
+
+#watchers>div {
+    color: var(--text-color);
+    background: var(--bg-color);
+}
+
+/*Buttons*/
+
+div.button.proxy.unselectable {
+    background: none;
+    color: var(--text-color);
+    background: var(--bg-color);
+    /*Delete line below for round edges*/
+    border-radius: 0px;
+}
+
+/*Inputs*/
+
+input[type] {
+    background: none;
+    color: var(--text-color);
+    background: var(--bg-color);
+    border: solid 1px var(--border-color);
+}
+
+div.textinput.proxy {
+    background: none;
+    color: var(--text-color);
+    background: var(--bg-color);
+}
+
+/*Drop down selectors*/
+
+div.combobox.proxy.unselectable {
+    background: none;
+    color: var(--text-color);
+    background: var(--bg-color);
+    /*Delete line below for round edges*/
+    border-radius: 0px;
+}
+
+select {
+    background: none;
+    color: var(--text-color);
+    background: #1c1c21;
+}
+
+/*Chatting section*/
+
+div.cout_txt.textarea.scrollpane.selectable.os-host.os-theme-dark.os-host-resize-disabled.os-host-transition {
+    background: none;
+    color: var(--text-color);
+    background: var(--bg-color);
+    border: solid 1px var(--border-color);
+    padding-left: 6px;
+    font-family: var(--font-family);
+    font-weight: 400;
+}
+
+div div b {
+    color: #90c982;
+}
+
+/*Card options*/
+
+span.card_menu_txt {
+    background: none;
+    opacity: 85%;
+    color: #eeeeee;
+    background: #1c1c21;
+    border: solid 1px var(--border-color);
+}
+
+span.card_menu_txt:hover {
+    background: none;
+    color: #1c1c21;
+    background-color: var(--select-color);
+    border: solid 1px var(--border-color);
+}
+
+/*Logs and Watchers section*/
+
+div.chat_background {
+    background: none;
+    color: var(--text-color);
+    background: var(--bg-color);
+}
+
+div div font {
+    filter: contrast(70%)hue-rotate(348deg);
+}
+
+div.log_txt.textarea.scrollpane.selectable.os-host.os-theme-dark.os-host-resize-disabled.os-host-transition {
+    background: none;
+    color: var(--text-color);
+    background: var(--bg-color);
+    border: 1px solid var(--border-color);
+}
+
+/*Login Screen*/
+
+div#login div.background{
+    background: var(--bg-color);
+}
+div#login{
+    color: var(--text-color);
+}
+
+div.textarea.scrollpane.selectable.os-host.os-theme-dark.os-host-resize-disabled.os-host-transition.os-host-overflow.os-host-overflow-y {
+    background: none;
+    color: var(--text-color);
+    background: var(--bg-color);
+    border: 1px solid var(--border-color);
+}
+
+#logged_in div.background {
+    color: var(--text-color);
+    background: var(--bg-color);
+    border: 1px solid var(--border-color);
+}
+
+#logged_in_as_lbl {
+    color: var(--text-color);
+}
+
+#logged_in>span.username_txt {
+    color: var(--text-color);
+}
+
+/*Main Menu*/
+
+div.menu_btn img {
+    filter: saturate(30%) hue-rotate(23deg);
+}
+
+textarea.status_txt {
+    color: var(--text-color);
+    background: var(--bg-color);
+}
+
+/*Rankings*/
+
+.ranking_item.unselectable {
+    background: none;
+    color: var(--text-color);
+    background: #1c1c21;
+}
+
+#rankings>div.content.scrollpane.os-host.os-theme-dark.os-host-resize-disabled.os-host-transition.os-host-overflow.os-host-overflow-x.os-host-overflow-y>div.os-padding>div>div {
+    background-color: black;
+}
+
+/*Duel room*/
+
+#formats_inner {
+    filter: contrast(80%) saturate(50%);
+}
+
+/*Profile Viewer*/
+
+div.profile_txt.textarea.aliased.scrollpane.selectable.os-host.os-theme-dark.os-host-resize-disabled.os-host-transition, textarea.comment_txt {
+    background: none;
+    color: var(--text-color);
+    background: var(--bg-color);
+}
+
+#profile_content>div.os-padding>div>div>div.textinput.proxy {
+    color: var(--text-color);
+}
+
+/*My Profile*/
+
+textarea.profile_txt {
+    color: var(--text-color);
+    background: var(--bg-color);
+}
+
+/*Online Users*/
+
+div.os-content.os-list div.cell.cell1 {
+    color: var(--text-color);
+    background: var(--bg-color);
+}
+
+div#action_list div.cell.cell1 {
+    color: var(--text-color);
+    background: var(--bg-color);
+    margin: -2px;
+    border: solid 1px var(--border-color);
+}
+
+div.os-content.os-list div.cell.cell1.isAdmin.admin1 {
+    color: lightgreen;
+    background: var(--bg-color);
+}
+
+div.os-content.os-list div.cell.cell1.following {
+    color: lightskyblue;
+    background: var(--bg-color);
+}
+
+
+
+/*----------- SECTION: FONTS ---------*/
+
+
+
+/*FONT Main menu*/
+
+div.menu_btn {
+    font-family: var(--font-family);
+    font-weight: 700;
+}
+
+div.delete_btn {
+    font-family: var(--font-family);
+    font-weight: 400;
+}
+
+span.username_txt.selectable.size24 {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+span.not_link, span.link {
+    font-family: var(--font-family);
+    font-weight: 400;
+}
+
+div.reply_btn, div.date_txt.arial_rounded18 {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+div.status_txt.size18.cyan.selectable {
+    font-family: var(--font-family);
+    font-weight: 400;
+}
+
+/* FONT Tournaments*/
+
+div.desc_txt.size18.cyan.selectable {
+    font-family: var(--font-family);
+    font-weight: 400;
+}
+
+span.name_txt.selectable.size24 {
+    font-family: var(--font-family);
+    font-weight: 700;
+}
+
+/*FONT Name and LP*/
+
+span.username_txt.selectable {
+    font-family: var(--font-family);
+    font-weight: 600;
+    filter: drop-shadow(0px 1px 0px black);
+    padding-top: 1.5px;
+}
+
+span.life_txt {
+    font-family: var(--font-family);
+    font-weight: 600;
+    filter: drop-shadow(0px 1px 0px black);
+}
+
+/*FONT Card option pop up*/
+
+span.card_menu_txt {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+/* FONT Like count*/
+
+div.likes {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+/*FONT Profile Viewer*/
+
+div.stats span, span.views_lbl, span.views_txt.bisque, span.unfollow_btn, div.delete_btn.arial_rounded25, div.os-viewport.os-viewport-native-scrollbars-invisible {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+div.os-content.selectable.os-textarea {
+    font-family: var(--font-family);
+    font-weight: 400;
+}
+
+span.profile_lbl.kristenitc, span.comments_lbl.kristenitc, span.post_a_comment_lbl.kristenitc, span.friends_lbl.kristenitc {
+    font-family: var(--font-family);
+    font-weight: 700;
+}
+
+#profile_content>div.os-padding>div>div>div.textinput.proxy {
+    font-family: var(--font-family);
+    font-weight: 600;
+}
+
+#profile_username_txt {
+    font-family: var(--font-family);
+    font-weight: 600;
+}
+
+div.comment_txt.arial_rounded18.selectable.cyan {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+/*FONT Browse Users*/
+
+span.username_txt.bisque {
+    font-family: var(--font-family);
+    font-weight: 600;
+}
+
+div.desc_txt {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+/*FONT Friend Requests*/
+
+div.accept_btn.arial_rounded25 {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+div.deny_btn.arial_rounded25 {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+div.message_btn.arial_rounded25 {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+span.accept_all_btn.arial_rounded25 {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+#duel_records span {
+    font-family: var(--font-family);
+    font-weight: 600;
+}
+
+/*FONT Zone card counter
+(this one was pain in the ass to find)*/
+
+/*
+#cid1_txt, #cig1_txt, #cib1_txt, #cie1_txt, #cid2_txt, #cig2_txt, #cib2_txt, #cie2_txt, #hm1_txt, #hm2_txt, #hm3_txt, #hm4_txt, #hm5_txt, #om1_txt, #om2_txt, #om3_txt, #om4_txt, #om5_txt, #link_right_txt, #hl_txt, #ol_txt {
+    font-family: var(--font-family);
+    font-weight: 600;
+}*/
+
+/*FONT Post Status*/
+
+span.title_lbl.kristenitc, #post_status_btn {
+    font-family: var(--font-family);
+    font-weight: 600;
+}
+
+/*FONT Pop up message*/
+
+#msg, div.ok_btn {
+    font-family: var(--font-family);
+    font-weight: 600;
+}
+
+#confirm {
+    font-family: var(--font-family);
+    font-weight: 600;
+}
+
+span.connection_status {
+    font-family: var(--font-family);
+    font-weight: 600;
+}
+
+#welcome_buttons span{
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+#countdown2{
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+/* ICON REPLACEMENTS */
+
+#screenshot_btn>img {
+    content: url("https://www.svgrepo.com/show/326536/camera-outline.svg");
+    filter: invert();
+}
+
+#mute_btn>img {
+    content: url("https://www.svgrepo.com/show/326453/volume-off-outline.svg");
+    filter: invert();
+    scale: 140%;
+    left: -9px;
+    top: -1px;
+}
+
+#cross>img {
+  content: url("https://www.svgrepo.com/show/326571/close-outline.svg");
+  filter: invert();
+  scale: 90%;
+  left: 6px;
+  top: -1px;
+}
+
+#die_btn {
+  filter: invert();
+  scale: 116%;
+  top: 309px;
+}
+
+#die_btn>img {
+  content: url("https://www.svgrepo.com/show/326602/dice-outline.svg");
+}
+
+#coin_btn {
+  filter: invert();
+  top: 305px;
+}
+
+#coin_btn>img {
+  content: url("https://www.svgrepo.com/show/326612/ellipse-outline.svg");
+}
+
+#counter_btn>.content>.background {
+  content: url("https://www.svgrepo.com/show/326807/server-outline.svg");
+  filter: invert();
+  width: 100%;
+  height: 100%;
+  left: 3px;
+}
+
+#counter_btn>.content>.glow {
+  content: url("https://www.svgrepo.com/show/326612/ellipse-outline.svg");
+  filter: invert();
+  width: 100%;
+  height: 100%;
+  left: 3px;
+}
+
+#m1_counter,#m2_counter,#m3_counter,#m4_counter,#m5_counter {
+  transform: translate(45%, -45%);
+}
+
+#opp_m1_counter,#opp_m2_counter,#opp_m3_counter,#opp_m4_counter,#opp_m5_counter{
+  transform: translate(113%, 0%);
+}
+
+/*todo: add emz counters*/
+
+.counter>.content>img {
+  content: url("https://www.svgrepo.com/show/326773/radio-button-on-outline.svg");
+  filter: invert();
+  width: 100%;
+  height: 100%;
+  scale: 100%;
+}
+
+#plus_btn {
+  left: 538px;
+  filter: invert();
+}
+
+#plus_btn>img {
+  content: url("https://www.svgrepo.com/show/326463/add-circle-outline.svg");
+}
+
+#minus_btn {
+  left: 538px;
+  filter: invert();
+}
+
+#minus_btn>img {
+  content: url("https://www.svgrepo.com/show/326782/remove-circle-outline.svg"); 
+}
+
+#watchers_btn>img {
+  content: url("https://www.svgrepo.com/show/326627/eye-outline.svg");
+  filter: invert();
+}
+
+#log_btn>img {
+  content: url("https://www.svgrepo.com/show/326777/receipt-outline.svg");
+  filter: invert();
+}
+
+#online_btn>img {
+  content: url("https://www.svgrepo.com/show/326739/people-circle-outline.svg");
+  filter: invert();
+}
+
+#chat_btn>img {
+  content: url("https://www.svgrepo.com/show/326553/chatbubble-outline.svg");
+  filter: invert();
+}
+
+#private_btn>img {
+  content: url("https://www.svgrepo.com/show/326555/chatbubbles-outline.svg");
+  filter: invert();
+}
+
+#think_btn>img {
+  content: url("https://www.svgrepo.com/show/326847/time-outline.svg");
+  filter: invert();
+  scale: 120%;
+  left: -2px;
+  top: -1px
+}
+
+.think {
+  content: url("https://www.svgrepo.com/show/326677/hourglass-outline.svg");
+  filter: invert();
+}
+
+#good_btn>img {
+  content: url("https://www.svgrepo.com/show/326559/checkmark-done-circle-outline.svg");
+  filter: invert();
+}
+
+.all_good>img {
+  content: url("https://www.svgrepo.com/show/326842/thumbs-up-outline.svg");
+  filter: invert();
+}
+
+#shuffle_btn>img {
+  /*todo: add shuffle arrows, remove suits*/
+  content: url("https://www.svgrepo.com/show/82872/playing-cards.svg");
+  filter: invert();
+}
+
+#show_hand_btn>img[alt="Show Hand"] {
+  /*todo: add shuffle arrows, remove suits*/
+  content: url("https://www.svgrepo.com/show/82872/playing-cards.svg");
+  filter: invert();
+}
+
+#show_hand_btn>img.hand{
+  /*todo: maybe hide this? and use the other one to show*/
+  content: url("https://www.svgrepo.com/show/326662/hand-right-outline.svg");
+  filter: invert();
+}
+
+.sort_btn>img {
+  content: url("https://www.svgrepo.com/show/326832/swap-vertical-outline.svg");
+  filter: invert();
+}
+
+.info_btn>img {
+  content: url("https://www.svgrepo.com/show/326673/help-circle-outline.svg");
+  filter: invert();
+}
+
+#ss_spiral>img {
+  content: url("https://freesvg.org/img/Magic-Circle-Blank-03.png");
+  filter: invert();
+  scale: 50%;
+  transform-origin: center;
+}
+
+#ss_glow>img {
+  filter: hue-rotate(180deg);
+  scale: 50%;
+  transform-origin: center;
+}
+
+.custom {
+  content: url();
+}
+
+.tcg {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/tcg2.svg");
+}
+
+.ocg {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/ocg2.svg");
+}
+
+.limited {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/limited.svg");
+}
+
+.semi_limited {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/semi2.svg");
+}
+
+/* FONT REPLACEMENTS */
+
+/*FONT deck builder */
+
+#deck_constructor>.total_txt, .total_normal_txt, .total_effect_txt, .total_ritual_txt, .total_ritual_txt, .total_pendulum_txt, .total_spell_txt, .total_trap_txt {
+    font-family: SquareType B;
+    font-size: 28px;
+    color: white;
+    text-shadow: 0px 0px 5px #888888;
+}
+
+#search>.title_txt {
+  font-family: Work Sans Thin;
+  font-weight: 60;
+}
+
+/*FONT Field section*/
+
+span.gray_txt.arial_rounded25, span.white_txt.arial_rounded25 {
+    font-family: Work Sans Thin;
+}
+
+span.end_turn_txt.arial_rounded20 {
+    padding-left: 5px;
+    font-family: Work Sans Thin;
+    font-weight: 400;
+}
+
+span.start_turn_txt.arial_rounded20 {
+    padding-left: 6px;
+    font-family: Work Sans Thin;
+    font-weight: 400;
+}
+
+div div b {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+span.arial_rounded20 {
+    padding-top: 1px;
+    padding-left: 2px;
+    font-family: Work Sans Thin;
+    font-weight: 600;
+}
+
+.counter>.total_txt {
+  font-family: SquareType B;
+  left: -29%;
+  top: -37%;
+  font-size: 22px;
+}
+
+#field_stats>span {
+  /*font-family: SquareType B;*/
+  font-family: MatrixRegularSmallCaps;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+#om1_txt, #om2_txt, #om3_txt, #om4_txt, #om5_txt {
+  top: 150px;
+}
+
+#numbers>span {
+  font-family: SquareType B;
+  font-size: 32px;
+}
+
+#input>.title_txt, #input>.body_txt {
+  font-family: var(--font-family);
+  font-weight: 600;
+}
+
+/* UI ELEMENT REPLACEMENT */
+
+.phase .background, .phase .phase_dark_blue, .phase .phase_dark_red {
+  display: none;
+}
+
+#input {
+  background-image: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/msg_background.svg");
+}
+
+.phase_blue {
+  filter: invert();
+  scale: 115%;
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/phase_blue.svg");
+}
+
+.phase_red {
+  filter: invert();
+  scale: 115%;
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/phase_red.svg");
+}
+
+#view>.title_txt {
+  top: 6px;
+}
+
+#view>img {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/vvv2.svg");
+}
+
+#view>.content {
+  width: 583px;
+}
+
+.exit_btn {
+  content: url("https://www.svgrepo.com/show/326572/close-circle-outline.svg");
+  top: 6px;
+  left: 565px;
+  filter: invert();
+}
+
+#overlay>img {
+  content: url("https://www.svgrepo.com/show/195652/orbit.svg");
+  filter: invert();
+  scale: 50%;
+}
+
+.checkbox {
+  background-image: url("https://www.svgrepo.com/show/326821/square-outline.svg");
+  filter: invert();
+}
+
+.check {
+  content: url("https://www.svgrepo.com/show/326560/checkmark-outline.svg");
+}
+
+#sword>img {
+  display: none;
+}
+
+#field_spell_pic {
+  left: 289px;
+  top: 61px;
+  width: 461px;
+  height: 461px;
+  filter: blur(3px);
+}
+
+/*red_stream, blue_stream for attack declarations*/
+
+#field_zones2 {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_zones2.svg");
+}
+
+#field_decks2 {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_decks2.svg");
+}
+
+.deck_constructor {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/deck_constructor2.svg");
+}
+
+#search>img {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/search.svg");
+}
