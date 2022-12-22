@@ -26,6 +26,8 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  * Extra Monster Zones counter positions
  
  * Better phase button spacing and centering
+ 
+ * Fix TCG and OCG labels
 
 ## Credits
 
