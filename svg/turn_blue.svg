@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="turn_blue.svg"
+   version="1.1"
+   viewBox="0 0 80 29"
+   data-name="Layer 1"
+   id="Layer_1">
+  <svg:metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="Layer_1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:cy="14.5"
+     inkscape:cx="40"
+     inkscape:zoom="37.642194"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     showgrid="false"
+     id="namedview17"
+     inkscape:window-height="2066"
+     inkscape:window-width="3840"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <script
+     id="current-song-media-session-proxy" />
+  <svg:defs
+     id="defs9">
+    <svg:style
+       id="style2">.cls-1{fill:url(#radial-gradient);}</svg:style>
+    <svg:radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.38, 0, 0, -0.4, 57.2, 31.84)"
+       r="134.79"
+       cy="43.74"
+       cx="-45.31"
+       id="radial-gradient">
+      <svg:stop
+         id="stop4"
+         stop-color="blue"
+         offset="0" />
+      <svg:stop
+         id="stop6"
+         offset="1" />
+    </svg:radialGradient>
+  </svg:defs>
+  <svg:title
+     id="title11">turn_blue</svg:title>
+  <svg:text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:5.33333px;line-height:1.25;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';letter-spacing:0.7px;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="12.20943"
+     y="27.512642"
+     id="text900"><svg:tspan
+       sodipodi:role="line"
+       id="tspan898"
+       x="12.20943"
+       y="27.512642"
+       style="font-size:5.33333px;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">OPPONENT'S TURN</svg:tspan></svg:text>
+</svg:svg>
