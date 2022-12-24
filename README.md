@@ -21,7 +21,7 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  
  * DUEL! arrow on title screen
  
- * Better shuffle and reveal hand button graphics
+ * ~~Better shuffle and reveal hand button graphics~~
  
  * ~~Extra Monster Zones counter positions~~
  
