@@ -621,14 +621,16 @@ span.connection_status {
 }
 
 #m1_counter,#m2_counter,#m3_counter,#m4_counter,#m5_counter {
-  transform: translate(45%, -45%);
+  transform: translate(45%, -40%);
 }
 
 #opp_m1_counter,#opp_m2_counter,#opp_m3_counter,#opp_m4_counter,#opp_m5_counter{
   transform: translate(113%, 0%);
 }
 
-/*todo: add emz counters*/
+#left_link_counter, right_link_counter {
+  transform: translate(45%, -40%);
+}
 
 .counter>.content>img {
   content: url("https://www.svgrepo.com/show/326773/radio-button-on-outline.svg");
@@ -783,19 +785,29 @@ span.connection_status {
 
 /*FONT Field section*/
 
+#cib1_txt {
+  left: 772.5px;
+}
+
+#cig1_txt {
+  left: 757.5px;
+}
+
 span.gray_txt.arial_rounded25, span.white_txt.arial_rounded25 {
     font-family: Work Sans Thin;
 }
 
 span.end_turn_txt.arial_rounded20 {
-    padding-left: 5px;
-    font-family: Work Sans Thin;
+    transform: scaleX(79%);
+    transform-origin: left;
+    font-family: var(--font-family);
     font-weight: 400;
 }
 
 span.start_turn_txt.arial_rounded20 {
-    padding-left: 6px;
-    font-family: Work Sans Thin;
+    transform: scaleX(73%);
+    transform-origin: left;
+    font-family: var(--font-family);
     font-weight: 400;
 }
 
@@ -807,7 +819,7 @@ div div b {
 span.arial_rounded20 {
     padding-top: 1px;
     padding-left: 2px;
-    font-family: Work Sans Thin;
+    font-family: var(--font-family);
     font-weight: 600;
 }
 
@@ -845,8 +857,58 @@ span.arial_rounded20 {
   display: none;
 }
 
+#sp>span, #ep>span {
+  left: 4.5px;
+}
+
+#m1 {
+  left: 467px;
+}
+
+#bp {
+  left: 516px;
+}
+
+#bp>span {
+  left: 4px;
+}
+
+#m2>span {
+  left: 4px;
+}
+
+#turn>.background, #start_turn>.background, #end_turn>.background {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/turn_background.svg");
+  filter: invert();
+}
+
+#turn>.blue {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/turn_blue.svg");
+  filter: invert();
+}
+
+#turn>.red, #start_turn>.red, #end_turn>.red {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/turn_red.svg");
+  filter: invert();
+}
+
+#start_turn>.green, #end_turn>.green {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/turn_green.svg");
+  filter: invert();
+}
+
+#end_turn>.yellow {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/turn_yellow.svg");
+  filter: invert();
+}
+
+.white_glow {
+  display: none;
+}
+
 #input {
   background-image: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/msg_background.svg");
+  filter: invert();
 }
 
 .phase_blue {

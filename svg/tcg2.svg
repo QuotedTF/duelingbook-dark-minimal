@@ -6,12 +6,12 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="tcg2.svg"
-   version="1.1"
-   viewBox="0 0 250 120"
+   id="Layer_1"
    data-name="Layer 1"
-   id="Layer_1">
+   viewBox="0 0 250 120"
+   version="1.1"
+   sodipodi:docname="tcg2.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <svg:metadata
      id="metadata20">
     <rdf:RDF>
@@ -25,32 +25,38 @@
     </rdf:RDF>
   </svg:metadata>
   <sodipodi:namedview
-     inkscape:current-layer="Layer_1"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-11"
-     inkscape:window-x="-11"
-     inkscape:cy="66.28372"
-     inkscape:cx="123.43969"
-     inkscape:zoom="8.5174561"
-     inkscape:snap-center="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:bbox-nodes="true"
-     inkscape:bbox-paths="true"
-     inkscape:snap-bbox="true"
-     showgrid="false"
-     id="namedview18"
-     inkscape:window-height="2066"
-     inkscape:window-width="3840"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     id="namedview18"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:zoom="10.932348"
+     inkscape:cx="123.45571"
+     inkscape:cy="52.386832"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1008" />
   <script
      id="current-song-media-session-proxy" />
   <svg:defs
@@ -61,54 +67,58 @@
   <svg:title
      id="title6">ocg2</svg:title>
   <svg:path
-     d="M 0.69162437,0.71415455 V 59.151659 L 61.105687,119.56572 H 249.54318 V 0.71415455 Z"
+     id="rect845"
      style="fill:#0099ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;stop-color:#000000"
-     id="rect845" />
+     d="M 0.69162437,0.71415455 V 59.151659 L 61.105687,119.56572 H 249.54318 V 0.71415455 Z" />
   <svg:path
-     id="rect845-6"
+     d="M 10.497002,5.3972053 V 59.229537 L 66.150133,114.88267 H 239.7378 V 5.3972053 Z"
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.921192;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;stop-color:#000000"
-     d="M 10.497002,5.3972053 V 59.229537 L 66.150133,114.88267 H 239.7378 V 5.3972053 Z" />
+     id="rect845-6" />
   <svg:g
-     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1"
-     inkscape:groupmode="layer" />
+     inkscape:label="Layer 1" />
   <svg:g
-     inkscape:label="Layer 2"
+     inkscape:groupmode="layer"
      id="layer2"
-     inkscape:groupmode="layer">
+     inkscape:label="Layer 2">
     <svg:g
-       transform="translate(0,-2)"
-       id="g1008">
-      <svg:text
-         xml:space="preserve"
+       id="g1008"
+       transform="translate(0,-2)">
+      <svg:g
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:110.072px;line-height:1.25;font-family:'SquareType B';-inkscape-font-specification:'SquareType B Bold';letter-spacing:3px;fill:#ffffff;fill-opacity:1;stroke-width:2.29317"
-         x="49.683983"
-         y="87.657913"
-         id="text897"><svg:tspan
-           id="tspan895"
-           x="49.683983"
-           y="87.657913"
-           sodipodi:role="line"
-           style="stroke-width:2.29317">tcg</svg:tspan></svg:text>
-      <svg:rect
-         y="99.737297"
-         x="224.59242"
-         height="15.145368"
-         width="15.145368"
-         id="rect946"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25243;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;stop-color:#000000" />
-      <svg:text
-         id="text897-0"
-         y="234.55098"
-         x="-111.34534"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:110.072px;line-height:1.25;font-family:'SquareType B';-inkscape-font-specification:'SquareType B Bold';fill:#ffffff;fill-opacity:1;stroke-width:2.29317"
-         xml:space="preserve"
-         transform="rotate(-90)"><svg:tspan
+         id="text897"
+         aria-label="tcg">
+        <svg:path
+           id="path845"
            style="stroke-width:2.29317"
-           sodipodi:role="line"
-           y="234.55098"
-           x="-111.34534"
-           id="tspan922">L</svg:tspan></svg:text>
+           d="m 57.609167,11.047802 v 22.56476 q 1.210792,-0.55036 2.311512,-0.770504 1.210792,-0.330216 2.531656,-0.330216 h 0.330216 41.937429 v 7.925184 H 62.782551 q -2.20144,0 -3.742448,1.541008 -1.430936,1.430936 -1.430936,3.632376 v 28.948935 q 0,2.091368 1.430936,3.632376 1.430936,1.430936 3.522304,1.541008 h 29.059007 q 2.20144,0 3.632376,-1.430936 1.541008,-1.541008 1.541008,-3.632376 h 7.925182 q 0,2.531656 -0.99065,4.733096 -0.88057,2.20144 -2.42158,3.962592 -1.541008,1.761152 -3.742448,2.861872 -2.20144,1.10072 -4.623024,1.320864 v 0.110072 H 91.621414 62.562407 62.452335 q -2.641728,-0.110072 -4.95324,-1.10072 -2.311512,-1.10072 -4.072664,-2.861872 -1.761152,-1.761152 -2.7518,-4.072664 -0.990648,-2.421584 -0.990648,-5.063312 V 11.047802 Z" />
+        <svg:path
+           id="path847"
+           style="stroke-width:2.29317"
+           d="m 127.48307,32.621914 h 28.83886 q 2.64173,0 5.06331,1.10072 2.42159,0.990648 4.18274,2.7518 1.76115,1.761152 2.7518,4.182736 1.10072,2.421584 1.10072,5.063312 h -7.92519 q 0,-2.20144 -1.541,-3.632376 -1.43094,-1.541008 -3.63238,-1.541008 h -28.83886 q -2.20144,0 -3.74245,1.541008 -1.43094,1.430936 -1.43094,3.632376 v 28.838863 q 0,2.20144 1.43094,3.742448 1.54101,1.430936 3.74245,1.430936 h 28.83886 q 2.20144,0 3.63238,-1.430936 1.541,-1.541008 1.541,-3.742448 h 7.92519 q 0,2.7518 -1.10072,5.173384 -0.99065,2.311512 -2.7518,4.072664 -1.76115,1.761152 -4.18274,2.861872 -2.42158,0.990648 -5.06331,0.990648 h -28.83886 q -2.7518,0 -5.17339,-0.990648 -2.31151,-1.10072 -4.07266,-2.861872 -1.76115,-1.761152 -2.86187,-4.072664 -0.99065,-2.421584 -0.99065,-5.173384 V 45.720482 q 0,-2.641728 0.99065,-5.063312 1.10072,-2.421584 2.86187,-4.182736 1.76115,-1.761152 4.07266,-2.7518 2.42159,-1.10072 5.17339,-1.10072 z" />
+        <svg:path
+           id="path849"
+           style="stroke-width:2.29317"
+           d="m 221.45241,32.621914 q 2.64173,0 5.06331,1.10072 2.42158,0.990648 4.18274,2.7518 1.76115,1.761152 2.7518,4.182736 1.10072,2.421584 1.10072,5.063312 v 28.838863 0.990648 33.682027 h -7.92519 V 86.557193 q -2.31151,1.10072 -5.17338,1.10072 h -28.83887 q -2.7518,0 -5.17338,-0.990648 -2.31151,-1.10072 -4.07266,-2.861872 -1.76116,-1.761152 -2.86188,-4.072664 -0.99064,-2.421584 -0.99064,-5.173384 V 45.720482 q 0,-2.641728 0.99064,-5.063312 1.10072,-2.421584 2.86188,-4.182736 1.76115,-1.761152 4.07266,-2.7518 2.42158,-1.10072 5.17338,-1.10072 z m 5.17338,13.098568 q 0,-2.20144 -1.54101,-3.632376 -1.43093,-1.541008 -3.63237,-1.541008 h -28.83887 q -2.20144,0 -3.74244,1.541008 -1.43094,1.430936 -1.43094,3.632376 v 28.838863 q 0,2.20144 1.43094,3.742448 1.541,1.430936 3.74244,1.430936 h 28.83887 q 1.98129,0 3.41223,-1.320864 1.54101,-1.320864 1.76115,-3.192088 v -0.660432 z" />
+      </svg:g>
+      <svg:rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25243;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;stop-color:#000000"
+         id="rect946"
+         width="15.145368"
+         height="15.145368"
+         x="224.59242"
+         y="99.737297" />
+      <svg:g
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:110.072px;line-height:1.25;font-family:'SquareType B';-inkscape-font-specification:'SquareType B Bold';fill:#ffffff;fill-opacity:1;stroke-width:2.29317"
+         id="text897-0"
+         transform="rotate(-90)"
+         aria-label="L">
+        <svg:path
+           id="path852"
+           style="stroke-width:2.29317"
+           d="m -103.42015,158.05094 v 63.40147 q 0,2.09137 1.43093,3.63238 1.43094,1.43093 3.522307,1.54101 v 7.92518 q -2.641727,0 -5.063317,-0.99065 -2.31151,-1.10072 -4.07266,-2.86187 -1.76115,-1.87122 -2.7518,-4.18274 -0.99065,-2.42158 -0.99065,-5.06331 v -63.40147 z" />
+      </svg:g>
     </svg:g>
   </svg:g>
 </svg:svg>

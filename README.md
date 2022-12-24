@@ -13,7 +13,7 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
 
 ## To Do List
 
- * End turn and Start turn buttons
+ * End turn and Start turn buttons (WIP)
  
  * "Declare" spark graphic
  
@@ -23,11 +23,13 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  
  * Better shuffle and reveal hand button graphics
  
- * Extra Monster Zones counter positions
+ * ~~Extra Monster Zones counter positions~~
  
- * Better phase button spacing and centering
+ * ~~Better phase button spacing and centering~~
  
- * Fix TCG and OCG labels
+ * ~~Fix TCG and OCG labels~~
+ 
+ * Better Rock / Paper / Scissors images
 
 ## Credits
 
