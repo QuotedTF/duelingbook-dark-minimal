@@ -707,21 +707,17 @@ span.connection_status {
 }
 
 #shuffle_btn>img {
-  /*todo: add shuffle arrows, remove suits*/
-  content: url("https://www.svgrepo.com/show/82872/playing-cards.svg");
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/shuffle.svg");
   filter: invert();
 }
 
 #show_hand_btn>img[alt="Show Hand"] {
-  /*todo: add shuffle arrows, remove suits*/
-  content: url("https://www.svgrepo.com/show/82872/playing-cards.svg");
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/show_hand.svg");
   filter: invert();
 }
 
 #show_hand_btn>img.hand{
-  /*todo: maybe hide this? and use the other one to show*/
-  content: url("https://www.svgrepo.com/show/326662/hand-right-outline.svg");
-  filter: invert();
+  display: none;
 }
 
 .sort_btn>img {
