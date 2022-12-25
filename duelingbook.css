@@ -967,8 +967,24 @@ span.arial_rounded20 {
 
 /*red_stream, blue_stream for attack declarations*/
 
+#field_zones {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_zones.svg");
+}
+
 #field_zones2 {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_zones2.svg");
+}
+
+#field_zones3 {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_zones3.svg");
+}
+
+#field_zones4 {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_zones4.svg");
+}
+
+#field_decks {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_decks.svg");
 }
 
 #field_decks2 {
