@@ -30,6 +30,8 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  * ~~Fix TCG and OCG labels~~
  
  * Better Rock / Paper / Scissors images
+ 
+ * Public chat and online users window icons
 
 ## Credits
 

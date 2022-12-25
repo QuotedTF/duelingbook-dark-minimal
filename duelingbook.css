@@ -847,6 +847,12 @@ span.arial_rounded20 {
   font-weight: 600;
 }
 
+#msg>.title_txt, #msg>.body_txt {
+  font-family: var(--font-family);
+  font-weight: 600;
+  text-align: center;
+}
+
 /* UI ELEMENT REPLACEMENT */
 
 .phase .background, .phase .phase_dark_blue, .phase .phase_dark_red {
@@ -902,9 +908,12 @@ span.arial_rounded20 {
   display: none;
 }
 
+#msg {
+  background-image: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/msg_background.svg");
+}
+
 #input {
   background-image: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/msg_background.svg");
-  filter: invert();
 }
 
 .phase_blue {
