@@ -17,7 +17,7 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  
  * "Declare" spark graphic
  
- * Field zones and decks for other formats (MR3, Speed duels)
+ * ~~Field zones and decks for other formats (MR3, Speed duels)~~
  
  * DUEL! arrow on title screen
  

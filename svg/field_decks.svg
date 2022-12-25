@@ -1,1 +1,119 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 640"><script xmlns="" id="current-song-media-session-proxy"/><defs><style>.cls-1{fill-opacity:0.2;}.cls-2,.cls-3{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.5px;}.cls-2{stroke:url(#linear-gradient);}.cls-3{stroke:url(#linear-gradient-2);}</style><linearGradient id="linear-gradient" x1="-1.25" y1="594.5" x2="626.05" y2="594.5" gradientTransform="matrix(1, 0, 0, -1, 207, 647)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00b400"/><stop offset="1" stop-color="#ff8f00"/></linearGradient><linearGradient id="linear-gradient-2" x1="-1.25" y1="115.5" x2="626.05" y2="115.5" gradientTransform="matrix(1, 0, 0, -1, 207, 647)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="red"/><stop offset="1" stop-color="#90f"/></linearGradient></defs><title>field_decks</title><g id="field_decks_mc" data-name="field decks mc"><g id="field_decks_mc_0_Layer0_0_FILL" data-name="field decks mc 0 Layer0 0 FILL"><path class="cls-1" d="M833,492q0-6-6-6H775q-6,0-6,6v79q0,6,6,6h52q6,0,6-6V492m-620-6q-6,0-6,6v79q0,6,6,6h52q6,0,6-6V492q0-6-6-6H213M271,13q0-6-6-6H213q-6,0-6,6V92q0,6,6,6h52q6,0,6-6V13m562,0q0-6-6-6H775q-6,0-6,6V92q0,6,6,6h52q6,0,6-6Z"/></g><path id="field_decks_mc_0_Layer0_0_1_STROKES" data-name="field decks mc 0 Layer0 0 1 STROKES" class="cls-2" d="M827,7H775q-6,0-6,6V92q0,6,6,6h52q6,0,6-6V13Q833,7,827,7ZM265,7H213q-6,0-6,6V92q0,6,6,6h52q6,0,6-6V13Q271,7,265,7Z"/><path id="field_decks_mc_0_Layer0_0_2_STROKES" data-name="field decks mc 0 Layer0 0 2 STROKES" class="cls-3" d="M265,486H213q-6,0-6,6v79q0,6,6,6h52q6,0,6-6V492Q271,486,265,486Zm562,0H775q-6,0-6,6v79q0,6,6,6h52q6,0,6-6V492Q833,486,827,486Z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="field_decks.svg"
+   version="1.1"
+   viewBox="0 0 1024 640"
+   data-name="Layer 1"
+   id="Layer_1">
+  <svg:metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="Layer_1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:cy="91.678864"
+     inkscape:cx="266.84107"
+     inkscape:zoom="8.0861925"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     showgrid="false"
+     id="namedview25"
+     inkscape:window-height="2066"
+     inkscape:window-width="3840"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <script
+     id="current-song-media-session-proxy" />
+  <svg:defs
+     id="defs14">
+    <svg:style
+       id="style2">.cls-1{fill-opacity:0.2;}.cls-2,.cls-3{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.5px;}.cls-2{stroke:url(#linear-gradient);}.cls-3{stroke:url(#linear-gradient-2);}</svg:style>
+    <svg:linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1, 0, 0, -1, 207, 647)"
+       y2="594.5"
+       x2="626.05"
+       y1="594.5"
+       x1="-1.25"
+       id="linear-gradient">
+      <svg:stop
+         id="stop4"
+         stop-color="#00b400"
+         offset="0" />
+      <svg:stop
+         id="stop6"
+         stop-color="#ff8f00"
+         offset="1" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1, 0, 0, -1, 207, 647)"
+       y2="115.5"
+       x2="626.05"
+       y1="115.5"
+       x1="-1.25"
+       id="linear-gradient-2">
+      <svg:stop
+         id="stop9"
+         stop-color="red"
+         offset="0" />
+      <svg:stop
+         id="stop11"
+         stop-color="#90f"
+         offset="1" />
+    </svg:linearGradient>
+  </svg:defs>
+  <svg:title
+     id="title16">field_decks</svg:title>
+  <svg:rect
+     y="7.8478613"
+     x="770.14044"
+     height="89.154846"
+     width="61.486111"
+     id="rect1086-8-3-4"
+     style="display:inline;opacity:1;fill:#000000;fill-opacity:0.298039;stroke:#feffff;stroke-width:0.498097;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000" />
+  <svg:rect
+     y="486.92941"
+     x="770.05536"
+     height="89.154846"
+     width="61.486111"
+     id="rect1086-8-3-4-8"
+     style="display:inline;opacity:1;fill:#000000;fill-opacity:0.298039;stroke:#feffff;stroke-width:0.498097;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000" />
+  <svg:rect
+     y="486.92065"
+     x="208.24741"
+     height="89.154846"
+     width="61.486111"
+     id="rect1086-8-3-4-2"
+     style="display:inline;opacity:1;fill:#000000;fill-opacity:0.298039;stroke:#feffff;stroke-width:0.498097;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000" />
+  <svg:rect
+     y="7.8576384"
+     x="208.18275"
+     height="89.154846"
+     width="61.486111"
+     id="rect1086-8-3-4-0"
+     style="display:inline;opacity:1;fill:#000000;fill-opacity:0.298039;stroke:#feffff;stroke-width:0.498097;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000" />
+</svg:svg>
