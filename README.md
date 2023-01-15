@@ -17,6 +17,7 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  * ~~End turn and Start turn buttons~~
  
  * "Declare" spark graphic
+   * There is no static "spark" graphic, the svg is generated dynamically on demand with a javascript library. I'd like for this project to not use Tampermonkey (or similar), but I'm afraid that this is not going to be doable without fiddling with the js and the aforementioned library especially
  
  * ~~Field zones and decks for other formats (MR3, Speed duels)~~
  

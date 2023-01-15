@@ -41,7 +41,7 @@ body {
 /*In duel avatar*/
 
 /*#avatar1>img.image {
-	content: url(https://mykes.s-ul.eu/aNMvZwxh);
+    content: url(https://mykes.s-ul.eu/aNMvZwxh);
 }*/
 
 /*Hide default background*/
@@ -543,15 +543,23 @@ span.title_lbl.kristenitc, #post_status_btn {
 }
 
 /*FONT Pop up message*/
-
-#msg, div.ok_btn {
+#msg, #confirm, #confirm2, #combo {
     font-family: var(--font-family);
     font-weight: 600;
 }
 
-#confirm, #confirm2 {
-    font-family: var(--font-family);
-    font-weight: 600;
+.combo_cb>option {
+  font-family: var(--font-family);
+  font-weight: 200;
+}
+
+.combobox.proxy {
+  font-family: var(--font-family);
+  font-weight: 600;
+}
+
+.combobox_arrow {
+  filter: invert();
 }
 
 span.connection_status {
@@ -934,7 +942,7 @@ span.arial_rounded20 {
   display: none;
 }
 
-#msg, #confirm, #confirm2 {
+#msg, #confirm, #confirm2, #combo {
   background-image: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/msg_background.svg");
 }
 
