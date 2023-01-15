@@ -6,12 +6,12 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="Layer_1"
-   data-name="Layer 1"
-   viewBox="0 0 234.85 78.5"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="cancel_btn.svg"
    version="1.1"
-   sodipodi:docname="cancel_btn_up.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   viewBox="0 0 234.85 78.5"
+   data-name="Layer 1"
+   id="Layer_1">
   <svg:metadata
      id="metadata43">
     <rdf:RDF>
@@ -24,32 +24,32 @@
     </rdf:RDF>
   </svg:metadata>
   <sodipodi:namedview
-     inkscape:document-rotation="0"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="3840"
-     inkscape:window-height="2066"
-     id="namedview41"
-     showgrid="false"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-paths="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:zoom="11.637585"
-     inkscape:cx="134.46194"
-     inkscape:cy="10.84747"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:current-layer="Layer_1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" />
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:cy="36.464759"
+     inkscape:cx="100.54026"
+     inkscape:zoom="7.4685518"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     showgrid="false"
+     id="namedview41"
+     inkscape:window-height="2066"
+     inkscape:window-width="3840"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <script
      id="current-song-media-session-proxy" />
   <svg:defs
@@ -57,59 +57,59 @@
     <svg:style
        id="style2">.cls-1{fill:none;}.cls-2{fill:#ccc;}.cls-3{fill:url(#linear-gradient);}.cls-4{clip-path:url(#clip-path);}.cls-5{isolation:isolate;}</svg:style>
     <svg:linearGradient
-       id="linear-gradient"
-       x1="549.32"
-       y1="-375.14"
-       x2="549.32"
-       y2="-301.32"
+       gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.55, 0, 0, -0.98, -734.16, -292.84)"
-       gradientUnits="userSpaceOnUse">
+       y2="-301.32"
+       x2="549.32"
+       y1="-375.14"
+       x1="549.32"
+       id="linear-gradient">
       <svg:stop
-         offset="0"
+         id="stop4"
          stop-color="#696969"
-         id="stop4" />
+         offset="0" />
       <svg:stop
-         offset="1"
+         id="stop6"
          stop-color="#ccc"
-         id="stop6" />
+         offset="1" />
     </svg:linearGradient>
     <svg:clipPath
-       id="clip-path"
-       transform="translate(-0.02)">
+       transform="translate(-0.02)"
+       id="clip-path">
       <svg:rect
-         class="cls-1"
-         x="25.35"
-         y="6.15"
-         width="184.1"
+         id="rect9"
          height="65.35"
-         id="rect9" />
+         width="184.1"
+         y="6.15"
+         x="25.35"
+         class="cls-1" />
     </svg:clipPath>
   </svg:defs>
   <svg:title
      id="title14">cancel_btn_up</svg:title>
   <svg:rect
-     y="0.01499939"
-     x="-0.02"
-     height="78.470001"
-     width="234.86"
-     id="rect862"
-     style="fill:#404040;fill-opacity:1;stroke:none;stroke-width:3.995;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dashoffset:6.80315;stop-color:#000000" />
+     style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:0.499532;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;stop-color:#000000"
+     id="rect862-9"
+     width="234.41727"
+     height="40.001133"
+     x="0.42300642"
+     y="19.249434" />
   <svg:rect
-     y="76.485001"
-     x="-0.02"
-     height="2"
-     width="234.86"
-     id="rect1472"
-     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.339643;stroke-linecap:square;stroke-dashoffset:6.80315;stop-color:#000000" />
+     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.479877;stroke-linecap:square;stroke-dashoffset:6.80315;stop-color:#000000"
+     id="rect1472-3"
+     width="234.41698"
+     height="4"
+     x="0.42315137"
+     y="55.250565" />
   <svg:text
-     id="text1150"
-     y="68.021317"
-     x="0.45905483"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80.9452px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:-6px;stroke-width:1.68635"
-     xml:space="preserve"><svg:tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.68635"
-       y="68.021317"
-       x="0.45905483"
-       id="tspan1148"
-       sodipodi:role="line">Cancel</svg:tspan></svg:text>
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.8227px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.704637"
+     x="62.274704"
+     y="49.155849"
+     id="text1150-3"><svg:tspan
+       sodipodi:role="line"
+       id="tspan1148-0"
+       x="62.274704"
+       y="49.155849"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.704637">Cancel</svg:tspan></svg:text>
 </svg:svg>

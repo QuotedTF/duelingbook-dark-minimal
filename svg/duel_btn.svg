@@ -6,12 +6,12 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="duel_btn.svg"
-   version="1.1"
-   viewBox="0 0 307.95 171.25"
+   id="Layer_1"
    data-name="Layer 1"
-   id="Layer_1">
+   viewBox="0 0 307.95 171.25"
+   version="1.1"
+   sodipodi:docname="duel_btn.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <svg:metadata
      id="metadata36">
     <rdf:RDF>
@@ -24,33 +24,33 @@
     </rdf:RDF>
   </svg:metadata>
   <sodipodi:namedview
-     inkscape:snap-text-baseline="false"
-     inkscape:current-layer="Layer_1"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-11"
-     inkscape:window-x="-11"
-     inkscape:cy="47.141048"
-     inkscape:cx="147.04496"
-     inkscape:zoom="5.6956953"
-     inkscape:snap-center="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     showgrid="false"
-     id="namedview34"
-     inkscape:window-height="2066"
-     inkscape:window-width="3840"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     bordercolor="#666666"
+     inkscape:document-rotation="0"
      pagecolor="#ffffff"
-     inkscape:document-rotation="0" />
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     id="namedview34"
+     showgrid="false"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:zoom="5.1693421"
+     inkscape:cx="201.74094"
+     inkscape:cy="106.14516"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1"
+     inkscape:snap-text-baseline="false" />
   <script
      id="current-song-media-session-proxy" />
   <svg:defs
@@ -58,92 +58,106 @@
     <svg:style
        id="style2">.cls-1,.cls-4{fill:none;}.cls-2{fill:#fff;}.cls-3{fill:#06f;}.cls-4{stroke:blue;stroke-linecap:round;stroke-linejoin:round;stroke-width:5px;}.cls-5{clip-path:url(#clip-path);}.cls-6{isolation:isolate;}</svg:style>
     <svg:clipPath
-       transform="translate(2.5 2.5)"
-       id="clip-path">
+       id="clip-path"
+       transform="translate(2.5 2.5)">
       <svg:rect
-         id="rect4"
-         height="73.45"
-         width="190.3"
-         y="46.4"
+         class="cls-1"
          x="19"
-         class="cls-1" />
+         y="46.4"
+         width="190.3"
+         height="73.45"
+         id="rect4" />
     </svg:clipPath>
     <svg:mask
-       id="mask875"
-       maskUnits="userSpaceOnUse">
-      <svg:rect
-         transform="rotate(-45)"
-         y="25.69643"
-         x="-163.49792"
-         height="289.3334"
-         width="454.66684"
-         id="rect877"
-         style="fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:12.6309;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dashoffset:6.80315;stop-color:#000000" />
-    </svg:mask>
-    <svg:mask
-       id="mask879"
-       maskUnits="userSpaceOnUse">
-      <svg:rect
-         transform="rotate(-45)"
-         y="25.69643"
-         x="-163.49792"
-         height="289.3334"
-         width="454.66684"
-         id="rect881"
-         style="fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:12.6309;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dashoffset:6.80315;stop-color:#000000" />
-    </svg:mask>
-    <svg:mask
-       id="mask883"
-       maskUnits="userSpaceOnUse">
-      <svg:rect
-         transform="rotate(-45)"
-         y="25.69643"
-         x="-163.49792"
-         height="289.3334"
-         width="454.66684"
-         id="rect885"
-         style="fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:12.6309;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dashoffset:6.80315;stop-color:#000000" />
-    </svg:mask>
-    <svg:mask
        maskUnits="userSpaceOnUse"
-       id="mask879-4">
+       id="mask875">
       <svg:rect
          style="fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:12.6309;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dashoffset:6.80315;stop-color:#000000"
-         id="rect881-0"
+         id="rect877"
          width="454.66684"
          height="289.3334"
          x="-163.49792"
          y="25.69643"
          transform="rotate(-45)" />
     </svg:mask>
+    <svg:mask
+       maskUnits="userSpaceOnUse"
+       id="mask879">
+      <svg:rect
+         style="fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:12.6309;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dashoffset:6.80315;stop-color:#000000"
+         id="rect881"
+         width="454.66684"
+         height="289.3334"
+         x="-163.49792"
+         y="25.69643"
+         transform="rotate(-45)" />
+    </svg:mask>
+    <svg:mask
+       maskUnits="userSpaceOnUse"
+       id="mask883">
+      <svg:rect
+         style="fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:12.6309;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dashoffset:6.80315;stop-color:#000000"
+         id="rect885"
+         width="454.66684"
+         height="289.3334"
+         x="-163.49792"
+         y="25.69643"
+         transform="rotate(-45)" />
+    </svg:mask>
+    <svg:mask
+       id="mask879-4"
+       maskUnits="userSpaceOnUse">
+      <svg:rect
+         transform="rotate(-45)"
+         y="25.69643"
+         x="-163.49792"
+         height="289.3334"
+         width="454.66684"
+         id="rect881-0"
+         style="fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:12.6309;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dashoffset:6.80315;stop-color:#000000" />
+    </svg:mask>
   </svg:defs>
   <svg:title
      id="title9">duel_btn_up</svg:title>
   <svg:rect
-     mask="url(#mask883)"
-     style="fill:#404040;fill-opacity:1;stroke:none;stroke-width:6.36465;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dashoffset:6.80315;stop-color:#000000"
-     id="rect862"
-     width="302.39511"
+     y="8.4812546"
+     x="2.8023198"
      height="154.68671"
-     x="2.8023198"
-     y="8.4812546" />
-  <svg:rect
-     mask="url(#mask879)"
-     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.541106;stroke-linecap:square;stroke-dashoffset:6.80315;stop-color:#000000"
-     id="rect1472"
      width="302.39511"
-     height="3.9425697"
+     id="rect862"
+     style="fill:#404040;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dashoffset:6.80315;stop-color:#000000;stroke-opacity:1;stroke-dasharray:none"
+     mask="url(#mask883)" />
+  <svg:rect
+     transform="matrix(0.99680148,0,0,1,0.36540379,-0.48362055)"
+     y="159.22539"
      x="2.8023198"
-     y="159.22539" />
+     height="3.9425697"
+     width="302.39511"
+     id="rect1472"
+     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.541106;stroke-linecap:square;stroke-dashoffset:6.80315;stop-color:#000000"
+     mask="url(#mask879)" />
   <svg:text
-     id="text849"
-     y="122.62633"
-     x="18.30257"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:104.608px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:-9.08763px;fill:#ffffff;stroke-width:2.17933"
-     xml:space="preserve"><svg:tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:2.17933"
-       y="122.62633"
-       x="18.30257"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.3798px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:-4.55038px;fill:#ffffff;stroke-width:1.09124;text-anchor:end;text-align:end;"
+     x="270.81662"
+     y="74.179825"
+     id="text849"><svg:tspan
+       sodipodi:role="line"
        id="tspan847"
-       sodipodi:role="line">DUEL!</svg:tspan></svg:text>
+       x="29.101099"
+       y="74.179825"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:1.09124;text-anchor:end;text-align:end;">Enter</svg:tspan><svg:tspan
+       id="tspan849"
+       sodipodi:role="line"
+       x="29.101099"
+       y="129.1786"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:1.09124;text-anchor:end;text-align:end;">Duelingbook</svg:tspan></svg:text>
+  <svg:path
+     id="path845"
+     d="M 2.7357709,34.470713 28.6572,8.4808897 Z"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <svg:path
+     id="path847"
+     d="m 305.17524,139.52431 -23.59602,23.66442 z"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 </svg:svg>
