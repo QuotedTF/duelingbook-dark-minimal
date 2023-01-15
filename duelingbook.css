@@ -7,7 +7,17 @@
 /* MAIN MENU */
 
 /*duel! arrow*/
-/*#duel_btn>img {}*/
+#duel_btn {
+  left: 282px;
+}
+
+#duel_btn>img {
+	content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/duel_btn.svg");
+}
+
+#duel_btn:hover {
+	filter: brightness(120%);
+}
 
 /* DUEL UI */
 
@@ -22,9 +32,9 @@
 
 /*Background image*/
 
-body{
-    background: linear-gradient( rgba(0, 0, 0, var(--bg-dim)),rgba(0, 0, 0, var(--bg-dim))), url(https://wallpaperaccess.com/full/22271.jpg);
-    background-size: cover;
+body {
+  background-color: solid black;
+  background-size: cover;
 }
 
 /*In duel avatar*/
@@ -40,10 +50,6 @@ body{
 }
 
 #circuit_cover {
-    visibility: hidden;
-}
-
-#greenlines {
     visibility: hidden;
 }
 
@@ -1037,6 +1043,10 @@ span.arial_rounded20 {
   content: url("https://www.svgrepo.com/show/326779/reload-circle-outline.svg");
   filter: invert();
   scale: 130%;
+}
+
+.yes_btn:hover, .no_btn:hover, .cancel_btn:hover, .ok_btn:hover {
+  filter: brightness(120%);
 }
 
 .yes_btn>img {
