@@ -1,7 +1,8 @@
 # duelingbook-dark-minimal
 Duelingbook minimal / material theme built upon https://github.com/mykesXD/Duelingbook-Dark-Mode
 
-<img width="1553" alt="preview" src="https://user-images.githubusercontent.com/37403330/209191402-d54effcb-024d-4d1e-a11c-cc8e7f0ae489.png">
+<img width="1553" alt="preview" src="https://user-images.githubusercontent.com/37403330/212520191-90662cc7-7c04-44c9-91d4-046ab5cb5426.png">
+
 
 ## Install
 
