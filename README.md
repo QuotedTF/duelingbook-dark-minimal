@@ -14,13 +14,13 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
 
 ## To Do List
 
- * End turn and Start turn buttons (WIP)
+ * ~~End turn and Start turn buttons~~
  
  * "Declare" spark graphic
  
  * ~~Field zones and decks for other formats (MR3, Speed duels)~~
  
- * DUEL! arrow on title screen
+ * ~~DUEL! arrow on title screen~~
  
  * ~~Better shuffle and reveal hand button graphics~~
  

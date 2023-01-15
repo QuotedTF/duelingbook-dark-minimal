@@ -9,6 +9,7 @@
 /*duel! arrow*/
 #duel_btn {
   left: 282px;
+  opacity: 85%;
 }
 
 #duel_btn>img {
