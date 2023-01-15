@@ -542,7 +542,7 @@ span.title_lbl.kristenitc, #post_status_btn {
     font-weight: 600;
 }
 
-#confirm {
+#confirm, #confirm2 {
     font-family: var(--font-family);
     font-weight: 600;
 }
@@ -772,6 +772,7 @@ span.connection_status {
     font-size: 28px;
     color: white;
     text-shadow: 0px 0px 5px #888888;
+    left: 210.5px;
 }
 
 #search>.title_txt {
@@ -789,22 +790,35 @@ span.connection_status {
   left: 757.5px;
 }
 
+#cib2_txt {
+  left: 210.5px;
+}
+
+#cig2_txt {
+  left: 225.5px;
+}
+
 span.gray_txt.arial_rounded25, span.white_txt.arial_rounded25 {
     font-family: Work Sans Thin;
 }
 
+#turn>.arial_rounded20 {
+  transform: scaleX(90%);
+  transform-origin: left;
+  left: 6px;
+  top: 1px;
+}
+
 span.end_turn_txt.arial_rounded20 {
-    transform: scaleX(79%);
+    transform: scaleX(66%);
     transform-origin: left;
-    font-family: var(--font-family);
-    font-weight: 400;
+    letter-spacing: -1px;
 }
 
 span.start_turn_txt.arial_rounded20 {
-    transform: scaleX(73%);
+    transform: scaleX(62%);
     transform-origin: left;
-    font-family: var(--font-family);
-    font-weight: 400;
+    letter-spacing: -1px;
 }
 
 div div b {
@@ -851,6 +865,11 @@ span.arial_rounded20 {
   font-family: var(--font-family);
   font-weight: 600;
   text-align: center;
+}
+
+#turn>.arial_rounded20, #start_turn>.arial_rounded20, #end_turn>.arial_rounded20 {
+  font-family: Work Sans Thin;
+  font-weight: 400;
 }
 
 /* UI ELEMENT REPLACEMENT */
@@ -908,7 +927,7 @@ span.arial_rounded20 {
   display: none;
 }
 
-#msg {
+#msg, #confirm, #confirm2 {
   background-image: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/msg_background.svg");
 }
 
@@ -971,7 +990,7 @@ span.arial_rounded20 {
   top: 61px;
   width: 461px;
   height: 461px;
-  filter: blur(3px);
+  filter: blur(1px); 
 }
 
 /*red_stream, blue_stream for attack declarations*/
@@ -1006,4 +1025,16 @@ span.arial_rounded20 {
 
 #search>img {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/search.svg");
+}
+
+.minimize_btn>img {
+  content: url("https://www.svgrepo.com/show/326571/close-outline.svg");
+  filter: invert();
+  scale: 130%;
+}
+
+.refresh_btn>img {
+  content: url("https://www.svgrepo.com/show/326779/reload-circle-outline.svg");
+  filter: invert();
+  scale: 130%;
 }
