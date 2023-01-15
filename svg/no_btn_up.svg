@@ -6,12 +6,12 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="no_btn_up.svg"
-   version="1.1"
-   viewBox="0 0 153.4 78.47"
+   id="Layer_1"
    data-name="Layer 1"
-   id="Layer_1">
+   viewBox="0 0 153.4 78.47"
+   version="1.1"
+   sodipodi:docname="no_btn_up.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <svg:metadata
      id="metadata35">
     <rdf:RDF>
@@ -24,31 +24,32 @@
     </rdf:RDF>
   </svg:metadata>
   <sodipodi:namedview
-     inkscape:current-layer="Layer_1"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-11"
-     inkscape:window-x="-11"
-     inkscape:cy="28.250541"
-     inkscape:cx="108.02227"
-     inkscape:zoom="9.8154355"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-object-midpoints="true"
-     showgrid="false"
-     id="namedview33"
-     inkscape:window-height="2066"
-     inkscape:window-width="3840"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     id="namedview33"
+     showgrid="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:zoom="12.598333"
+     inkscape:cx="117.77742"
+     inkscape:cy="42.846285"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
   <script
      id="current-song-media-session-proxy" />
   <svg:defs
@@ -56,59 +57,59 @@
     <svg:style
        id="style2">.cls-1{fill:none;}.cls-2{fill:red;}.cls-3{fill:url(#linear-gradient);}.cls-4{clip-path:url(#clip-path);}.cls-5{isolation:isolate;}.cls-6{fill:#fff;}</svg:style>
     <svg:linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.01, 0, 0, -0.98, -440.75, -292.84)"
-       y2="-301.32"
-       x2="512.34"
-       y1="-375.14"
+       id="linear-gradient"
        x1="512.34"
-       id="linear-gradient">
+       y1="-375.14"
+       x2="512.34"
+       y2="-301.32"
+       gradientTransform="matrix(1.01, 0, 0, -0.98, -440.75, -292.84)"
+       gradientUnits="userSpaceOnUse">
       <svg:stop
-         id="stop4"
+         offset="0"
          stop-color="#910000"
-         offset="0" />
+         id="stop4" />
       <svg:stop
-         id="stop6"
+         offset="1"
          stop-color="#fb0000"
-         offset="1" />
+         id="stop6" />
     </svg:linearGradient>
     <svg:clipPath
-       transform="translate(-0.02 -0.02)"
-       id="clip-path">
+       id="clip-path"
+       transform="translate(-0.02 -0.02)">
       <svg:rect
-         id="rect9"
-         height="65.35"
-         width="76.4"
-         y="6.15"
+         class="cls-1"
          x="39.1"
-         class="cls-1" />
+         y="6.15"
+         width="76.4"
+         height="65.35"
+         id="rect9" />
     </svg:clipPath>
   </svg:defs>
   <svg:title
      id="title14">no_btn_up</svg:title>
   <svg:rect
-     style="fill:#313031;fill-opacity:1;stroke:none;stroke-width:3.22868;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dashoffset:6.80315;stop-color:#000000"
-     id="rect862"
-     width="153.40001"
+     y="-0.019996643"
+     x="-0.02"
      height="78.470001"
-     x="-0.02"
-     y="-0.019996643" />
-  <svg:rect
-     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.229658;stroke-linecap:square;stroke-dashoffset:6.80315;stop-color:#000000"
-     id="rect1472"
      width="153.40001"
-     height="1.4"
+     id="rect862"
+     style="fill:#404040;fill-opacity:1;stroke:none;stroke-width:3.22868;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dashoffset:6.80315;stop-color:#000000" />
+  <svg:rect
+     y="76.450005"
      x="-0.02"
-     y="77.049995" />
+     height="2"
+     width="153.40001"
+     id="rect1472"
+     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.274494;stroke-linecap:square;stroke-dashoffset:6.80315;stop-color:#000000" />
   <svg:text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.9452px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:1.68635"
-     x="23.342337"
+     id="text1150"
      y="67.512215"
-     id="text1150"><svg:tspan
-       sodipodi:role="line"
-       id="tspan1148"
-       x="23.342337"
+     x="21.148754"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80.9452px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:1.68635"
+     xml:space="preserve"><svg:tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.68635"
        y="67.512215"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:1.68635">No</svg:tspan></svg:text>
+       x="21.148754"
+       id="tspan1148"
+       sodipodi:role="line">No</svg:tspan></svg:text>
 </svg:svg>
