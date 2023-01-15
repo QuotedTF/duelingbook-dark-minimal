@@ -1038,3 +1038,15 @@ span.arial_rounded20 {
   filter: invert();
   scale: 130%;
 }
+
+.yes_btn>img {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/yes_btn.svg");
+}
+
+.no_btn>img {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/no_btn.svg");
+}
+
+.cancel_btn>img {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/cancel_btn.svg");
+}

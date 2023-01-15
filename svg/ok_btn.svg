@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="ok_btn.svg"
+   version="1.1"
+   viewBox="0 0 153.4 78.47"
+   data-name="Layer 1"
+   id="Layer_1">
+  <svg:metadata
+     id="metadata37">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="Layer_1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:cy="56.520781"
+     inkscape:cx="62.969956"
+     inkscape:zoom="11.434091"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     showgrid="false"
+     id="namedview35"
+     inkscape:window-height="2066"
+     inkscape:window-width="3840"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <script
+     id="current-song-media-session-proxy" />
+  <svg:defs
+     id="defs12">
+    <svg:marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="DiamondLend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondLend">
+      <svg:path
+         transform="scale(0.8) translate(-7,0)"
+         style="fill-rule:evenodd;stroke:#1b1b1b;stroke-width:1pt;stroke-opacity:1;fill:#1b1b1b;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path963" />
+    </svg:marker>
+    <svg:style
+       id="style2">.cls-1{fill:none;}.cls-2{fill:#690;}.cls-3{fill:url(#linear-gradient);}.cls-4{clip-path:url(#clip-path);}.cls-5{isolation:isolate;}.cls-6{fill:#fff;}</svg:style>
+    <svg:linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.01, 0, 0, -0.98, -440.75, -292.84)"
+       y2="-301.32"
+       x2="512.34"
+       y1="-375.14"
+       x1="512.34"
+       id="linear-gradient">
+      <svg:stop
+         id="stop4"
+         stop-color="#395500"
+         offset="0" />
+      <svg:stop
+         id="stop6"
+         stop-color="#649500"
+         offset="1" />
+    </svg:linearGradient>
+    <svg:clipPath
+       transform="translate(-0.02 -0.02)"
+       id="clip-path">
+      <svg:rect
+         id="rect9"
+         height="65.35"
+         width="94.1"
+         y="6.15"
+         x="30.55"
+         class="cls-1" />
+    </svg:clipPath>
+  </svg:defs>
+  <svg:title
+     id="title14">yes_btn_up</svg:title>
+  <svg:rect
+     y="-0.020000458"
+     x="-0.02"
+     height="78.470001"
+     width="153.40001"
+     id="rect862"
+     style="fill:#404040;fill-opacity:1;stroke:none;stroke-width:3.22868;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dashoffset:6.80315;stop-color:#000000" />
+  <svg:rect
+     y="76.449997"
+     x="-0.02"
+     height="2"
+     width="153.40001"
+     id="rect1472"
+     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.274494;stroke-linecap:square;stroke-dashoffset:6.80315;stop-color:#000000" />
+  <svg:text
+     id="text1150"
+     y="67.98632"
+     x="14.311094"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80.9452px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:1.68635"
+     xml:space="preserve"><svg:tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.68635"
+       y="67.98632"
+       x="14.311094"
+       id="tspan1148"
+       sodipodi:role="line">OK</svg:tspan></svg:text>
+</svg:svg>
