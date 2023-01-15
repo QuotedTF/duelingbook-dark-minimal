@@ -1050,3 +1050,7 @@ span.arial_rounded20 {
 .cancel_btn>img {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/cancel_btn.svg");
 }
+
+.ok_btn>img {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/ok_btn.svg");
+}
