@@ -7,12 +7,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="turn_background.svg"
-   version="1.1"
-   viewBox="0 0 79.88 29.07"
+   id="Layer_1"
    data-name="Layer 1"
-   id="Layer_1">
+   viewBox="0 0 79.88 29.07"
+   version="1.1"
+   sodipodi:docname="turn_background.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <svg:metadata
      id="metadata29">
     <rdf:RDF>
@@ -25,36 +25,37 @@
     </rdf:RDF>
   </svg:metadata>
   <sodipodi:namedview
-     inkscape:current-layer="layer2"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-11"
-     inkscape:window-x="-11"
-     inkscape:cy="14.540418"
-     inkscape:cx="42.616939"
-     inkscape:zoom="26.657037"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-paths="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:bbox-nodes="true"
-     inkscape:bbox-paths="true"
-     inkscape:snap-bbox="true"
-     showgrid="false"
-     id="namedview27"
-     inkscape:window-height="2066"
-     inkscape:window-width="3840"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     id="namedview27"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:zoom="24.193595"
+     inkscape:cx="41.445645"
+     inkscape:cy="14.51446"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
   <script
      id="current-song-media-session-proxy" />
   <svg:defs
@@ -62,60 +63,64 @@
     <svg:style
        id="style2">.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#linear-gradient-2);}</svg:style>
     <svg:linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.38, 0, 0, -0.39, 17.31, 17.22)"
-       y2="-30.26"
-       x2="59.26"
-       y1="43.99"
+       id="linear-gradient"
        x1="59.26"
-       id="linear-gradient">
+       y1="43.99"
+       x2="59.26"
+       y2="-30.26"
+       gradientTransform="matrix(0.38, 0, 0, -0.39, 17.31, 17.22)"
+       gradientUnits="userSpaceOnUse">
       <svg:stop
-         id="stop4"
+         offset="0"
          stop-color="#fff"
-         offset="0" />
+         id="stop4" />
       <svg:stop
-         id="stop6"
+         offset="0.29"
          stop-color="#b7b7b7"
-         offset="0.29" />
+         id="stop6" />
       <svg:stop
-         id="stop8"
+         offset="0.63"
          stop-color="#676767"
-         offset="0.63" />
+         id="stop8" />
       <svg:stop
-         id="stop10"
+         offset="0.88"
          stop-color="#353535"
-         offset="0.88" />
+         id="stop10" />
       <svg:stop
-         id="stop12"
+         offset="1"
          stop-color="#212121"
-         offset="1" />
+         id="stop12" />
     </svg:linearGradient>
     <svg:linearGradient
-       xlink:href="#linear-gradient"
-       gradientTransform="matrix(0.38, 0, 0, -0.39, 17.31, 17.12)"
-       y2="33.69"
-       x2="59.26"
-       y1="-19.96"
+       id="linear-gradient-2"
        x1="59.26"
-       id="linear-gradient-2" />
+       y1="-19.96"
+       x2="59.26"
+       y2="33.69"
+       gradientTransform="matrix(0.38, 0, 0, -0.39, 17.31, 17.12)"
+       xlink:href="#linear-gradient" />
   </svg:defs>
   <svg:title
      id="title18">turn_background</svg:title>
   <svg:g
-     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1"
-     inkscape:groupmode="layer" />
+     inkscape:label="Layer 1" />
   <svg:g
-     inkscape:label="Layer 2"
+     inkscape:groupmode="layer"
      id="layer2"
-     inkscape:groupmode="layer" />
-  <svg:g
-     inkscape:label="Layer 3"
-     id="layer3"
-     inkscape:groupmode="layer">
-    <svg:path
-       id="path918"
-       d="m 10.163882,25.516435 -5.4676739,-1e-6 -0.011444,-21.9029504 70.5568919,0.01145 0.0036,21.8915054 -5.445933,1e-6"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     inkscape:label="Layer 2">
+    <svg:rect
+       ry="0"
+       y="3.6149616"
+       x="4.6860614"
+       height="21.899921"
+       width="70.557716"
+       id="rect842"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-dashoffset:6.80315;stop-color:#000000" />
   </svg:g>
+  <svg:g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3" />
 </svg:svg>

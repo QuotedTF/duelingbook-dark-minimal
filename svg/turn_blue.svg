@@ -6,12 +6,12 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="turn_blue.svg"
-   version="1.1"
-   viewBox="0 0 80 29"
+   id="Layer_1"
    data-name="Layer 1"
-   id="Layer_1">
+   viewBox="0 0 80 29"
+   version="1.1"
+   sodipodi:docname="turn_blue.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <svg:metadata
      id="metadata19">
     <rdf:RDF>
@@ -24,27 +24,36 @@
     </rdf:RDF>
   </svg:metadata>
   <sodipodi:namedview
-     inkscape:current-layer="Layer_1"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-11"
-     inkscape:window-x="-11"
-     inkscape:cy="14.5"
-     inkscape:cx="40"
-     inkscape:zoom="37.642194"
-     inkscape:snap-center="true"
-     inkscape:snap-object-midpoints="true"
-     showgrid="false"
-     id="namedview17"
-     inkscape:window-height="2066"
-     inkscape:window-width="3840"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     id="namedview17"
+     showgrid="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:zoom="24.157304"
+     inkscape:cx="50.088085"
+     inkscape:cy="16.86038"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
   <script
      id="current-song-media-session-proxy" />
   <svg:defs
@@ -52,32 +61,43 @@
     <svg:style
        id="style2">.cls-1{fill:url(#radial-gradient);}</svg:style>
     <svg:radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.38, 0, 0, -0.4, 57.2, 31.84)"
-       r="134.79"
-       cy="43.74"
+       id="radial-gradient"
        cx="-45.31"
-       id="radial-gradient">
+       cy="43.74"
+       r="134.79"
+       gradientTransform="matrix(0.38, 0, 0, -0.4, 57.2, 31.84)"
+       gradientUnits="userSpaceOnUse">
       <svg:stop
-         id="stop4"
+         offset="0"
          stop-color="blue"
-         offset="0" />
+         id="stop4" />
       <svg:stop
-         id="stop6"
-         offset="1" />
+         offset="1"
+         id="stop6" />
     </svg:radialGradient>
   </svg:defs>
   <svg:title
      id="title11">turn_blue</svg:title>
-  <svg:text
-     xml:space="preserve"
-     style="font-weight:bold;font-size:5.33333px;line-height:1.25;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';letter-spacing:0.7px;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     x="12.20943"
-     y="27.512642"
-     id="text900"><svg:tspan
-       sodipodi:role="line"
-       id="tspan898"
-       x="12.20943"
-       y="27.512642"
-       style="font-size:5.33333px;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">OPPONENT'S TURN</svg:tspan></svg:text>
+  <svg:circle
+     r="8"
+     cy="14.536642"
+     cx="64.333847"
+     id="path842"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.837686;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:6.80315;stop-color:#000000" />
+  <svg:g
+     style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:16.84127797;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(0.03562675,0,0,0.03562675,55.213399,5.0599266)"
+     id="g850">
+    <svg:polyline
+       id="polyline4"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:16.84127797;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+       points="112 244 256 100 400 244" />
+    <svg:line
+       id="line6"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:16.84127797;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+       y2="412"
+       x2="256"
+       y1="120"
+       x1="256" />
+  </svg:g>
 </svg:svg>
