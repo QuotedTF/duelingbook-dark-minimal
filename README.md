@@ -38,7 +38,7 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  
  * ~~Public chat and online users window icons~~
  
- * Better summoning circle graphic
+ * ~~Better summoning circle graphic~~
  
  * ~~Better Yes / No / Cancel buttons~~
  
