@@ -905,7 +905,7 @@ span.arial_rounded20 {
   font-weight: 600;
 }
 
-#msg>.title_txt, #msg>.body_txt {
+#msg>.title_txt, #msg>.body_txt, #over>.title_txt, #over>.body_txt {
   font-family: var(--font-family);
   font-weight: 600;
   text-align: center;
@@ -917,6 +917,34 @@ span.arial_rounded20 {
 }
 
 /* UI ELEMENT REPLACEMENT */
+
+/*Rock paper scissors cards*/
+/* Nibiru - scroll - gimmick puppet */
+/*
+.content .cardfront .cardfront_content>img.pic[src*="card/rock"] {
+	content: url("https://images.duelingbook.com/card-pics/10345.jpg");
+}
+
+.content .cardfront .cardfront_content>img.pic[src*="card/paper"] {
+	content: url("https://images.duelingbook.com/card-pics/9969.jpg");
+}
+
+.content .cardfront .cardfront_content>img.pic[src*="card/scissors"] {
+	content: url("https://images.duelingbook.com/card-pics/6031.jpg");
+}*/
+
+/*Geargiano*/
+.content .cardfront .cardfront_content>img.pic[src*="card/rock"] {
+	content: url("https://images.duelingbook.com/card-pics/1759.jpg");
+}
+
+.content .cardfront .cardfront_content>img.pic[src*="card/paper"] {
+	content: url("https://images.duelingbook.com/card-pics/6302.jpg");
+}
+
+.content .cardfront .cardfront_content>img.pic[src*="card/scissors"] {
+	content: url("https://images.duelingbook.com/card-pics/5444.jpg");
+}
 
 .phase .background, .phase .phase_dark_blue, .phase .phase_dark_red {
   display: none;
@@ -971,12 +999,12 @@ span.arial_rounded20 {
   display: none;
 }
 
-#msg, #confirm, #confirm2, #combo {
+#msg, #confirm, #confirm2, #combo, #input {
   background-image: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/msg_background.svg");
 }
 
-#input {
-  background-image: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/msg_background.svg");
+#over {
+  background-image: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/over.svg");
 }
 
 .phase_blue {

@@ -1,0 +1,2429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="over.svg"
+   version="1.1"
+   viewBox="0 0 634 574"
+   data-name="Layer 1"
+   id="Layer_1">
+  <svg:metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="Layer_1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:cy="304.81035"
+     inkscape:cx="379.98319"
+     inkscape:zoom="2.2539909"
+     inkscape:object-paths="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     showgrid="false"
+     id="namedview22"
+     inkscape:window-height="2066"
+     inkscape:window-width="3840"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <script
+     id="current-song-media-session-proxy" />
+  <svg:defs
+     id="defs10">
+    <svg:style
+       id="style2">.cls-1{fill:url(#linear-gradient);}.cls-2{fill-opacity:0.8;}.cls-3{fill:url(#linear-gradient-2);}</svg:style>
+    <svg:linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1, 0, 0, -1, 0, 574)"
+       y2="287"
+       x2="0"
+       y1="287"
+       x1="59.4"
+       id="linear-gradient">
+      <svg:stop
+         id="stop4"
+         stop-color="#3d3d3d"
+         offset="0" />
+      <svg:stop
+         id="stop6"
+         stop-color="#c5c5c5"
+         offset="1" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       xlink:href="#linear-gradient"
+       y2="287"
+       x2="634"
+       y1="287"
+       x1="574.65"
+       id="linear-gradient-2" />
+  </svg:defs>
+  <svg:title
+     id="title12">over</svg:title>
+  <style
+     id="stylebot-css-www.duelingbook.com">/* latin */
+@font-face {
+  font-family: 'Calibri';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=J7adnpV-BGlaFfdAhLQo6btP&amp;skey=36a3d5758e0e2f58&amp;v=v15) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Calibri';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=J7aYnpV-BGlaFfdAhLQgUp5aHRge&amp;skey=8b00183e5f6700b6&amp;v=v15) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Calibri';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=J7afnpV-BGlaFfdAhLEY6w&amp;skey=a1029226f80653a8&amp;v=v15) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Calibri';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=J7aanpV-BGlaFfdAjAo9_pxqHw&amp;skey=cd2dd6afe6bf0eb2&amp;v=v15) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+@font-face {font-family: &quot;SquareType B&quot;; src: url(&quot;//db.onlinewebfonts.com/t/5f7f9bb991d5476ca410b3df083d9070.eot&quot;); src: url(&quot;//db.onlinewebfonts.com/t/5f7f9bb991d5476ca410b3df083d9070.eot?#iefix&quot;) format(&quot;embedded-opentype&quot;), url(&quot;//db.onlinewebfonts.com/t/5f7f9bb991d5476ca410b3df083d9070.woff2&quot;) format(&quot;woff2&quot;), url(&quot;//db.onlinewebfonts.com/t/5f7f9bb991d5476ca410b3df083d9070.woff&quot;) format(&quot;woff&quot;), url(&quot;//db.onlinewebfonts.com/t/5f7f9bb991d5476ca410b3df083d9070.ttf&quot;) format(&quot;truetype&quot;), url(&quot;//db.onlinewebfonts.com/t/5f7f9bb991d5476ca410b3df083d9070.svg#SquareType B&quot;) format(&quot;svg&quot;); }
+
+
+
+@font-face {font-family: &quot;Work Sans Thin&quot;; src: url(&quot;//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.eot&quot;); src: url(&quot;//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.eot?#iefix&quot;) format(&quot;embedded-opentype&quot;), url(&quot;//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.woff2&quot;) format(&quot;woff2&quot;), url(&quot;//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.woff&quot;) format(&quot;woff&quot;), url(&quot;//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.ttf&quot;) format(&quot;truetype&quot;), url(&quot;//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.svg#Work Sans Thin&quot;) format(&quot;svg&quot;); } 
+
+
+
+/* MAIN MENU */
+
+
+
+/*duel! arrow*/
+
+#duel_btn {
+
+  left: 282px !important;
+
+  opacity: 85% !important;
+
+}
+
+
+
+#duel_btn&gt;img {
+
+	content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/duel_btn.svg&quot;) !important;
+
+}
+
+
+
+#duel_btn:hover {
+
+	filter: brightness(120%) !important;
+
+}
+
+
+
+/* DUEL UI */
+
+
+
+/*===== CHANGE AVATAR AND BACKGROUND by replacing links below with your image or gif links =====*/
+
+
+
+
+
+/*Control dimming of the background image*/
+
+
+
+:root{
+
+    --bg-dim: 50% !important;
+
+}
+
+
+
+/*Background image*/
+
+
+
+body {
+
+  background-color: solid black !important;
+
+  background-size: cover !important;
+
+}
+
+
+
+/*In duel avatar*/
+
+
+
+/*#avatar1&gt;img.image {
+
+    content: url(https://mykes.s-ul.eu/aNMvZwxh);
+
+}*/
+
+
+
+/*Hide default background*/
+
+
+
+#circuit_board {
+
+    visibility: hidden !important;
+
+}
+
+
+
+#circuit_cover {
+
+    visibility: hidden !important;
+
+}
+
+
+
+/*===== CHANGE FONT by adding @import of your font and replace &quot; Roboto, sans-serif &quot; below =====*/
+
+
+
+:root {
+
+    --font-family: 'Roboto', sans-serif !important;
+
+}
+
+
+
+/*===== CHANGE COLOR by replacing the HEX values(#000000) =====*/
+
+
+
+:root {
+
+    --bg-color: linear-gradient(0deg, #1c1c21 0%, #17171b 100%) !important;
+
+}
+
+
+
+:root {
+
+    --text-color: #d6d6d6 !important;
+
+}
+
+
+
+:root {
+
+    --border-color: #3a3a3d !important;
+
+}
+
+
+
+:root {
+
+    --select-color: #4486c4 !important;
+
+}
+
+
+
+:root {
+
+    --lp-color-p1: linear-gradient(90deg, #ce404f 0%, #cb4141 100%) !important;
+
+}
+
+
+
+:root {
+
+    --lp-color-p2: linear-gradient(90deg, #3c49af 0%, #293594 100%) !important;
+
+}
+
+
+
+
+
+
+
+/*----------- SECTION: DARK MODE ---------*/
+
+
+
+
+
+/*Player colors were too bright on dark*/
+
+
+
+div.os-content.selectable.os-textarea b font {
+
+    font-weight: 600 !important;
+
+    filter: contrast(70%)hue-rotate(348deg) !important;
+
+}
+
+
+
+/*Lifepoint and player colors*/
+
+
+
+div#lifepoints1.lifepoints div.life_bar {
+
+    background: var(--lp-color-p1) !important;
+
+}
+
+
+
+div#lifepoints2.lifepoints div.life_bar {
+
+    background: var(--lp-color-p2) !important;
+
+}
+
+
+
+div.life_border {
+
+    border-color: #303030 !important;
+
+}
+
+
+
+div.black_bar {
+
+    background: linear-gradient(90deg, #040404 0%, #161616 100%) !important;
+
+    ;
+
+}
+
+
+
+div#avatar1.duel_avatar {
+
+    background: var(--lp-color-p1) !important;
+
+    border-top-left-radius: 8px !important;
+
+    border-bottom-left-radius: 8px !important;
+
+}
+
+
+
+div#avatar2.duel_avatar {
+
+    background: var(--lp-color-p2) !important;
+
+    border-top-left-radius: 8px !important;
+
+    border-bottom-left-radius: 8px !important;
+
+}
+
+
+
+div.gone {
+
+    border-top-left-radius: 8px !important;
+
+    border-bottom-left-radius: 8px !important;
+
+}
+
+
+
+/*Phase buttons*/
+
+
+
+/*Player current status*/
+
+
+
+#status1 .status_txt, #status2 .status_txt {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+/*Links*/
+
+
+
+div a u {
+
+    color: #476fff !important;
+
+}
+
+
+
+/*Selection color*/
+
+
+
+::selection {
+
+    color: white !important;
+
+    background: var(--select-color) !important;
+
+}
+
+
+
+/* Card preview text */
+
+
+
+#preview_txt {
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+    border: solid 1px var(--border-color) !important;
+
+}
+
+
+
+div.os-scrollbar-handle {
+
+    background-color: gainsboro !important;
+
+}
+
+
+
+/*Watchers section*/
+
+
+
+#watchers {
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+    border: solid 1px var(--border-color) !important;
+
+}
+
+
+
+#watchers&gt;div {
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+}
+
+
+
+/*Buttons*/
+
+
+
+div.button.proxy.unselectable {
+
+    background: none !important;
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+    /*Delete line below for round edges*/
+
+    border-radius: 0px !important;
+
+}
+
+
+
+/*Inputs*/
+
+
+
+input[type] {
+
+    background: none !important;
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+    border: solid 1px var(--border-color) !important;
+
+}
+
+
+
+div.textinput.proxy {
+
+    background: none !important;
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+}
+
+
+
+/*Drop down selectors*/
+
+
+
+div.combobox.proxy.unselectable {
+
+    background: none !important;
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+    /*Delete line below for round edges*/
+
+    border-radius: 0px !important;
+
+}
+
+
+
+select {
+
+    background: none !important;
+
+    color: var(--text-color) !important;
+
+    background: #1c1c21 !important;
+
+}
+
+
+
+/*Chatting section*/
+
+
+
+div.cout_txt.textarea.scrollpane.selectable.os-host.os-theme-dark.os-host-resize-disabled.os-host-transition {
+
+    background: none !important;
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+    border: solid 1px var(--border-color) !important;
+
+    padding-left: 6px !important;
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 400 !important;
+
+}
+
+
+
+div div b {
+
+    color: #90c982 !important;
+
+}
+
+
+
+/*Card options*/
+
+
+
+span.card_menu_txt {
+
+    background: none !important;
+
+    opacity: 85% !important;
+
+    color: #eeeeee !important;
+
+    background: #1c1c21 !important;
+
+    border: solid 1px var(--border-color) !important;
+
+}
+
+
+
+span.card_menu_txt:hover {
+
+    background: none !important;
+
+    color: #1c1c21 !important;
+
+    background-color: var(--select-color) !important;
+
+    border: solid 1px var(--border-color) !important;
+
+}
+
+
+
+/*Logs and Watchers section*/
+
+
+
+div.chat_background {
+
+    background: none !important;
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+}
+
+
+
+div div font {
+
+    filter: contrast(70%)hue-rotate(348deg) !important;
+
+}
+
+
+
+div.log_txt.textarea.scrollpane.selectable.os-host.os-theme-dark.os-host-resize-disabled.os-host-transition {
+
+    background: none !important;
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+    border: 1px solid var(--border-color) !important;
+
+}
+
+
+
+/*Login Screen*/
+
+
+
+div#login div.background{
+
+    background: var(--bg-color) !important;
+
+}
+
+div#login{
+
+    color: var(--text-color) !important;
+
+}
+
+
+
+div.textarea.scrollpane.selectable.os-host.os-theme-dark.os-host-resize-disabled.os-host-transition.os-host-overflow.os-host-overflow-y {
+
+    background: none !important;
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+    border: 1px solid var(--border-color) !important;
+
+}
+
+
+
+#logged_in div.background {
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+    border: 1px solid var(--border-color) !important;
+
+}
+
+
+
+#logged_in_as_lbl {
+
+    color: var(--text-color) !important;
+
+}
+
+
+
+#logged_in&gt;span.username_txt {
+
+    color: var(--text-color) !important;
+
+}
+
+
+
+/*Main Menu*/
+
+
+
+div.menu_btn img {
+
+    filter: saturate(30%) hue-rotate(23deg) !important;
+
+}
+
+
+
+textarea.status_txt {
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+}
+
+
+
+/*Rankings*/
+
+
+
+.ranking_item.unselectable {
+
+    background: none !important;
+
+    color: var(--text-color) !important;
+
+    background: #1c1c21 !important;
+
+}
+
+
+
+#rankings&gt;div.content.scrollpane.os-host.os-theme-dark.os-host-resize-disabled.os-host-transition.os-host-overflow.os-host-overflow-x.os-host-overflow-y&gt;div.os-padding&gt;div&gt;div {
+
+    background-color: black !important;
+
+}
+
+
+
+/*Duel room*/
+
+
+
+#formats_inner {
+
+    filter: contrast(80%) saturate(50%) !important;
+
+}
+
+
+
+/*Profile Viewer*/
+
+
+
+div.profile_txt.textarea.aliased.scrollpane.selectable.os-host.os-theme-dark.os-host-resize-disabled.os-host-transition, textarea.comment_txt {
+
+    background: none !important;
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+}
+
+
+
+#profile_content&gt;div.os-padding&gt;div&gt;div&gt;div.textinput.proxy {
+
+    color: var(--text-color) !important;
+
+}
+
+
+
+.social_buttons&gt;span {
+
+  font-family: var(--font-family) !important;
+
+  font-weight: 600 !important;
+
+}
+
+
+
+/*profile avatar frame*/
+
+.profile_avatar .avatar_frame[src*=&quot;teal&quot;] {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/avatar_teal.svg&quot;) !important;
+
+}
+
+
+
+.profile_avatar .avatar_frame[src*=&quot;red&quot;], .avatar .avatar_frame[src*=&quot;red&quot;] {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/avatar_red.svg&quot;) !important;
+
+}
+
+
+
+/*profile pictures*/
+
+.profile_avatar .image, .avatar .image {
+
+  border-radius: 0% !important;
+
+}
+
+
+
+/*My Profile*/
+
+
+
+textarea.profile_txt {
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+}
+
+
+
+/*Online Users*/
+
+
+
+div.os-content.os-list div.cell.cell1 {
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+}
+
+
+
+div#action_list div.cell.cell1 {
+
+    color: var(--text-color) !important;
+
+    background: var(--bg-color) !important;
+
+    margin: -2px !important;
+
+    border: solid 1px var(--border-color) !important;
+
+}
+
+
+
+div.os-content.os-list div.cell.cell1.isAdmin.admin1 {
+
+    color: lightgreen !important;
+
+    background: var(--bg-color) !important;
+
+}
+
+
+
+div.os-content.os-list div.cell.cell1.following {
+
+    color: lightskyblue !important;
+
+    background: var(--bg-color) !important;
+
+}
+
+
+
+
+
+
+
+/*----------- SECTION: FONTS ---------*/
+
+
+
+
+
+
+
+/*FONT Main menu*/
+
+
+
+div.menu_btn {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 700 !important;
+
+}
+
+
+
+div.delete_btn {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 400 !important;
+
+}
+
+
+
+span.username_txt.selectable.size24 {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+span.not_link, span.link {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 400 !important;
+
+}
+
+
+
+div.reply_btn, div.date_txt.arial_rounded18 {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+.arial_black2 {
+
+  font-family: var(--font-family) !important;
+
+  font-weight: 600 !important;
+
+}
+
+
+
+div.status_txt.size18.cyan.selectable {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 400 !important;
+
+}
+
+
+
+/* FONT Tournaments*/
+
+
+
+div.desc_txt.size18.cyan.selectable {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 400 !important;
+
+}
+
+
+
+span.name_txt.selectable.size24 {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 700 !important;
+
+}
+
+
+
+/*FONT Name and LP*/
+
+
+
+span.username_txt.selectable {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 600 !important;
+
+    filter: drop-shadow(0px 1px 0px black) !important;
+
+    padding-top: 1.5px !important;
+
+}
+
+
+
+span.life_txt {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 600 !important;
+
+    filter: drop-shadow(0px 1px 0px black) !important;
+
+}
+
+
+
+/*FONT Card option pop up*/
+
+
+
+span.card_menu_txt {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+/* FONT Like count*/
+
+
+
+div.likes {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+/*FONT Profile Viewer*/
+
+
+
+div.stats span, span.views_lbl, span.views_txt.bisque, span.unfollow_btn, div.delete_btn.arial_rounded25, div.os-viewport.os-viewport-native-scrollbars-invisible {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+div.os-content.selectable.os-textarea {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 400 !important;
+
+}
+
+
+
+span.profile_lbl.kristenitc, span.comments_lbl.kristenitc, span.post_a_comment_lbl.kristenitc, span.friends_lbl.kristenitc {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 700 !important;
+
+}
+
+
+
+#profile_content&gt;div.os-padding&gt;div&gt;div&gt;div.textinput.proxy {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 600 !important;
+
+}
+
+
+
+#profile_username_txt {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 600 !important;
+
+}
+
+
+
+div.comment_txt.arial_rounded18.selectable.cyan {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+/*FONT Browse Users*/
+
+
+
+span.username_txt.bisque {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 600 !important;
+
+}
+
+
+
+div.desc_txt {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+/*FONT Friend Requests*/
+
+
+
+div.accept_btn.arial_rounded25 {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+div.revoke_btn.arial_rounded25 {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+div.deny_btn.arial_rounded25 {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+div.message_btn.arial_rounded25 {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+span.accept_all_btn.arial_rounded25 {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+#duel_records span {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 600 !important;
+
+}
+
+
+
+/*FONT Zone card counter
+
+(this one was pain in the ass to find)*/
+
+
+
+/*
+
+#cid1_txt, #cig1_txt, #cib1_txt, #cie1_txt, #cid2_txt, #cig2_txt, #cib2_txt, #cie2_txt, #hm1_txt, #hm2_txt, #hm3_txt, #hm4_txt, #hm5_txt, #om1_txt, #om2_txt, #om3_txt, #om4_txt, #om5_txt, #link_right_txt, #hl_txt, #ol_txt {
+
+    font-family: var(--font-family);
+
+    font-weight: 600;
+
+}*/
+
+
+
+/*FONT Post Status*/
+
+
+
+span.title_lbl.kristenitc, #post_status_btn {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 600 !important;
+
+}
+
+
+
+/*FONT Pop up message*/
+
+#msg, #confirm, #confirm2, #combo {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 600 !important;
+
+}
+
+
+
+.combo_cb&gt;option {
+
+  font-family: var(--font-family) !important;
+
+  font-weight: 200 !important;
+
+}
+
+
+
+.combobox.proxy {
+
+  font-family: var(--font-family) !important;
+
+  font-weight: 600 !important;
+
+}
+
+
+
+.combobox_arrow {
+
+  filter: invert() !important;
+
+}
+
+
+
+span.connection_status {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 600 !important;
+
+}
+
+
+
+#welcome_buttons span{
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+#countdown2{
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+/* ICON REPLACEMENTS */
+
+
+
+#screenshot_btn&gt;img {
+
+    content: url(&quot;https://www.svgrepo.com/show/326536/camera-outline.svg&quot;) !important;
+
+    filter: invert() !important;
+
+}
+
+
+
+#mute_btn&gt;img {
+
+    content: url(&quot;https://www.svgrepo.com/show/326453/volume-off-outline.svg&quot;) !important;
+
+    filter: invert() !important;
+
+    scale: 140% !important;
+
+    left: -9px !important;
+
+    top: -1px !important;
+
+}
+
+
+
+#cross&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326571/close-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+  scale: 90% !important;
+
+  left: 6px !important;
+
+  top: -1px !important;
+
+}
+
+
+
+#die_btn {
+
+  filter: invert() !important;
+
+  scale: 116% !important;
+
+  top: 309px !important;
+
+}
+
+
+
+#die_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326602/dice-outline.svg&quot;) !important;
+
+}
+
+
+
+#coin_btn {
+
+  filter: invert() !important;
+
+  top: 305px !important;
+
+}
+
+
+
+#coin_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326612/ellipse-outline.svg&quot;) !important;
+
+}
+
+
+
+#counter_btn&gt;.content&gt;.background {
+
+  content: url(&quot;https://www.svgrepo.com/show/326807/server-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+  width: 100% !important;
+
+  height: 100% !important;
+
+  left: 3px !important;
+
+}
+
+
+
+#counter_btn&gt;.content&gt;.glow {
+
+  content: url(&quot;https://www.svgrepo.com/show/326612/ellipse-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+  width: 100% !important;
+
+  height: 100% !important;
+
+  left: 3px !important;
+
+}
+
+
+
+#m1_counter,#m2_counter,#m3_counter,#m4_counter,#m5_counter {
+
+  transform: translate(45%, -40%) !important;
+
+}
+
+
+
+#opp_m1_counter,#opp_m2_counter,#opp_m3_counter,#opp_m4_counter,#opp_m5_counter{
+
+  transform: translate(113%, 0%) !important;
+
+}
+
+
+
+#left_link_counter, right_link_counter {
+
+  transform: translate(45%, -40%) !important;
+
+}
+
+
+
+.counter&gt;.content&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326773/radio-button-on-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+  width: 100% !important;
+
+  height: 100% !important;
+
+  scale: 100% !important;
+
+}
+
+
+
+#plus_btn {
+
+  left: 538px !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#plus_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326463/add-circle-outline.svg&quot;) !important;
+
+}
+
+
+
+#minus_btn {
+
+  left: 538px !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#minus_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326782/remove-circle-outline.svg&quot;) !important; 
+
+}
+
+
+
+#watchers_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326627/eye-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#log_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326777/receipt-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#online_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326739/people-circle-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#chat_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326553/chatbubble-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#private_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326555/chatbubbles-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#think_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326847/time-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+  scale: 120% !important;
+
+  left: -2px !important;
+
+  top: -1px !important
+
+}
+
+
+
+.think {
+
+  content: url(&quot;https://www.svgrepo.com/show/326677/hourglass-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#good_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326559/checkmark-done-circle-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+.all_good&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326842/thumbs-up-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#shuffle_btn&gt;img {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/shuffle.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#show_hand_btn&gt;img[alt=&quot;Show Hand&quot;] {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/show_hand.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#show_hand_btn&gt;img.hand{
+
+  display: none !important;
+
+}
+
+
+
+.sort_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326832/swap-vertical-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+.info_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326673/help-circle-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#ss_spiral&gt;img {
+
+  content: url(&quot;https://freesvg.org/img/Magic-Circle-Blank-03.png&quot;) !important;
+
+  filter: invert() !important;
+
+  scale: 50% !important;
+
+  transform-origin: center !important;
+
+}
+
+
+
+#ss_glow&gt;img {
+
+  filter: hue-rotate(180deg) !important;
+
+  scale: 50% !important;
+
+  transform-origin: center !important;
+
+}
+
+
+
+.custom {
+
+  content: url() !important;
+
+}
+
+
+
+.tcg {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/tcg2.svg&quot;) !important;
+
+}
+
+
+
+.ocg {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/ocg2.svg&quot;) !important;
+
+}
+
+
+
+.limited {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/limited.svg&quot;) !important;
+
+}
+
+
+
+.semi_limited {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/semi2.svg&quot;) !important;
+
+}
+
+
+
+/* FONT REPLACEMENTS */
+
+
+
+/*FONT deck builder */
+
+
+
+#deck_constructor&gt;.total_txt, .total_normal_txt, .total_effect_txt, .total_ritual_txt, .total_ritual_txt, .total_pendulum_txt, .total_spell_txt, .total_trap_txt {
+
+    font-family: SquareType B !important;
+
+    font-size: 28px !important;
+
+    color: white !important;
+
+    text-shadow: 0px 0px 5px #888888 !important;
+
+    left: 210.5px !important;
+
+}
+
+
+
+#search&gt;.title_txt {
+
+  font-family: Work Sans Thin !important;
+
+  font-weight: 60 !important;
+
+}
+
+
+
+/*FONT Field section*/
+
+
+
+#cib1_txt {
+
+  left: 772.5px !important;
+
+}
+
+
+
+#cig1_txt {
+
+  left: 757.5px !important;
+
+}
+
+
+
+#cib2_txt {
+
+  left: 210.5px !important;
+
+}
+
+
+
+#cig2_txt {
+
+  left: 225.5px !important;
+
+}
+
+
+
+span.gray_txt.arial_rounded25, span.white_txt.arial_rounded25 {
+
+    font-family: Work Sans Thin !important;
+
+}
+
+
+
+#turn&gt;.arial_rounded20 {
+
+  transform: scaleX(90%) !important;
+
+  transform-origin: left !important;
+
+  left: 6px !important;
+
+  top: 1px !important;
+
+}
+
+
+
+span.end_turn_txt.arial_rounded20 {
+
+    transform: scaleX(66%) !important;
+
+    transform-origin: left !important;
+
+    letter-spacing: -1px !important;
+
+}
+
+
+
+span.start_turn_txt.arial_rounded20 {
+
+    transform: scaleX(62%) !important;
+
+    transform-origin: left !important;
+
+    letter-spacing: -1px !important;
+
+}
+
+
+
+div div b {
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 500 !important;
+
+}
+
+
+
+span.arial_rounded20 {
+
+    padding-top: 1px !important;
+
+    padding-left: 2px !important;
+
+    font-family: var(--font-family) !important;
+
+    font-weight: 600 !important;
+
+}
+
+
+
+.counter&gt;.total_txt {
+
+  font-family: SquareType B !important;
+
+  left: -29% !important;
+
+  top: -37% !important;
+
+  font-size: 22px !important;
+
+}
+
+
+
+#field_stats&gt;span {
+
+  /*font-family: SquareType B;*/
+
+  font-family: MatrixRegularSmallCaps !important;
+
+  font-size: 20px !important;
+
+  font-weight: 600 !important;
+
+}
+
+
+
+#om1_txt, #om2_txt, #om3_txt, #om4_txt, #om5_txt {
+
+  top: 150px !important;
+
+}
+
+
+
+#numbers&gt;span {
+
+  font-family: SquareType B !important;
+
+  font-size: 32px !important;
+
+}
+
+
+
+#input&gt;.title_txt, #input&gt;.body_txt {
+
+  font-family: var(--font-family) !important;
+
+  font-weight: 600 !important;
+
+}
+
+
+
+#msg&gt;.title_txt, #msg&gt;.body_txt {
+
+  font-family: var(--font-family) !important;
+
+  font-weight: 600 !important;
+
+  text-align: center !important;
+
+}
+
+
+
+#turn&gt;.arial_rounded20, #start_turn&gt;.arial_rounded20, #end_turn&gt;.arial_rounded20 {
+
+  font-family: Work Sans Thin !important;
+
+  font-weight: 400 !important;
+
+}
+
+
+
+/* UI ELEMENT REPLACEMENT */
+
+
+
+/*Rock paper scissors cards*/
+
+/* Nibiru - scroll - gimmick puppet */
+
+/*
+
+.content .cardfront .cardfront_content&gt;img.pic[src*=&quot;card/rock&quot;] {
+
+	content: url(&quot;https://images.duelingbook.com/card-pics/10345.jpg&quot;);
+
+}
+
+
+
+.content .cardfront .cardfront_content&gt;img.pic[src*=&quot;card/paper&quot;] {
+
+	content: url(&quot;https://images.duelingbook.com/card-pics/9969.jpg&quot;);
+
+}
+
+
+
+.content .cardfront .cardfront_content&gt;img.pic[src*=&quot;card/scissors&quot;] {
+
+	content: url(&quot;https://images.duelingbook.com/card-pics/6031.jpg&quot;);
+
+}*/
+
+
+
+/*Geargiano*/
+
+.content .cardfront .cardfront_content&gt;img.pic[src*=&quot;card/rock&quot;] {
+
+	content: url(&quot;https://images.duelingbook.com/card-pics/1759.jpg&quot;) !important;
+
+}
+
+
+
+.content .cardfront .cardfront_content&gt;img.pic[src*=&quot;card/paper&quot;] {
+
+	content: url(&quot;https://images.duelingbook.com/card-pics/6302.jpg&quot;) !important;
+
+}
+
+
+
+.content .cardfront .cardfront_content&gt;img.pic[src*=&quot;card/scissors&quot;] {
+
+	content: url(&quot;https://images.duelingbook.com/card-pics/5444.jpg&quot;) !important;
+
+}
+
+
+
+.phase .background, .phase .phase_dark_blue, .phase .phase_dark_red {
+
+  display: none !important;
+
+}
+
+
+
+#sp&gt;span, #ep&gt;span {
+
+  left: 4.5px !important;
+
+}
+
+
+
+#m1 {
+
+  left: 467px !important;
+
+}
+
+
+
+#bp {
+
+  left: 516px !important;
+
+}
+
+
+
+#bp&gt;span {
+
+  left: 4px !important;
+
+}
+
+
+
+#m2&gt;span {
+
+  left: 4px !important;
+
+}
+
+
+
+#turn&gt;.background, #start_turn&gt;.background, #end_turn&gt;.background {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/turn_background.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#turn&gt;.blue {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/turn_blue.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#turn&gt;.red, #start_turn&gt;.red, #end_turn&gt;.red {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/turn_red.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#start_turn&gt;.green, #end_turn&gt;.green {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/turn_green.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#end_turn&gt;.yellow {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/turn_yellow.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+.white_glow {
+
+  display: none !important;
+
+}
+
+
+
+#msg, #confirm, #confirm2, #combo {
+
+  background-image: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/msg_background.svg&quot;) !important;
+
+}
+
+
+
+#input {
+
+  background-image: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/msg_background.svg&quot;) !important;
+
+}
+
+
+
+.phase_blue {
+
+  filter: invert() !important;
+
+  scale: 115% !important;
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/phase_blue.svg&quot;) !important;
+
+}
+
+
+
+.phase_red {
+
+  filter: invert() !important;
+
+  scale: 115% !important;
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/phase_red.svg&quot;) !important;
+
+}
+
+
+
+#view&gt;.title_txt {
+
+  top: 6px !important;
+
+}
+
+
+
+#view&gt;img {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/vvv2.svg&quot;) !important;
+
+}
+
+
+
+#view&gt;.content {
+
+  width: 583px !important;
+
+}
+
+
+
+.exit_btn {
+
+  content: url(&quot;https://www.svgrepo.com/show/326572/close-circle-outline.svg&quot;) !important;
+
+  top: 6px !important;
+
+  left: 565px !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+#overlay&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/195652/orbit.svg&quot;) !important;
+
+  filter: invert() !important;
+
+  scale: 50% !important;
+
+}
+
+
+
+.checkbox {
+
+  background-image: url(&quot;https://www.svgrepo.com/show/326821/square-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+}
+
+
+
+.check {
+
+  content: url(&quot;https://www.svgrepo.com/show/326560/checkmark-outline.svg&quot;) !important;
+
+}
+
+
+
+#sword&gt;img {
+
+  display: none !important;
+
+}
+
+
+
+#field_spell_pic {
+
+  left: 289px !important;
+
+  top: 61px !important;
+
+  width: 461px !important;
+
+  height: 461px !important;
+
+  filter: blur(1px) !important; 
+
+}
+
+
+
+/*red_stream, blue_stream for attack declarations*/
+
+
+
+#field_zones {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_zones.svg&quot;) !important;
+
+}
+
+
+
+#field_zones2 {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_zones2.svg&quot;) !important;
+
+}
+
+
+
+#field_zones3 {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_zones3.svg&quot;) !important;
+
+}
+
+
+
+#field_zones4 {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_zones4.svg&quot;) !important;
+
+}
+
+
+
+#field_decks {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_decks.svg&quot;) !important;
+
+}
+
+
+
+#field_decks2 {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_decks2.svg&quot;) !important;
+
+}
+
+
+
+.deck_constructor {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/deck_constructor2.svg&quot;) !important;
+
+}
+
+
+
+#search&gt;img {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/search.svg&quot;) !important;
+
+}
+
+
+
+.minimize_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326571/close-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+  scale: 130% !important;
+
+}
+
+
+
+.refresh_btn&gt;img {
+
+  content: url(&quot;https://www.svgrepo.com/show/326779/reload-circle-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+  scale: 130% !important;
+
+}
+
+
+
+.yes_btn:hover, .no_btn:hover, .cancel_btn:hover, .ok_btn:hover {
+
+  filter: brightness(120%) !important;
+
+}
+
+
+
+.prev_btn:hover, .next_btn:hover {
+
+  filter: invert() drop-shadow(0px 0px 3px white) !important;
+
+}
+
+
+
+.yes_btn&gt;img {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/yes_btn.svg&quot;) !important;
+
+}
+
+
+
+.no_btn&gt;img {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/no_btn.svg&quot;) !important;
+
+}
+
+
+
+.cancel_btn&gt;img {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/cancel_btn.svg&quot;) !important;
+
+}
+
+
+
+.ok_btn&gt;img {
+
+  content: url(&quot;https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/ok_btn.svg&quot;) !important;
+
+}
+
+
+
+.prev_btn {
+
+  content: url(&quot;https://www.svgrepo.com/show/326562/chevron-back-circle-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+  scale: 125% !important;
+
+}
+
+
+
+.next_btn {
+
+  content: url(&quot;https://www.svgrepo.com/show/326565/chevron-forward-circle-outline.svg&quot;) !important;
+
+  filter: invert() !important;
+
+  scale: 125% !important;
+
+}</style>
+  <svg:rect
+     y="1.4210855e-14"
+     x="9.2370556e-14"
+     height="574"
+     width="634"
+     id="rect1470"
+     style="fill:#323232;fill-opacity:0.89601767;stroke:none;stroke-width:3.65309;stroke-linecap:square;stroke-dashoffset:6.80315;stop-color:#000000" />
+  <svg:rect
+     y="1.4210855e-14"
+     x="9.2370556e-14"
+     height="6"
+     width="634"
+     id="rect1472"
+     style="fill:#683bb5;fill-opacity:1;stroke:none;stroke-width:0.966549;stroke-linecap:square;stroke-dashoffset:6.80315;stop-color:#000000" />
+</svg:svg>
