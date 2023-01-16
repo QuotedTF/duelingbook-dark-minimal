@@ -12,6 +12,8 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
 
 3. Paste the <a href="https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/duelingbook.css">code</a> in the "Code" section
 
+4. Wait for the custom fonts to load in or refresh the page 
+
 ## To Do List
 
  * ~~End turn and Start turn buttons~~
