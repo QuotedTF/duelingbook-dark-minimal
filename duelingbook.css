@@ -1003,8 +1003,8 @@ span.arial_rounded20 {
   background-image: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/msg_background.svg");
 }
 
-#over {
-  background-image: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/over.svg");
+#over>img {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/over.svg");
 }
 
 .phase_blue {
