@@ -345,6 +345,25 @@ div.profile_txt.textarea.aliased.scrollpane.selectable.os-host.os-theme-dark.os-
     color: var(--text-color);
 }
 
+.social_buttons>span {
+  font-family: var(--font-family);
+  font-weight: 600;
+}
+
+/*
+profile avatar frame (how to tell red from teal? are there other colours?)
+.profile_avatar .avatar_frame {
+
+}
+*/
+
+/*
+profile pictures
+.profile_avatar .image {
+  border-radius: 0%;
+}
+*/
+
 /*My Profile*/
 
 textarea.profile_txt {
@@ -407,6 +426,11 @@ span.not_link, span.link {
 div.reply_btn, div.date_txt.arial_rounded18 {
     font-family: var(--font-family);
     font-weight: 500;
+}
+
+.arial_black2 {
+  font-family: var(--font-family);
+  font-weight: 600;
 }
 
 div.status_txt.size18.cyan.selectable {
@@ -502,6 +526,11 @@ div.desc_txt {
 /*FONT Friend Requests*/
 
 div.accept_btn.arial_rounded25 {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+div.revoke_btn.arial_rounded25 {
     font-family: var(--font-family);
     font-weight: 500;
 }
@@ -1058,6 +1087,10 @@ span.arial_rounded20 {
   filter: brightness(120%);
 }
 
+.prev_btn:hover, .next_btn:hover {
+  filter: invert() drop-shadow(0px 0px 3px white);
+}
+
 .yes_btn>img {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/yes_btn.svg");
 }
@@ -1072,4 +1105,16 @@ span.arial_rounded20 {
 
 .ok_btn>img {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/ok_btn.svg");
+}
+
+.prev_btn {
+  content: url("https://www.svgrepo.com/show/326562/chevron-back-circle-outline.svg");
+  filter: invert();
+  scale: 125%;
+}
+
+.next_btn {
+  content: url("https://www.svgrepo.com/show/326565/chevron-forward-circle-outline.svg");
+  filter: invert();
+  scale: 125%;
 }
