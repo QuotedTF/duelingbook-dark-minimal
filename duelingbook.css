@@ -350,19 +350,19 @@ div.profile_txt.textarea.aliased.scrollpane.selectable.os-host.os-theme-dark.os-
   font-weight: 600;
 }
 
-/*
-profile avatar frame (how to tell red from teal? are there other colours?)
-.profile_avatar .avatar_frame {
-
+/*profile avatar frame*/
+.profile_avatar .avatar_frame[src*="teal"] {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/avatar_teal.svg");
 }
-*/
 
-/*
-profile pictures
-.profile_avatar .image {
+.profile_avatar .avatar_frame[src*="red"], .avatar .avatar_frame[src*="red"] {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/avatar_red.svg");
+}
+
+/*profile pictures*/
+.profile_avatar .image, .avatar .image {
   border-radius: 0%;
 }
-*/
 
 /*My Profile*/
 

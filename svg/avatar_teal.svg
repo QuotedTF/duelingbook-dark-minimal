@@ -6,12 +6,12 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="avatar_teal.svg"
-   version="1.1"
-   viewBox="0 0 307.5 307.5"
+   id="Layer_1"
    data-name="Layer 1"
-   id="Layer_1">
+   viewBox="0 0 307.5 307.5"
+   version="1.1"
+   sodipodi:docname="avatar_teal.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <svg:metadata
      id="metadata24">
     <rdf:RDF>
@@ -24,27 +24,28 @@
     </rdf:RDF>
   </svg:metadata>
   <sodipodi:namedview
-     inkscape:current-layer="Layer_1"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-11"
-     inkscape:window-x="-11"
-     inkscape:cy="153.75"
-     inkscape:cx="153.75"
-     inkscape:zoom="5.9502325"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     showgrid="false"
-     id="namedview22"
-     inkscape:window-height="2066"
-     inkscape:window-width="3840"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     id="namedview22"
+     showgrid="false"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:zoom="5.4003569"
+     inkscape:cx="141.15849"
+     inkscape:cy="135.30102"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
   <script
      id="current-song-media-session-proxy" />
   <svg:defs
@@ -52,32 +53,32 @@
     <svg:style
        id="style2">.cls-1{fill:url(#linear-gradient);}.cls-2{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:5px;}</svg:style>
     <svg:linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1, 0, 0, -1, 0, 308)"
-       y2="11.73"
-       x2="296.31"
-       y1="296.73"
+       id="linear-gradient"
        x1="11.26"
-       id="linear-gradient">
+       y1="296.73"
+       x2="296.31"
+       y2="11.73"
+       gradientTransform="matrix(1, 0, 0, -1, 0, 308)"
+       gradientUnits="userSpaceOnUse">
       <svg:stop
-         id="stop4"
-         stop-opacity="0.8"
+         offset="0"
          stop-color="#fff"
-         offset="0" />
-      <svg:stop
-         id="stop6"
          stop-opacity="0.8"
+         id="stop4" />
+      <svg:stop
+         offset="0.82"
          stop-color="#009da0"
-         offset="0.82" />
+         stop-opacity="0.8"
+         id="stop6" />
     </svg:linearGradient>
   </svg:defs>
   <svg:title
      id="title11">avatar_teal</svg:title>
   <svg:rect
-     style="fill:none;stroke:#18a6a9;stroke-width:2.03124;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;stop-color:#000000"
-     id="rect849"
-     width="260.21222"
-     height="260.21222"
+     y="23.643999"
      x="23.644159"
-     y="23.669298" />
+     height="260.21222"
+     width="260.21222"
+     id="rect849"
+     style="fill:none;stroke:#18a6a9;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;stop-color:#000000" />
 </svg:svg>

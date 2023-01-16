@@ -39,7 +39,7 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  
  * ~~Better Yes / No / Cancel buttons~~
  
- * Profile avatar frames
+ * ~~Profile avatar frames~~
 
 ## Credits
 
