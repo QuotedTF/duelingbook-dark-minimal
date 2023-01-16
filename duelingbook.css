@@ -775,8 +775,7 @@ span.connection_status {
 }
 
 #ss_spiral>img {
-  content: url("https://freesvg.org/img/Magic-Circle-Blank-03.png");
-  filter: invert();
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/png/the_seal_of_orichalcos.png");
   scale: 50%;
   transform-origin: center;
 }
