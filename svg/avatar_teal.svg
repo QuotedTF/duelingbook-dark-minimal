@@ -1,1 +1,83 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 307.5 307.5"><script xmlns="" id="current-song-media-session-proxy"/><defs><style>.cls-1{fill:url(#linear-gradient);}.cls-2{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:5px;}</style><linearGradient id="linear-gradient" x1="11.26" y1="296.73" x2="296.31" y2="11.73" gradientTransform="matrix(1, 0, 0, -1, 0, 308)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity="0.8"/><stop offset="0.82" stop-color="#009da0" stop-opacity="0.8"/></linearGradient></defs><title>avatar_teal</title><g id="teal_frame_mc" data-name="teal frame mc"><g id="Symbol_851_0_Layer0_0_FILL" data-name="Symbol 851 0 Layer0 0 FILL"><path class="cls-1" d="M301.05,22.2q-1.6-14-15.8-15.7-10.1-2-32.5-3.6Q211.76,0,153.85,0q-58.09,0-99,2.9Q32.3,4.51,22.2,6.5,8.1,8.2,6.45,22.35q-2,10.2-3.55,32.45Q0,95.79,0,153.8t2.9,98.9Q4.51,275,6.55,285.15q1.55,14.25,15.75,16,10.2,1.9,32.45,3.45,41,3,99,2.95t98.95-2.95q22.35-1.55,32.45-3.45,14.3-1.69,15.85-15.75,2-10.2,3.65-32.65,2.89-41,2.85-98.95T304.65,54.8Q303,32.41,301.05,22.2Z" transform="translate(0 0)"/></g></g><g id="Layer0_0_FILL" data-name="Layer0 0 FILL"><path d="M281.75,45.75q0-20-20-20h-216q-20,0-20,20v216q0,20,20,20h216q20,0,20-20Z" transform="translate(0 0)"/></g><path id="Layer0_0_1_STROKES" data-name="Layer0 0 1 STROKES" class="cls-2" d="M261.75,25.75h-216q-20,0-20,20v216q0,20,20,20h216q20,0,20-20v-216Q281.75,25.76,261.75,25.75Z" transform="translate(0 0)"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="avatar_teal.svg"
+   version="1.1"
+   viewBox="0 0 307.5 307.5"
+   data-name="Layer 1"
+   id="Layer_1">
+  <svg:metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="Layer_1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:cy="153.75"
+     inkscape:cx="153.75"
+     inkscape:zoom="5.9502325"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     showgrid="false"
+     id="namedview22"
+     inkscape:window-height="2066"
+     inkscape:window-width="3840"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <script
+     id="current-song-media-session-proxy" />
+  <svg:defs
+     id="defs9">
+    <svg:style
+       id="style2">.cls-1{fill:url(#linear-gradient);}.cls-2{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:5px;}</svg:style>
+    <svg:linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1, 0, 0, -1, 0, 308)"
+       y2="11.73"
+       x2="296.31"
+       y1="296.73"
+       x1="11.26"
+       id="linear-gradient">
+      <svg:stop
+         id="stop4"
+         stop-opacity="0.8"
+         stop-color="#fff"
+         offset="0" />
+      <svg:stop
+         id="stop6"
+         stop-opacity="0.8"
+         stop-color="#009da0"
+         offset="0.82" />
+    </svg:linearGradient>
+  </svg:defs>
+  <svg:title
+     id="title11">avatar_teal</svg:title>
+  <svg:rect
+     style="fill:none;stroke:#18a6a9;stroke-width:2.03124;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-dashoffset:6.80315;stroke-opacity:1;stop-color:#000000"
+     id="rect849"
+     width="260.21222"
+     height="260.21222"
+     x="23.644159"
+     y="23.669298" />
+</svg:svg>
