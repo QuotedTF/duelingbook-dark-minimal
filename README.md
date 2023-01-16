@@ -48,6 +48,6 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
 
  * <a href="https://github.com/mykesXD">mykesXD</a> for the initial repo and <a href="https://github.com/mykesXD/Duelingbook-Dark-Mode">project</a>
 
- * <a href="https://www.svgrepo.com">SVGRepo</a>  for the svg icons
+ * <a href="https://www.svgrepo.com">SVGRepo</a> for the svg icons
  
- * <a href="https://freesvg.org">FreeSVG</a> for the summoning circle graphic
+ * <a href="https://www.deviantart.com/xandrewproductions/art/The-Seal-of-Orichalcos-PNG3-For-Card-Art-763330028">XandrewProductions</a> for the Seal of Orichalcos graphic
