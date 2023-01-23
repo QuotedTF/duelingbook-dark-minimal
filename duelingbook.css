@@ -672,7 +672,7 @@ span.connection_status {
   transform: translate(113%, 0%);
 }
 
-#left_link_counter, right_link_counter {
+#left_link_counter, #right_link_counter {
   transform: translate(45%, -40%);
 }
 
@@ -787,7 +787,7 @@ span.connection_status {
 }
 
 .custom {
-  content: url();
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/custom.svg");
 }
 
 .tcg {
