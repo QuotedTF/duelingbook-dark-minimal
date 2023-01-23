@@ -10,7 +10,7 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
 
 2. Go to <a href="https://duelingbook.com">DuelingBook</a> and open the extension
 
-3. Paste the following snippet in the "Code" section
+3. Paste the following snippet into the "Code" section
 
 	``@import url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/duelingbook.css");``
 
