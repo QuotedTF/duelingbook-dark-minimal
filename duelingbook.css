@@ -214,6 +214,11 @@ div.combobox.proxy.unselectable {
     background: var(--bg-color);
     /*Delete line below for round edges*/
     border-radius: 0px;
+    letter-spacing: -0.4px;
+}
+
+.combobox_background {
+  display: none;
 }
 
 select {
@@ -806,15 +811,31 @@ span.connection_status {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/semi2.svg");
 }
 
+img.key {
+  content: url("https://www.svgrepo.com/show/326698/lock-closed-outline.svg");
+}
+
+img.watching {
+  content: url("https://www.svgrepo.com/show/326627/eye-outline.svg");
+}
+
+.duelbutton>img.watching {
+  left: 255px
+}
+
+.duelbutton {
+  width: 300px;
+}
+
 /* FONT REPLACEMENTS */
 
 /*FONT deck builder */
 
 #deck_constructor>.total_txt, .total_normal_txt, .total_effect_txt, .total_ritual_txt, .total_ritual_txt, .total_pendulum_txt, .total_spell_txt, .total_trap_txt {
-    font-family: SquareType B;
+    font-family: MatrixRegularSmallCaps;
     font-size: 28px;
     color: white;
-    text-shadow: 0px 0px 5px #888888;
+    text-shadow: 0px 0px 2px black, 1px 1px 2px black, -1px -1px 2px black;
     left: 210.5px;
 }
 
@@ -913,6 +934,14 @@ span.arial_rounded20 {
 #turn>.arial_rounded20, #start_turn>.arial_rounded20, #end_turn>.arial_rounded20 {
   font-family: Work Sans Thin;
   font-weight: 400;
+}
+
+.game_type {
+  font-family: var(--font-family);
+  font-weight: 600;
+  color: black;
+  text-shadow: none;
+  border: 1px solid black;
 }
 
 /* UI ELEMENT REPLACEMENT */
@@ -1144,4 +1173,9 @@ span.arial_rounded20 {
   content: url("https://www.svgrepo.com/show/326565/chevron-forward-circle-outline.svg");
   filter: invert();
   scale: 125%;
+}
+
+.export_btn {
+  content: url("https://www.svgrepo.com/show/326731/open-outline.svg");
+  filter: invert();
 }
