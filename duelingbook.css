@@ -628,6 +628,14 @@ span.connection_status {
     filter: invert();
 }
 
+#screenshot_btn .hidden {
+  box-shadow: none;
+}
+
+#screenshot_btn:hover>img, #mute_btn:hover>img {
+  filter: invert() drop-shadow(0px 0px 5px gray) drop-shadow(0px 0px 5px gray) drop-shadow(0px 0px 5px gray);
+}
+
 #mute_btn>img {
     content: url("https://www.svgrepo.com/show/326453/volume-off-outline.svg");
     filter: invert();
@@ -850,6 +858,11 @@ img.watching {
 }
 
 #search>.title_txt {
+  font-family: Work Sans Thin;
+  font-weight: 60;
+}
+
+#upload_card .title_txt {
   font-family: Work Sans Thin;
   font-weight: 60;
 }
@@ -1135,6 +1148,10 @@ span.arial_rounded20 {
 
 #search>img {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/search.svg");
+}
+
+#upload_card .background {
+  filter: saturate(13%) invert(100%) hue-rotate(325deg) brightness(350%) contrast(85%);
 }
 
 .minimize_btn>img {
