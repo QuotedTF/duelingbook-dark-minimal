@@ -1219,7 +1219,7 @@ span.arial_rounded20 {
 }
 
 .discord_btn:hover>img {
-  filter: invert() drop-shadow(0px 0px 5px purple) drop-shadow(0px 0px 5px purple) drop-shadow(0px 0px 5px purple);
+  filter: invert() drop-shadow(0px 0px 5px #7289da) drop-shadow(0px 0px 5px #7289da) drop-shadow(0px 0px 5px #7289da);
 }
 
 .instagram_btn>img {
@@ -1228,7 +1228,7 @@ span.arial_rounded20 {
 }
 
 .instagram_btn:hover>img {
-  filter: invert() drop-shadow(0px 0px 5px pink) drop-shadow(0px 0px 5px pink) drop-shadow(0px 0px 5px pink);
+  filter: invert() drop-shadow(0px 0px 5px #e56969) drop-shadow(0px 0px 5px #e56969) drop-shadow(0px 0px 5px #e56969);
 }
 
 .facebook_btn>img {
@@ -1237,7 +1237,7 @@ span.arial_rounded20 {
 }
 
 .facebook_btn:hover>img {
-  filter: invert() drop-shadow(0px 0px 5px blue) drop-shadow(0px 0px 5px blue) drop-shadow(0px 0px 5px blue);
+  filter: invert() drop-shadow(0px 0px 5px #3360ff) drop-shadow(0px 0px 5px #3360ff) drop-shadow(0px 0px 5px #3360ff);
 }
 
 .youtube_btn>img {
@@ -1246,7 +1246,7 @@ span.arial_rounded20 {
 }
 
 .youtube_btn:hover>img {
-  filter: invert() drop-shadow(0px 0px 5px red) drop-shadow(0px 0px 5px red) drop-shadow(0px 0px 5px red);
+  filter: invert() drop-shadow(0px 0px 5px #ee0f0f) drop-shadow(0px 0px 5px #ee0f0f) drop-shadow(0px 0px 5px #ee0f0f);
 }
 
 .twitter_btn>img {
@@ -1255,5 +1255,5 @@ span.arial_rounded20 {
 }
 
 .twitter_btn:hover>img {
-  filter: invert() drop-shadow(0px 0px 5px cyan) drop-shadow(0px 0px 5px cyan) drop-shadow(0px 0px 5px cyan);
+  filter: invert() drop-shadow(0px 0px 5px #61c5ec) drop-shadow(0px 0px 5px #61c5ec) drop-shadow(0px 0px 5px #61c5ec);
 }
