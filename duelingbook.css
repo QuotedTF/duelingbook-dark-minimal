@@ -20,6 +20,16 @@
 	filter: brightness(120%);
 }
 
+#brionac_large {
+  left: -1150px;
+  top: -1060px;
+  width: 3800px;
+  height: 2750px;
+  scale: 25%;
+  rotate: -11.2deg;
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/png/scareclaw_tri_heart.png");
+}
+
 /* DUEL UI */
 
 /*===== CHANGE AVATAR AND BACKGROUND by replacing links below with your image or gif links =====*/
@@ -1178,4 +1188,55 @@ span.arial_rounded20 {
 .export_btn {
   content: url("https://www.svgrepo.com/show/326731/open-outline.svg");
   filter: invert();
+}
+
+/* Social media icons */
+
+.social_btn:hover .social_bg {
+  box-shadow: none;
+}
+
+.discord_btn>img {
+  content: url("https://www.svgrepo.com/show/473585/discord.svg");
+  filter: invert();
+}
+
+.discord_btn:hover>img {
+  filter: invert() drop-shadow(0px 0px 5px purple) drop-shadow(0px 0px 5px purple) drop-shadow(0px 0px 5px purple);
+}
+
+.instagram_btn>img {
+  content: url("https://www.svgrepo.com/show/473664/instagram.svg");
+  filter: invert();
+}
+
+.instagram_btn:hover>img {
+  filter: invert() drop-shadow(0px 0px 5px pink) drop-shadow(0px 0px 5px pink) drop-shadow(0px 0px 5px pink);
+}
+
+.facebook_btn>img {
+  content: url("https://www.svgrepo.com/show/473600/facebook.svg");
+  filter: invert();
+}
+
+.facebook_btn:hover>img {
+  filter: invert() drop-shadow(0px 0px 5px blue) drop-shadow(0px 0px 5px blue) drop-shadow(0px 0px 5px blue);
+}
+
+.youtube_btn>img {
+  content: url("https://www.svgrepo.com/show/473495/youtube.svg");
+  filter: invert();
+}
+
+.youtube_btn:hover>img {
+  filter: invert() drop-shadow(0px 0px 5px red) drop-shadow(0px 0px 5px red) drop-shadow(0px 0px 5px red);
+}
+
+.twitter_btn>img {
+  content: url("https://www.svgrepo.com/show/473815/twitter.svg");
+  filter: invert();
+}
+
+.twitter_btn:hover>img {
+  filter: invert() drop-shadow(0px 0px 5px cyan) drop-shadow(0px 0px 5px cyan) drop-shadow(0px 0px 5px cyan);
 }

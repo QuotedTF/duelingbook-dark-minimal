@@ -39,7 +39,7 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
    * Thinking about replacing the entire card rather than just the image in the future
  
  * ~~Public chat and online users window icons~~
-   * Duel log window icons
+   * ~~Duel log window icons~~
  
  * ~~Better summoning circle graphic~~
  
@@ -48,6 +48,8 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  * ~~Profile avatar frames~~
  
  * ~~Duel room icons~~
+ 
+ * ~~Better title screen social icons~~
 
 ## Credits
 
@@ -56,3 +58,5 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  * <a href="https://www.svgrepo.com">SVGRepo</a> for the svg icons
  
  * <a href="https://www.deviantart.com/xandrewproductions/art/The-Seal-of-Orichalcos-PNG3-For-Card-Art-763330028">XandrewProductions</a> for the Seal of Orichalcos graphic
+ 
+ * <a href="https://www.deviantart.com/matteste/art/Scareclaw-Tri-Heart-YuGiOh-Master-Duel-936214495">matteste</a> for the Scareclaw Tri-Heart Master Duel asset rip
