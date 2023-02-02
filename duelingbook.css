@@ -20,7 +20,7 @@
 	filter: brightness(120%);
 }
 
-#brionac_large {
+#brionac_large[src*="/brionac"] {
   left: -1150px;
   top: -1060px;
   width: 3800px;
@@ -28,6 +28,36 @@
   scale: 25%;
   rotate: -11.2deg;
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/png/scareclaw_tri_heart.png");
+}
+
+#brionac_large[src*="/pumpking"] {
+  left: -1050px;
+  top: -1575px;
+  width: 3600px;
+  height: 3200px;
+  scale: 25%;
+  rotate: -8deg;
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/png/ghostrick_festival.png");
+}
+
+#brionac_large[src*="/turkey"] {
+  left: -370px;
+  top: -990px;
+  width: 2200px;
+  height: 2500px;
+  scale: 25%;
+  rotate: -11.2deg;
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/png/ukiyoe_punk_amazing_dragon.png");
+}
+
+#brionac_large[src*="/snowman"] {
+  left: -770px;
+  top: -820px;
+  width: 3300px;
+  height: 2150px;
+  scale: 25%;
+  rotate: -11.2deg;
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/png/starry_night_starry_dragon.png");
 }
 
 /* DUEL UI */
