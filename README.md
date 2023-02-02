@@ -59,4 +59,4 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  
  * <a href="https://www.deviantart.com/xandrewproductions/art/The-Seal-of-Orichalcos-PNG3-For-Card-Art-763330028">XandrewProductions</a> for the Seal of Orichalcos graphic
  
- * <a href="https://www.deviantart.com/matteste/art/Scareclaw-Tri-Heart-YuGiOh-Master-Duel-936214495">matteste</a> for the Scareclaw Tri-Heart Master Duel asset rip
+ * <a href="https://www.deviantart.com/matteste">matteste</a> for the Scareclaw Tri-Heart, Ghostrick Festival, Ukiyoe-P.U.N.K. Amazing Dragon and Starry Night, Starry Dragon Master Duel asset rip
