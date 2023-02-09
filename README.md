@@ -10,11 +10,7 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
 
 2. Go to <a href="https://duelingbook.com">DuelingBook</a> and open the extension
 
-3. Paste the following snippet into the "Code" section
-
-	``@import url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/duelingbook.css");``
-
-4. Wait for the custom fonts to load in or refresh the page 
+3. Paste the <a href="https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/duelingbook.css">code</a> in the "Code" section
 
 ## To Do List
 
@@ -50,6 +46,8 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  * ~~Duel room icons~~
  
  * ~~Better title screen social icons~~
+ 
+ * ~~Sword replacement graphic~~
 
 ## Credits
 

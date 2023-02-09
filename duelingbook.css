@@ -1077,7 +1077,10 @@ span.arial_rounded20 {
 }
 
 .white_glow {
-  display: none;
+  scale: 70%;
+  left: 23.5px;
+  width: 83px;
+  filter: sepia(100%) hue-rotate(100deg) opacity(80%);
 }
 
 #msg, #confirm, #confirm2, #combo, #input {
@@ -1112,11 +1115,13 @@ span.arial_rounded20 {
   width: 583px;
 }
 
-.exit_btn {
-  content: url("https://www.svgrepo.com/show/326572/close-circle-outline.svg");
+#view .exit_btn {
   top: 6px;
   left: 565px;
-  filter: invert();
+}
+
+.chat_top_bg {
+  border-radius: 0px;
 }
 
 #overlay>img {
@@ -1134,8 +1139,14 @@ span.arial_rounded20 {
   content: url("https://www.svgrepo.com/show/326560/checkmark-outline.svg");
 }
 
+#sword {
+  scale: 30%;
+  rotate: 45deg;
+}
+
 #sword>img {
-  display: none;
+  content: url("https://www.svgrepo.com/show/326590/compass-outline.svg");
+  filter: invert();
 }
 
 #field_spell_pic {
@@ -1185,15 +1196,26 @@ span.arial_rounded20 {
 }
 
 .minimize_btn>img {
-  content: url("https://www.svgrepo.com/show/326571/close-outline.svg");
+  content: url("https://www.svgrepo.com/show/326479/arrow-back-outline.svg");
+  transform: rotate(-45deg);
   filter: invert();
-  scale: 130%;
+  scale: 100%;
 }
 
 .refresh_btn>img {
   content: url("https://www.svgrepo.com/show/326779/reload-circle-outline.svg");
   filter: invert();
-  scale: 130%;
+  scale: 100%;
+}
+
+.exit_btn>img {
+  content: url("https://www.svgrepo.com/show/326572/close-circle-outline.svg");
+  filter: invert();
+}
+
+img.lookup {
+  content: url("https://www.svgrepo.com/show/326806/search-outline.svg");
+  filter: invert();
 }
 
 .yes_btn:hover, .no_btn:hover, .cancel_btn:hover, .ok_btn:hover {
