@@ -747,7 +747,6 @@ span.connection_status {
 }
 
 #minus_btn {
-  left: 538px;
   filter: invert();
 }
 
@@ -778,6 +777,12 @@ span.connection_status {
 #private_btn>img {
   content: url("https://www.svgrepo.com/show/326555/chatbubbles-outline.svg");
   filter: invert();
+}
+
+#private_btn_anim>img {
+  content: url("https://www.svgrepo.com/show/371859/exclamation-circle.svg");
+  filter: invert();
+  scale: 50%;
 }
 
 #think_btn>img {
@@ -898,22 +903,6 @@ img.watching {
 }
 
 /*FONT Field section*/
-
-#cib1_txt {
-  left: 772.5px;
-}
-
-#cig1_txt {
-  left: 757.5px;
-}
-
-#cib2_txt {
-  left: 210.5px;
-}
-
-#cig2_txt {
-  left: 225.5px;
-}
 
 span.gray_txt.arial_rounded25, span.white_txt.arial_rounded25 {
     font-family: Work Sans Thin;
