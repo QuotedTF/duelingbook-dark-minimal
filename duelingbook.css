@@ -319,6 +319,8 @@ div.log_txt.textarea.scrollpane.selectable.os-host.os-theme-dark.os-host-resize-
     border: 1px solid var(--border-color);
 }
 
+
+
 /*Login Screen*/
 
 div#login div.background{
@@ -986,6 +988,10 @@ span.arial_rounded20 {
   border: 1px solid black;
 }
 
+.format > .background {
+  border-radius: 0px;
+}
+
 /* UI ELEMENT REPLACEMENT */
 
 /*Rock paper scissors cards*/
@@ -1020,16 +1026,21 @@ span.arial_rounded20 {
   display: none;
 }
 
-#sp>span, #ep>span {
-  left: 4.5px;
-}
-
-#m1 {
+/*Selector is used to only affect MR5 zones*/
+#duel_start2:not([style*="display: none"])~#field>#field_content>#m1 {
   left: 467px;
 }
 
-#bp {
+#duel_start2:not([style*="display: none"])~#field>#field_content>#bp {
   left: 516px;
+}
+
+#dp>span {
+  left: 4.5px;
+}
+
+#sp>span, #ep>span {
+  left: 5px;
 }
 
 #bp>span {
@@ -1037,7 +1048,7 @@ span.arial_rounded20 {
 }
 
 #m2>span {
-  left: 4px;
+  left: 4.5px;
 }
 
 #turn>.background, #start_turn>.background, #end_turn>.background {
