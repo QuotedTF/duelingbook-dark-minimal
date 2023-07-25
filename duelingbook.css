@@ -240,6 +240,19 @@ input[type] {
     border: solid 1px var(--border-color);
 }
 
+#input input[type="text"] {
+  color: var(--text-color);
+  font-family: var(--font-family);
+  font-weight: 600;
+  border: solid 1px var(--border-color);
+}
+
+#input .textinput {
+  color: var(--text-color);
+  font-family: var(--font-family);
+  font-weight: 600;
+}
+
 div.textinput.proxy {
     background: none;
     color: var(--text-color);
@@ -269,7 +282,7 @@ select {
 
 /*Chatting section*/
 
-div.cout_txt.textarea.scrollpane.selectable.os-host.os-theme-dark.os-host-resize-disabled.os-host-transition {
+div.textarea.scrollpane.selectable {
     background: none;
     color: var(--text-color);
     background: var(--bg-color);
@@ -392,12 +405,22 @@ div.profile_txt.textarea.aliased.scrollpane.selectable.os-host.os-theme-dark.os-
     color: var(--text-color);
 }
 
+#profile_content div.textinput.proxy {
+  font-family: var(--font-family);
+  color: var(--text-color);
+}
+
 .social_buttons>span {
   font-family: var(--font-family);
   font-weight: 600;
 }
 
+.view_all_friends_btn, .add_note_btn, .view_all_comments_btn, .about_lbl, .about_txt {
+  font-family: var(--font-family);
+}
+
 /*profile avatar frame*/
+
 .profile_avatar .avatar_frame[src*="teal"] {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/avatar_teal.svg");
 }
@@ -420,7 +443,7 @@ textarea.profile_txt {
 
 /*Online Users*/
 
-div.os-content.os-list div.cell.cell1 {
+div div.cell.cell1 {
     color: var(--text-color);
     background: var(--bg-color);
 }
@@ -1308,4 +1331,13 @@ img.lookup {
 
 .twitter_btn:hover>img {
   filter: invert() drop-shadow(0px 0px 5px #61c5ec) drop-shadow(0px 0px 5px #61c5ec) drop-shadow(0px 0px 5px #61c5ec);
+}
+
+.twitch_btn>img {
+  content: url("https://www.svgrepo.com/show/447120/twitch-fill.svg");
+  filter: invert();
+}
+
+.twitch_btn:hover>img {
+  filter: invert() drop-shadow(0px 0px 5px #6441a5) drop-shadow(0px 0px 5px #6441a5) drop-shadow(0px 0px 5px #6441a5);
 }
