@@ -240,14 +240,14 @@ input[type] {
     border: solid 1px var(--border-color);
 }
 
-#input input[type="text"] {
+#input,#input2 input[type="text"] {
   color: var(--text-color);
   font-family: var(--font-family);
   font-weight: 600;
   border: solid 1px var(--border-color);
 }
 
-#input .textinput {
+#input,#input2 .textinput {
   color: var(--text-color);
   font-family: var(--font-family);
   font-weight: 600;
@@ -987,7 +987,7 @@ span.arial_rounded20 {
   font-size: 32px;
 }
 
-#input>.title_txt, #input>.body_txt {
+#input,#input2>.title_txt, #input,#input2>.body_txt {
   font-family: var(--font-family);
   font-weight: 600;
 }
@@ -1106,7 +1106,7 @@ span.arial_rounded20 {
   filter: sepia(100%) hue-rotate(100deg) opacity(80%);
 }
 
-#msg, #confirm, #confirm2, #combo, #input {
+#msg, #confirm, #confirm2, #combo, #input, #input2 {
   background-image: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/msg_background.svg");
 }
 
