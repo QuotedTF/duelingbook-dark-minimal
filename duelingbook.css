@@ -240,14 +240,14 @@ input[type] {
     border: solid 1px var(--border-color);
 }
 
-#input,#input2 input[type="text"] {
+#input input[type="text"], #input2 input[type="text"] {
   color: var(--text-color);
   font-family: var(--font-family);
   font-weight: 600;
   border: solid 1px var(--border-color);
 }
 
-#input,#input2 .textinput {
+#input .textinput, #input2 .textinput {
   color: var(--text-color);
   font-family: var(--font-family);
   font-weight: 600;
@@ -987,7 +987,7 @@ span.arial_rounded20 {
   font-size: 32px;
 }
 
-#input,#input2>.title_txt, #input,#input2>.body_txt {
+#input>.title_txt,#input2>.title_txt, #input>.body_txt,#input2>.body_txt {
   font-family: var(--font-family);
   font-weight: 600;
 }
