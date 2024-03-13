@@ -862,6 +862,11 @@ span.connection_status {
   filter: invert();
 }
 
+.unlocked_btn>img {
+  content: url("https://www.svgrepo.com/show/326700/lock-open-outline.svg");
+  filter: invert();
+}
+
 #ss_spiral>img {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/png/the_seal_of_orichalcos.png");
   scale: 50%;
