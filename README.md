@@ -49,7 +49,7 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  
  * ~~Sword replacement graphic~~
 
- * Deck Constructor layout fix
+ * ~~Deck Constructor layout fix~~
 
 ## Credits
 
