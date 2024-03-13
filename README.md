@@ -49,6 +49,8 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  
  * ~~Sword replacement graphic~~
 
+ * Deck Constructor layout fix
+
 ## Credits
 
  * <a href="https://github.com/mykesXD">mykesXD</a> for the initial repo and <a href="https://github.com/mykesXD/Duelingbook-Dark-Mode">project</a>
