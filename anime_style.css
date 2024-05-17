@@ -1,7 +1,6 @@
 /*
 ANIME STYLE CARD FRAMES
 */
-
 @font-face {
     font-family: "Souvenir";
     src: url("https://db.onlinewebfonts.com/t/f6db100b432aade1520975f792f93753.eot");
@@ -21,43 +20,89 @@ ANIME STYLE CARD FRAMES
   top: 0px;
 }
 
-.cardfront_content>img.card_color[src*="spell_front2"] {
-  content: url("");
-  width: 815px;
-}
-
-.cardfront_content>img.card_color[src*="trap_front2"] {
-  content: url("");
+.cardfront_content>img.card_color[src*="normal_front2"] {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/normal.png");
   width: 812px;
   height: 1184px;
 }
 
 .cardfront_content>img.card_color[src*="effect_front2"] {
-  content: url("");
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/effect.png");
+  width: 812px;
+  height: 1184px;
+}
+
+.cardfront_content>img.card_color[src*="ritual_front2"] {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/ritual.png");
+  width: 812px;
+  height: 1184px;
+}
+
+.cardfront_content>img.card_color[src*="fusion_front2"] {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/fusion.png");
+  width: 812px;
+  height: 1184px;
+}
+
+.cardfront_content>img.card_color[src*="synchro_front2"] {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/synchro.png");
+  width: 812px;
+  height: 1184px;
+}
+
+.cardfront_content>img.card_color[src*="xyz_front2"] {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/xyz.png");
+  width: 812px;
+  height: 1184px;
+}
+
+.cardfront_content .pendulum_front>img {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/Pnormal.png");
+  left: -28px;
+  top: -27px;
+  width: 812px;
+  height: 1184px;
+}
+
+.cardfront_content>img.card_color[src*="link_front2"] {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/link.png");
+  width: 812px;
+  height: 1184px;
+}
+
+.cardfront_content>img.card_color[src*="spell_front2"] {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/spell.png");
+  width: 815px;
+}
+
+.cardfront_content>img.card_color[src*="trap_front2"] {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/trap.png");
   width: 812px;
   height: 1184px;
 }
 
 .cardfront_content>img.pic {
-  left: 17px;
-  top: 20px;
-  width: 781px;
-  height: 833px;
+  left: 23px;
+  top: 23px;
+  width: 769px;
+  height: 846px;
 }
 
 .cardfront_content>img.attribute[src*="fire"],.cardfront_content>img.attribute[src*="water"],.cardfront_content>img.attribute[src*="light"],.cardfront_content>img.attribute[src*="dark"],.cardfront_content>img.attribute[src*="earth"],.cardfront_content>img.attribute[src*="wind"],.cardfront_content>img.attribute[src*="divine"] {
-  left: 730px;
-  top: 888px;
-  transform: scale(85%);
+  transform: translate(20px, 865px) scale(90%);
 }
 
-.cardfront_content>img.level, .cardfront_content>img.rank {
-  top: 900px;
+.cardfront_content>img.level {
+  transform: translateX(-40px) translateY(788px);
+}
+
+.cardfront_content>img.rank { 
+  transform: translateY(800px);
 }
 
 .cardfront_content>img.attribute[src*="spell"],.cardfront_content>img.attribute[src*="trap"] {
   left: 372px;
-  top: 993px;
+  top: 999px;
 }
 
 .cardfront_content>span.name_txt {
@@ -71,14 +116,25 @@ ANIME STYLE CARD FRAMES
 }
 
 .cardfront_content>img.type_icon {
-  left: 469px;
-  top: 989px;
-  width: 85px;
-  height: 85px;
+  left: 480px;
+  top: 1016px;
+  scale: 200%
 }
 
 .cardfront_content>span.effect_txt {
   display: none;
+}
+
+.cardfront_content>span.card_pendulum_effect_txt {
+  display: none;
+}
+
+.cardfront_content>span.scale_left_txt {
+  transform: translate(-25px, 8px);
+}
+
+.cardfront_content>span.scale_right_txt {
+  transform: translate(30px, 8px);
 }
 
 .cardfront_content .monster_line, .cardfront_content>span.atk_lbl, .cardfront_content>span.def_lbl {
@@ -87,16 +143,23 @@ ANIME STYLE CARD FRAMES
 
 .cardfront_content>span.card_atk_txt, .cardfront_content>span.card_def_txt {
   /*font-family: "Souvenir";*/
-  top: 1025px;
-  scale: 400%;
+  top: 1060px;
+  scale: 350%;
 }
 
 .cardfront_content>span.card_atk_txt {
-  right: 562px;
+  right: 555px;
 }
 
 .cardfront_content>span.card_def_txt {
   right: 185px;
+}
+
+.cardfront_content>span.link_txt {
+  /*font-family: "Souvenir";*/
+  right: 135px;
+  top: 1064px;
+  scale: 250%;
 }
 
 .cardfront_content>span.passcode_txt {
