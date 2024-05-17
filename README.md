@@ -50,6 +50,17 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  * ~~Sword replacement graphic~~
 
  * ~~Deck Constructor layout fix~~
+ 
+## EXPERIMENTAL
+
+I'm tinkering with anime card frames. The stylesheet for those is standalone and in a separate file so you can choose whether or not to use it.  
+To use it, just copy the contents of "anime_style.css" and paste them at the bottom of the stylebot editor.
+
+To-dos:
+ * Pendulum frames (DB just has the green gradient which is then overlayed over the regular card frame)
+ * Card names (I'd like to add them to the big text box if possible)
+ * Card types and abilities (I'd like to use icons)
+ * Link arrows
 
 ## Credits
 
