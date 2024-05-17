@@ -1,0 +1,104 @@
+/*
+ANIME STYLE CARD FRAMES
+*/
+
+@font-face {
+    font-family: "Souvenir";
+    src: url("https://db.onlinewebfonts.com/t/f6db100b432aade1520975f792f93753.eot");
+    src: url("https://db.onlinewebfonts.com/t/f6db100b432aade1520975f792f93753.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/f6db100b432aade1520975f792f93753.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/f6db100b432aade1520975f792f93753.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/f6db100b432aade1520975f792f93753.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/f6db100b432aade1520975f792f93753.svg#Souvenir")format("svg");
+}
+
+.cardfront_content.card_border {
+  display: none;
+}
+
+.cardfront_content>img.card_color {
+  left: 0px;
+  top: 0px;
+}
+
+.cardfront_content>img.card_color[src*="spell_front2"] {
+  content: url("");
+  width: 815px;
+}
+
+.cardfront_content>img.card_color[src*="trap_front2"] {
+  content: url("");
+  width: 812px;
+  height: 1184px;
+}
+
+.cardfront_content>img.card_color[src*="effect_front2"] {
+  content: url("");
+  width: 812px;
+  height: 1184px;
+}
+
+.cardfront_content>img.pic {
+  left: 17px;
+  top: 20px;
+  width: 781px;
+  height: 833px;
+}
+
+.cardfront_content>img.attribute[src*="fire"],.cardfront_content>img.attribute[src*="water"],.cardfront_content>img.attribute[src*="light"],.cardfront_content>img.attribute[src*="dark"],.cardfront_content>img.attribute[src*="earth"],.cardfront_content>img.attribute[src*="wind"],.cardfront_content>img.attribute[src*="divine"] {
+  left: 730px;
+  top: 888px;
+  transform: scale(85%);
+}
+
+.cardfront_content>img.level, .cardfront_content>img.rank {
+  top: 900px;
+}
+
+.cardfront_content>img.attribute[src*="spell"],.cardfront_content>img.attribute[src*="trap"] {
+  left: 372px;
+  top: 993px;
+}
+
+.cardfront_content>span.name_txt {
+  top: 875px;
+  scale: 85%;
+  display: none;
+}
+
+.cardfront_content>span.spell_type_txt {
+  display: none;
+}
+
+.cardfront_content>img.type_icon {
+  left: 469px;
+  top: 989px;
+  width: 85px;
+  height: 85px;
+}
+
+.cardfront_content>span.effect_txt {
+  display: none;
+}
+
+.cardfront_content .monster_line, .cardfront_content>span.atk_lbl, .cardfront_content>span.def_lbl {
+  display: none;
+}
+
+.cardfront_content>span.card_atk_txt, .cardfront_content>span.card_def_txt {
+  /*font-family: "Souvenir";*/
+  top: 1025px;
+  scale: 400%;
+}
+
+.cardfront_content>span.card_atk_txt {
+  right: 562px;
+}
+
+.cardfront_content>span.card_def_txt {
+  right: 185px;
+}
+
+.cardfront_content>span.passcode_txt {
+  display: none;
+}
