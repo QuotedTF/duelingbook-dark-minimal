@@ -60,7 +60,7 @@ To-dos:
  * Pendulum frames (DB just has the green gradient which is then overlayed over the regular card frame)
  * Card names (I'd like to add them to the big text box if possible)
  * Card types and abilities (I'd like to use icons)
- * Link arrows
+ * ~~Link arrows~~
 
 ## Credits
 

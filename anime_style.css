@@ -26,6 +26,12 @@ ANIME STYLE CARD FRAMES
   height: 1184px;
 }
 
+.cardfront_content>img.card_color[src*="token_front2"] {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/token.png");
+  width: 812px;
+  height: 1184px;
+}
+
 .cardfront_content>img.card_color[src*="effect_front2"] {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/effect.png");
   width: 812px;
@@ -57,11 +63,12 @@ ANIME STYLE CARD FRAMES
 }
 
 .cardfront_content .pendulum_front>img {
-  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/Pnormal.png");
-  left: -28px;
-  top: -27px;
-  width: 812px;
-  height: 1184px;
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/pendulum.png");
+  left: -30px;
+  top: -29px;
+  width: 816px;
+  height: 1189px;
+  opacity: 90%;
 }
 
 .cardfront_content>img.card_color[src*="link_front2"] {
@@ -97,7 +104,7 @@ ANIME STYLE CARD FRAMES
 }
 
 .cardfront_content>img.rank { 
-  transform: translateY(800px);
+  transform: translateX(-40px) translateY(788px);
 }
 
 .cardfront_content>img.attribute[src*="spell"],.cardfront_content>img.attribute[src*="trap"] {
@@ -106,9 +113,7 @@ ANIME STYLE CARD FRAMES
 }
 
 .cardfront_content>span.name_txt {
-  top: 875px;
-  scale: 85%;
-  display: none;
+  
 }
 
 .cardfront_content>span.spell_type_txt {
@@ -119,6 +124,43 @@ ANIME STYLE CARD FRAMES
   left: 480px;
   top: 1016px;
   scale: 200%
+}
+
+.cardfront_content .black_arrow1, .cardfront_content .red_arrow1 {
+  transform: translateX(-65px) translateY(-183px) scale(115%);
+}
+
+.cardfront_content .black_arrow2, .cardfront_content .red_arrow2 {
+  transform: translateY(-175px) scaleY(85%);
+}
+
+.cardfront_content .black_arrow3, .cardfront_content .red_arrow3 {
+  transform: translateX(57px) translateY(-183px) scale(115%) rotate(90deg);
+}
+
+.cardfront_content .black_arrow4, .cardfront_content .red_arrow4 {
+  transform: translateX(55px) translateY(-79px) scaleX(85%) rotate(90deg);
+}
+
+.cardfront_content .black_arrow5, .cardfront_content .red_arrow5 {
+  transform: translateX(57px) translateY(20px) scale(115%) rotate(180deg);
+}
+
+.cardfront_content .black_arrow6, .cardfront_content .red_arrow6 {
+  transform: translateY(15px) scaleY(85%) rotate(180deg);
+}
+
+.cardfront_content .black_arrow7, .cardfront_content .red_arrow7 {
+  transform: translateX(-65px) translateY(20px) scale(115%) rotate(270deg);
+}
+
+.cardfront_content .black_arrow8, .cardfront_content .red_arrow8 {
+  transform: translateX(-55px) translateY(-79px) scaleX(85%) rotate(270deg);
+}
+
+.cardfront_content>span.type_txt {
+  top: 1132px;
+  scale: 85%;
 }
 
 .cardfront_content>span.effect_txt {
@@ -142,23 +184,23 @@ ANIME STYLE CARD FRAMES
 }
 
 .cardfront_content>span.card_atk_txt, .cardfront_content>span.card_def_txt {
-  /*font-family: "Souvenir";*/
+  font-family: "Souvenir";
   top: 1060px;
-  scale: 350%;
+  scale: 260%;
 }
 
 .cardfront_content>span.card_atk_txt {
-  right: 555px;
+  right: 550px;
 }
 
 .cardfront_content>span.card_def_txt {
-  right: 185px;
+  right: 180px;
 }
 
 .cardfront_content>span.link_txt {
-  /*font-family: "Souvenir";*/
-  right: 135px;
-  top: 1064px;
+  font-family: "Souvenir";
+  right: 155px;
+  top: 1062px;
   scale: 250%;
 }
 
