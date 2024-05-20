@@ -56,6 +56,8 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
 I'm tinkering with anime card frames. The stylesheet for those is standalone and in a separate file so you can choose whether or not to use it.  
 To use it, just copy the contents of "anime_style.css" and paste them at the bottom of the stylebot editor.
 
+![immagine](https://github.com/QuotedTF/duelingbook-dark-minimal/assets/37403330/120b3abe-ecca-4c46-b7fe-c09ad42ba5d1)
+
 To-dos:
  * ~~Pendulum frames (DB just has the green gradient which is then overlayed over the regular card frame)~~ improvable
  * ~~Card names (I'd like to add them to the big text box if possible)~~ Looking to improve text shadow or (better) add a soft black transparent backdrop
