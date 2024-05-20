@@ -79,13 +79,27 @@ ANIME STYLE CARD FRAMES
 
 .cardfront_content>img.card_color[src*="spell_front2"] {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/spell.png");
-  width: 815px;
+  width: 812px;
 }
 
 .cardfront_content>img.card_color[src*="trap_front2"] {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/trap.png");
   width: 812px;
   height: 1184px;
+}
+
+.cardfront_content>span.name_txt {
+  top: 742px;
+  left: 100px;;
+}
+
+.cardfront_content>img.card_color[src*="xyz"]~span.name_txt, .cardfront_content>img.card_color[src*="link"]~span.name_txt, .cardfront_content>img.card_color[src*="spell"]~span.name_txt, .cardfront_content>img.card_color[src*="trap"]~span.name_txt {
+  text-shadow: 5px 3px 3px black, -3px -2px 5px black;
+}
+
+.cardfront_content>img.card_color[src*="normal"]~span.name_txt, .cardfront_content>img.card_color[src*="effect"]~span.name_txt, .cardfront_content>img.card_color[src*="ritual"]~span.name_txt, .cardfront_content>img.card_color[src*="fusion"]~span.name_txt, .cardfront_content>img.card_color[src*="synchro"]~span.name_txt {
+  color: white;
+  text-shadow: 5px 3px 3px black, -3px -2px 5px black;
 }
 
 .cardfront_content>img.pic {
@@ -110,10 +124,6 @@ ANIME STYLE CARD FRAMES
 .cardfront_content>img.attribute[src*="spell"],.cardfront_content>img.attribute[src*="trap"] {
   left: 372px;
   top: 999px;
-}
-
-.cardfront_content>span.name_txt {
-  
 }
 
 .cardfront_content>span.spell_type_txt {
@@ -159,8 +169,11 @@ ANIME STYLE CARD FRAMES
 }
 
 .cardfront_content>span.type_txt {
-  top: 1132px;
+  top: 805px;
   scale: 85%;
+  text-align: right;
+  color: white;
+  text-shadow: 2px 1px 3px black, -2px -1px 5px black;
 }
 
 .cardfront_content>span.effect_txt {
