@@ -18,48 +18,36 @@ ANIME STYLE CARD FRAMES
 .cardfront_content>img.card_color {
   left: 0px;
   top: 0px;
+  width: 812px;
+  height: 1184px;
 }
 
 .cardfront_content>img.card_color[src*="normal_front2"] {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/normal.png");
-  width: 812px;
-  height: 1184px;
 }
 
 .cardfront_content>img.card_color[src*="token_front2"] {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/token.png");
-  width: 812px;
-  height: 1184px;
 }
 
 .cardfront_content>img.card_color[src*="effect_front2"] {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/effect.png");
-  width: 812px;
-  height: 1184px;
 }
 
 .cardfront_content>img.card_color[src*="ritual_front2"] {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/ritual.png");
-  width: 812px;
-  height: 1184px;
 }
 
 .cardfront_content>img.card_color[src*="fusion_front2"] {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/fusion.png");
-  width: 812px;
-  height: 1184px;
 }
 
 .cardfront_content>img.card_color[src*="synchro_front2"] {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/synchro.png");
-  width: 812px;
-  height: 1184px;
 }
 
 .cardfront_content>img.card_color[src*="xyz_front2"] {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/xyz.png");
-  width: 812px;
-  height: 1184px;
 }
 
 .cardfront_content .pendulum_front>img {
