@@ -21,13 +21,21 @@
 }
 
 #brionac_large[src*="/brionac"] {
+  /*
   left: -1150px;
   top: -1060px;
   width: 3800px;
   height: 2750px;
   scale: 25%;
   rotate: -11.2deg;
-  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/png/scareclaw_tri_heart.png");
+  */
+  top: -750px;
+  left: -160px;
+  width: auto;
+  height: auto;
+  scale: 35%;
+  rotate: -11.2deg;
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/png/s_p_little_knight.png");
 }
 
 #brionac_large[src*="/pumpking"] {
