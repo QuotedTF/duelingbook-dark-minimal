@@ -74,4 +74,16 @@ To-dos:
  
  * <a href="https://www.deviantart.com/xandrewproductions/art/The-Seal-of-Orichalcos-PNG3-For-Card-Art-763330028">XandrewProductions</a> for the Seal of Orichalcos graphic
  
- * <a href="https://www.deviantart.com/matteste">matteste</a> for the Scareclaw Tri-Heart, Ghostrick Festival, Ukiyoe-P.U.N.K. Amazing Dragon and Starry Night, Starry Dragon Master Duel asset rip
+ * <a href="https://www.deviantart.com/matteste">matteste</a> for the S:P Little Knight, Scareclaw Tri-Heart, Ghostrick Festival, Ukiyoe-P.U.N.K. Amazing Dragon and Starry Night, Starry Dragon Master Duel asset rip
+ 
+ * <a href="https://ygopro.org/yugioh-card-maker/">YGOPro Card Maker</a> for the anime card layouts. Original YGOPro Card Maker credits are as follows:
+ 
+   * Commissioned by: <a href="https://github.com/realSetoKaiba">Seto Kaiba</a>
+
+   * Programmed by: <a href="https://github.com/LimitlessSocks">Sock#3222</a>
+
+   * Management lead: <a href="https://github.com/SoaringSky">Soaring__Sky#3222</a>
+
+   * Rush Duel Templates by: <a href="https://www.deviantart.com/alixsep">alixsep</a>
+
+   * Derived from: <a href="https://github.com/Yemachu/cardmaker">Yemachu Cardmaker</a>
