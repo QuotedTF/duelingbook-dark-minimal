@@ -51,6 +51,8 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
 
  * ~~Deck Constructor layout fix~~
  
+ * Edison field (classic, without pendulum zones)
+ 
 ## EXPERIMENTAL
 
 I'm tinkering with anime card frames. The stylesheet for those is standalone and in a separate file so you can choose whether or not to use it.  
