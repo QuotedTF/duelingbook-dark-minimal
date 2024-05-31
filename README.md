@@ -61,10 +61,15 @@ To use it, just copy the contents of "anime_style.css" and paste them at the bot
 ![immagine](https://github.com/QuotedTF/duelingbook-dark-minimal/assets/37403330/120b3abe-ecca-4c46-b7fe-c09ad42ba5d1)
 
 To-dos:
- * ~~Pendulum frames (DB just has the green gradient which is then overlayed over the regular card frame)~~ improvable
- * ~~Card names (I'd like to add them to the big text box if possible)~~ Looking to improve text shadow or (better) add a soft black transparent backdrop
- * ~~Card types and abilities (I'd like to use icons)~~ Looking to improve text shadow or (better) add a soft black transparent backdrop. No icons for the moment it looks like
+ * ~~Pendulum frames (DB just has the green gradient which is then overlayed over the regular card frame)~~
+	* improvable
+ * ~~Card names (I'd like to add them to the big text box if possible)~~ 
+	* ~~Looking to improve text shadow or (better) add a soft black transparent backdrop~~
+ * ~~Card types and abilities (I'd like to use icons)~~ 
+	* ~~Looking to improve text shadow or (better) add a soft black transparent backdrop~~
+	* No icons for the moment it looks like
  * ~~Link arrows~~
+	* To be improved now that the name backdrop has been implemented and had the unintended side effect to mess these up
 
 ## Credits
 

@@ -9,13 +9,11 @@
 }
 
 .cardfront_content>img.card_border {
-  display: none;
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/border.png");
   left: 0px;
   top: 0px;
   width: 812px;
   height: 1184px;
-  z-index: 1;
 }
 
 .cardfront_content>img.card_color {
@@ -26,31 +24,31 @@
 }
 
 .cardfront_content>img.card_color[src*="normal_front2"] {
-  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/normal.png");
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/normal2.png");
 }
 
 .cardfront_content>img.card_color[src*="token_front2"] {
-  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/token.png");
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/token2.png");
 }
 
 .cardfront_content>img.card_color[src*="effect_front2"] {
-  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/effect.png");
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/effect2.png");
 }
 
 .cardfront_content>img.card_color[src*="ritual_front2"] {
-  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/ritual.png");
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/ritual2.png");
 }
 
 .cardfront_content>img.card_color[src*="fusion_front2"] {
-  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/fusion.png");
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/fusion2.png");
 }
 
 .cardfront_content>img.card_color[src*="synchro_front2"] {
-  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/synchro.png");
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/synchro2.png");
 }
 
 .cardfront_content>img.card_color[src*="xyz_front2"] {
-  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/xyz.png");
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/xyz2.png");
 }
 
 .cardfront_content .pendulum_front>img {
@@ -69,12 +67,12 @@
 }
 
 .cardfront_content>img.card_color[src*="spell_front2"] {
-  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/spell.png");
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/spell2.png");
   width: 812px;
 }
 
 .cardfront_content>img.card_color[src*="trap_front2"] {
-  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/trap.png");
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/anime_style_frames/trap2.png");
   width: 812px;
   height: 1184px;
 }
@@ -99,6 +97,7 @@
 .cardfront_content>img.pic {
   left: 23px;
   top: 23px;
+  z-index: -1;
 }
 
 /*EXTREMELY RISKY*/
@@ -112,7 +111,6 @@
   --pend-height: 985px;
   height: var(--pend-height);
   max-height: var(--pend-height);
-  z-index: -1;
 }
 
 .cardfront_content>img.attribute[src*="fire"],.cardfront_content>img.attribute[src*="water"],.cardfront_content>img.attribute[src*="light"],.cardfront_content>img.attribute[src*="dark"],.cardfront_content>img.attribute[src*="earth"],.cardfront_content>img.attribute[src*="wind"],.cardfront_content>img.attribute[src*="divine"] {
@@ -142,12 +140,13 @@
   scale: 200%
 }
 
+/*todo: absolute values instead of transformations*/
 .cardfront_content .black_arrow1, .cardfront_content .red_arrow1 {
   transform: translateX(-65px) translateY(-183px) scale(115%);
 }
 
 .cardfront_content .black_arrow2, .cardfront_content .red_arrow2 {
-  transform: translateY(-175px) scaleY(85%);
+  transform: translateX(-15px) translateY(-175px) scaleX(125%) scaleY(105%);
 }
 
 .cardfront_content .black_arrow3, .cardfront_content .red_arrow3 {
@@ -155,7 +154,7 @@
 }
 
 .cardfront_content .black_arrow4, .cardfront_content .red_arrow4 {
-  transform: translateX(55px) translateY(-79px) scaleX(85%) rotate(90deg);
+  transform: translateX(55px) translateY(-89px) scaleY(115%) rotate(90deg);
 }
 
 .cardfront_content .black_arrow5, .cardfront_content .red_arrow5 {
@@ -163,7 +162,7 @@
 }
 
 .cardfront_content .black_arrow6, .cardfront_content .red_arrow6 {
-  transform: translateY(15px) scaleY(85%) rotate(180deg);
+  transform: translateY(15px) scaleX(115%) scaleY(105%) rotate(180deg);
 }
 
 .cardfront_content .black_arrow7, .cardfront_content .red_arrow7 {
@@ -171,7 +170,7 @@
 }
 
 .cardfront_content .black_arrow8, .cardfront_content .red_arrow8 {
-  transform: translateX(-55px) translateY(-79px) scaleX(85%) rotate(270deg);
+  transform: translateX(-55px) translateY(-67px) scaleY(120%) rotate(270deg);
 }
 
 .cardfront_content>span.type_txt {
