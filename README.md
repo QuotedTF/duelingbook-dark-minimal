@@ -53,8 +53,13 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  
  * Edison field (classic, without pendulum zones)
  
+ * Phase buttons (they broke)
+ 
  * Deck builder (DB now uses actual divs rather than a static .svg background, it's going to take a while to replicate my bg using css)
-	* Genesys points
+	* Figuring out how to hue-rotate backgrounds only
+	* ~~Genesys points~~
+	
+ * New and updated screenshots
  
 ## EXPERIMENTAL
 
