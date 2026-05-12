@@ -53,7 +53,7 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  
  * Edison field (classic, without pendulum zones)
  
- * Phase buttons (they broke)
+ * ~~Phase buttons (they broke)~~
  
  * Deck builder (DB now uses actual divs rather than a static .svg background, it's going to take a while to replicate my bg using css)
 	* Figuring out how to hue-rotate backgrounds only
@@ -77,7 +77,7 @@ To-dos:
 	* ~~Looking to improve text shadow or (better) add a soft black transparent backdrop~~
 	* No icons for the moment it looks like
  * ~~Link arrows~~
-	* To be improved now that the name backdrop has been implemented and had the unintended side effect to mess these up
+	* ~~To be improved now that the name backdrop has been implemented and had the unintended side effect to mess these up~~
 
 ## Credits
 

@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1024px" height="640px" viewBox="0 0 1024 640">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="-0.6500000000000341" y1="112" x2="626.6500000000001" y2="112" spreadMethod="pad">
+<stop offset="0%" stop-color="#00B400"/>
+
+<stop offset="100%" stop-color="#FF8F00"/>
+</linearGradient>
+
+<linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="-0.6500000000000341" y1="351.5" x2="626.6500000000001" y2="351.5" spreadMethod="pad">
+<stop offset="0%" stop-color="#FF0000"/>
+
+<stop offset="100%" stop-color="#9900FF"/>
+</linearGradient>
+
+<linearGradient id="Gradient_3" gradientUnits="userSpaceOnUse" x1="-0.6500000000000341" y1="397.5" x2="626.6500000000001" y2="397.5" spreadMethod="pad">
+<stop offset="0%" stop-color="#FF0000"/>
+
+<stop offset="100%" stop-color="#9900FF"/>
+</linearGradient>
+
+<linearGradient id="Gradient_4" gradientUnits="userSpaceOnUse" x1="-0.6500000000000341" y1="66" x2="626.6500000000001" y2="66" spreadMethod="pad">
+<stop offset="0%" stop-color="#00B400"/>
+
+<stop offset="100%" stop-color="#FF8F00"/>
+</linearGradient>
+
+<g id="field_zones4_mc_0_Layer10_0_FILL">
+<path fill="#000000" fill-opacity="0.2980392156862745" stroke="none" d=" M 459 372 Q 453 372 453 378 L 453 457 Q 453 463 459 463 L 538 463 Q 544 463 544 457 L 544 378 Q 544 372 538 372 L 459 372 M 180 372 Q 174 372 174 378 L 174 457 Q 174 463 180 463 L 259 463 Q 265 463 265 457 L 265 378 Q 265 372 259 372 L 180 372 M 265 285 Q 265 279 259 279 L 180 279 Q 174 279 174 285 L 174 364 Q 174 370 180 370 L 259 370 Q 265 370 265 364 L 265 285 M 87 372 Q 81 372 81 378 L 81 457 Q 81 463 87 463 L 166 463 Q 172 463 172 457 L 172 378 Q 172 372 166 372 L 87 372 M 87 279 Q 81 279 81 285 L 81 364 Q 81 370 87 370 L 166 370 Q 172 370 172 364 L 172 285 Q 172 279 166 279 L 87 279 M 174 178 Q 174 184 180 184 L 259 184 Q 265 184 265 178 L 265 99 Q 265 93 259 93 L 180 93 Q 174 93 174 99 L 174 178 M 166 184 Q 172 184 172 178 L 172 99 Q 172 93 166 93 L 87 93 Q 81 93 81 99 L 81 178 Q 81 184 87 184 L 166 184 M 172 6 Q 172 0 166 0 L 87 0 Q 81 0 81 6 L 81 85 Q 81 91 87 91 L 166 91 Q 172 91 172 85 L 172 6 M 265 6 Q 265 0 259 0 L 180 0 Q 174 0 174 6 L 174 85 Q 174 91 180 91 L 259 91 Q 265 91 265 85 L 265 6 M 366 372 Q 360 372 360 378 L 360 457 Q 360 463 366 463 L 445 463 Q 451 463 451 457 L 451 378 Q 451 372 445 372 L 366 372 M 358 378 Q 358 372 352 372 L 273 372 Q 267 372 267 378 L 267 457 Q 267 463 273 463 L 352 463 Q 358 463 358 457 L 358 378 M 358 285 Q 358 279 352 279 L 273 279 Q 267 279 267 285 L 267 364 Q 267 370 273 370 L 352 370 Q 358 370 358 364 L 358 285 M 451 285 Q 451 279 445 279 L 366 279 Q 360 279 360 285 L 360 364 Q 360 370 366 370 L 445 370 Q 451 370 451 364 L 451 285 M 459 279 Q 453 279 453 285 L 453 364 Q 453 370 459 370 L 538 370 Q 544 370 544 364 L 544 285 Q 544 279 538 279 L 459 279 M 360 178 Q 360 184 366 184 L 445 184 Q 451 184 451 178 L 451 99 Q 451 93 445 93 L 366 93 Q 360 93 360 99 L 360 178 M 352 184 Q 358 184 358 178 L 358 99 Q 358 93 352 93 L 273 93 Q 267 93 267 99 L 267 178 Q 267 184 273 184 L 352 184 M 358 6 Q 358 0 352 0 L 273 0 Q 267 0 267 6 L 267 85 Q 267 91 273 91 L 352 91 Q 358 91 358 85 L 358 6 M 451 6 Q 451 0 445 0 L 366 0 Q 360 0 360 6 L 360 85 Q 360 91 366 91 L 445 91 Q 451 91 451 85 L 451 6 M 538 184 Q 544 184 544 178 L 544 99 Q 544 93 538 93 L 459 93 Q 453 93 453 99 L 453 178 Q 453 184 459 184 L 538 184 M 544 6 Q 544 0 538 0 L 459 0 Q 453 0 453 6 L 453 85 Q 453 91 459 91 L 538 91 Q 544 91 544 85 L 544 6 Z"/>
+</g>
+
+<g id="field_spell_pic_mc_0_Layer0_0_FILL">
+<path fill="#0066FF" fill-opacity="0" stroke="none" d=" M 652.5 339 L 652.5 90.45 288 90.45 288 339 652.5 339 Z"/>
+</g>
+
+<g id="field_zones_mc_2_0_Layer10_0_FILL">
+<path fill="#000000" fill-opacity="0.2980392156862745" stroke="none" d=" M 73 186 Q 67 186 67 192 L 67 271 Q 67 277 73 277 L 125 277 Q 131 277 131 271 L 131 192 Q 131 186 125 186 L 73 186 M 501 186 Q 495 186 495 192 L 495 271 Q 495 277 501 277 L 553 277 Q 559 277 559 271 L 559 192 Q 559 186 553 186 L 501 186 Z"/>
+</g>
+
+<g id="Mask_field_zones_mc_2_0_7_MASK_0_FILL">
+<path fill="#FFFFFF" stroke="none" d=" M 0 17.4 L 16.75 35.3 46.4 17.4 16.9 0 0 17.4 Z"/>
+</g>
+
+<g id="field_zones_rush_mc_0_Layer10_0_FILL">
+<path fill="#000000" fill-opacity="0.2980392156862745" stroke="none" d=" M 6 279 Q 0 279 0 285 L 0 364 Q 0 370 6 370 L 58 370 Q 64 370 64 364 L 64 285 Q 64 279 58 279 L 6 279 M 58 93 L 6 93 Q 0 93 0 99 L 0 178 Q 0 184 6 184 L 58 184 Q 64 184 64 178 L 64 99 Q 64 93 58 93 M 626 285 Q 626 279 620 279 L 568 279 Q 562 279 562 285 L 562 364 Q 562 370 568 370 L 620 370 Q 626 370 626 364 L 626 285 M 620 93 L 568 93 Q 562 93 562 99 L 562 178 Q 562 184 568 184 L 620 184 Q 626 184 626 178 L 626 99 Q 626 93 620 93 Z"/>
+</g>
+
+<g id="Mask_field_zones_rush_mc_0_7_MASK_0_FILL">
+<path fill="#FFFFFF" stroke="none" d=" M 0 17.4 L 16.75 35.3 46.4 17.4 16.9 0 0 17.4 Z"/>
+</g>
+
+<path id="field_zones4_mc_0_Layer8_0_1_STROKES" stroke="url(#Gradient_1)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" fill="none" d=" M 538 0 L 459 0 Q 453 0 453 6 L 453 85 Q 453 91 459 91 L 538 91 Q 544 91 544 85 L 544 6 Q 544 0 538 0 Z M 453 99 L 453 178 Q 453 184 459 184 L 538 184 Q 544 184 544 178 L 544 99 Q 544 93 538 93 L 459 93 Q 453 93 453 99 Z M 445 0 L 366 0 Q 360 0 360 6 L 360 85 Q 360 91 366 91 L 445 91 Q 451 91 451 85 L 451 6 Q 451 0 445 0 Z M 352 0 L 273 0 Q 267 0 267 6 L 267 85 Q 267 91 273 91 L 352 91 Q 358 91 358 85 L 358 6 Q 358 0 352 0 Z M 352 93 L 273 93 Q 267 93 267 99 L 267 178 Q 267 184 273 184 L 352 184 Q 358 184 358 178 L 358 99 Q 358 93 352 93 Z M 445 93 L 366 93 Q 360 93 360 99 L 360 178 Q 360 184 366 184 L 445 184 Q 451 184 451 178 L 451 99 Q 451 93 445 93 Z M 259 0 L 180 0 Q 174 0 174 6 L 174 85 Q 174 91 180 91 L 259 91 Q 265 91 265 85 L 265 6 Q 265 0 259 0 Z M 166 0 L 87 0 Q 81 0 81 6 L 81 85 Q 81 91 87 91 L 166 91 Q 172 91 172 85 L 172 6 Q 172 0 166 0 Z M 174 99 L 174 178 Q 174 184 180 184 L 259 184 Q 265 184 265 178 L 265 99 Q 265 93 259 93 L 180 93 Q 174 93 174 99 Z M 166 93 L 87 93 Q 81 93 81 99 L 81 178 Q 81 184 87 184 L 166 184 Q 172 184 172 178 L 172 99 Q 172 93 166 93 Z"/>
+
+<path id="field_zones4_mc_0_Layer8_0_2_STROKES" stroke="url(#Gradient_2)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" fill="none" d=" M 453 285 L 453 364 Q 453 370 459 370 L 538 370 Q 544 370 544 364 L 544 285 Q 544 279 538 279 L 459 279 Q 453 279 453 285 Z M 445 279 L 366 279 Q 360 279 360 285 L 360 364 Q 360 370 366 370 L 445 370 Q 451 370 451 364 L 451 285 Q 451 279 445 279 Z M 267 285 L 267 364 Q 267 370 273 370 L 352 370 Q 358 370 358 364 L 358 285 Q 358 279 352 279 L 273 279 Q 267 279 267 285 Z M 352 372 L 273 372 Q 267 372 267 378 L 267 457 Q 267 463 273 463 L 352 463 Q 358 463 358 457 L 358 378 Q 358 372 352 372 Z M 445 372 L 366 372 Q 360 372 360 378 L 360 457 Q 360 463 366 463 L 445 463 Q 451 463 451 457 L 451 378 Q 451 372 445 372 Z M 538 372 L 459 372 Q 453 372 453 378 L 453 457 Q 453 463 459 463 L 538 463 Q 544 463 544 457 L 544 378 Q 544 372 538 372 Z M 172 364 L 172 285 Q 172 279 166 279 L 87 279 Q 81 279 81 285 L 81 364 Q 81 370 87 370 L 166 370 Q 172 370 172 364 Z M 81 378 L 81 457 Q 81 463 87 463 L 166 463 Q 172 463 172 457 L 172 378 Q 172 372 166 372 L 87 372 Q 81 372 81 378 Z M 174 285 L 174 364 Q 174 370 180 370 L 259 370 Q 265 370 265 364 L 265 285 Q 265 279 259 279 L 180 279 Q 174 279 174 285 Z M 259 372 L 180 372 Q 174 372 174 378 L 174 457 Q 174 463 180 463 L 259 463 Q 265 463 265 457 L 265 378 Q 265 372 259 372 Z"/>
+
+<path id="field_zones_mc_2_0_Layer8_0_1_STROKES" stroke="url(#Gradient_1)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" fill="none" d=" M 125 186 L 73 186 Q 67 186 67 192 L 67 271 Q 67 277 73 277 L 125 277 Q 131 277 131 271 L 131 192 Q 131 186 125 186 Z"/>
+
+<path id="field_zones_mc_2_0_Layer8_0_2_STROKES" stroke="url(#Gradient_2)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" fill="none" d=" M 553 186 L 501 186 Q 495 186 495 192 L 495 271 Q 495 277 501 277 L 553 277 Q 559 277 559 271 L 559 192 Q 559 186 553 186 Z"/>
+
+<path id="field_zones_rush_mc_0_Layer8_0_1_STROKES" stroke="url(#Gradient_3)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" fill="none" d=" M 568 370 L 620 370 Q 626 370 626 364 L 626 285 Q 626 279 620 279 L 568 279 Q 562 279 562 285 L 562 364 Q 562 370 568 370 Z M 6 370 L 58 370 Q 64 370 64 364 L 64 285 Q 64 279 58 279 L 6 279 Q 0 279 0 285 L 0 364 Q 0 370 6 370 Z"/>
+
+<path id="field_zones_rush_mc_0_Layer8_0_2_STROKES" stroke="url(#Gradient_4)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" fill="none" d=" M 562 178 Q 562 184 568 184 L 620 184 Q 626 184 626 178 L 626 99 Q 626 93 620 93 L 568 93 Q 562 93 562 99 L 562 178 Z M 58 93 L 6 93 Q 0 93 0 99 L 0 178 Q 0 184 6 184 L 58 184 Q 64 184 64 178 L 64 99 Q 64 93 58 93 Z"/>
+</defs>
+
+<g id="field_zones_mc" transform="matrix( 1, 0, 0, 1, 207,60) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#field_zones4_mc_0_Layer10_0_FILL"/>
+</g>
+
+<g id="field_spell_pic_mc" transform="matrix( 1, 0, 0, 1, 81,0) ">
+<g transform="matrix( 1.2701873779296875, 0, 0, 1.8627777099609375, -365.8,-168.5) ">
+<use xlink:href="#field_spell_pic_mc_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#field_zones4_mc_0_Layer8_0_1_STROKES"/>
+
+<use xlink:href="#field_zones4_mc_0_Layer8_0_2_STROKES"/>
+</g>
+</g>
+
+<g id="field_zones_mc_FL" transform="matrix( 1, 0, 0, 1, 207,60) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#field_zones_mc_2_0_Layer10_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#field_zones_mc_2_0_Layer8_0_1_STROKES"/>
+
+<use xlink:href="#field_zones_mc_2_0_Layer8_0_2_STROKES"/>
+</g>
+
+<mask id="Mask_Mask_1">
+<g transform="matrix( 1, 0, 0, 1, 554.2,353.55) ">
+<use xlink:href="#Mask_field_zones_mc_2_0_7_MASK_0_FILL"/>
+</g>
+</mask>
+
+<g mask="url(#Mask_Mask_1)"/>
+
+<g mask="url(#Mask_Mask_1)"/>
+
+<g mask="url(#Mask_Mask_1)"/>
+
+<g mask="url(#Mask_Mask_1)"/>
+</g>
+
+<g id="field_zones_mc_FL_FL" transform="matrix( 1, 0, 0, 1, 207,60) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#field_zones_rush_mc_0_Layer10_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#field_zones_rush_mc_0_Layer8_0_1_STROKES"/>
+
+<use xlink:href="#field_zones_rush_mc_0_Layer8_0_2_STROKES"/>
+</g>
+
+<mask id="Mask_Mask_2">
+<g transform="matrix( 1, 0, 0, 1, 554.2,353.55) ">
+<use xlink:href="#Mask_field_zones_rush_mc_0_7_MASK_0_FILL"/>
+</g>
+</mask>
+
+<g mask="url(#Mask_Mask_2)"/>
+
+<g mask="url(#Mask_Mask_2)"/>
+
+<g mask="url(#Mask_Mask_2)"/>
+
+<g mask="url(#Mask_Mask_2)"/>
+</g>
+</svg>
