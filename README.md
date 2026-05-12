@@ -54,6 +54,7 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
  * Edison field (classic, without pendulum zones)
  
  * Deck builder (DB now uses actual divs rather than a static .svg background, it's going to take a while to replicate my bg using css)
+	* Genesys points
  
 ## EXPERIMENTAL
 
@@ -94,3 +95,7 @@ To-dos:
    * Rush Duel Templates by: <a href="https://www.deviantart.com/alixsep">alixsep</a>
 
    * Derived from: <a href="https://github.com/Yemachu/cardmaker">Yemachu Cardmaker</a>
+   
+## Addendum
+
+GitHub has really gone down the gutter, has it not. Thinking about migrating to another provider
