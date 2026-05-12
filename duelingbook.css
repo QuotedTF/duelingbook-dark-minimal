@@ -4,6 +4,8 @@
 
 @font-face {font-family: "Work Sans Thin"; src: url("//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.eot"); src: url("//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.woff") format("woff"), url("//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/193b034cac090c4c324eaa0bdac28882.svg#Work Sans Thin") format("svg"); } 
 
+@font-face {font-family: "Chogokuboso Gothic"; src: url("https://db.onlinewebfonts.com/t/56d6b93a5c353eb0b54cdb92dbf32ed6.eot"); src: url("https://db.onlinewebfonts.com/t/56d6b93a5c353eb0b54cdb92dbf32ed6.eot?#iefix")format("embedded-opentype"), url("https://db.onlinewebfonts.com/t/56d6b93a5c353eb0b54cdb92dbf32ed6.woff2")format("woff2"), url("https://db.onlinewebfonts.com/t/56d6b93a5c353eb0b54cdb92dbf32ed6.woff")format("woff"), url("https://db.onlinewebfonts.com/t/56d6b93a5c353eb0b54cdb92dbf32ed6.ttf")format("truetype"), url("https://db.onlinewebfonts.com/t/56d6b93a5c353eb0b54cdb92dbf32ed6.svg#Chogokuboso Gothic")format("svg"); }
+
 /* MAIN MENU */
 
 /*duel! arrow*/
@@ -927,12 +929,12 @@ img.watching {
 
 /*FONT deck builder */
 
-#deck_constructor>.total_txt, .total_normal_txt, .total_effect_txt, .total_ritual_txt, .total_ritual_txt, .total_pendulum_txt, .total_spell_txt, .total_trap_txt {
+.total_txt, .total_effect_txt, .total_spell_txt, .total_trap_txt {
     font-family: MatrixRegularSmallCaps;
     font-size: 28px;
     color: white;
     text-shadow: 0px 0px 2px black, 1px 1px 2px black, -1px -1px 2px black;
-    left: 210.5px;
+    top: -1px;
 }
 
 #search>.title_txt {
@@ -1224,8 +1226,62 @@ span.arial_rounded20 {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_decks2.svg");
 }
 
-.deck_constructor {
-  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/deck_constructor2.svg");
+.deck_bg, .side_bg, .extra_bg {
+  /*filter: hue-rotate(300deg) saturate(50%);*/
+  opacity: 90%;
+}
+
+.search_bg {
+  filter: saturate(13%) invert(100%) hue-rotate(325deg) brightness(350%) contrast(85%);
+}
+
+.deck_lbl, .side_lbl, .extra_lbl {
+  font-family: "Work Sans Thin";
+}
+
+.deck_lbl {
+  font-size: 36px;
+  left: -2.5px;
+}
+
+.side_lbl {
+  font-size: 26px;
+  top: 68px;
+  left: -1.5px;
+}
+
+.extra_lbl {
+  font-size: 22px;
+  top: 72px;
+  left: 0.5px;
+}
+
+.points {
+  filter: saturate(5);
+}
+
+.deck_bg>.points>img[src*="/points"] {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/point_total.svg");
+}
+
+.deck_bg>.points>.points_txt {
+  transform: scaleX(0.7);
+  top: 7px;
+  left: 6.5px;
+}
+
+.points_img {
+  content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/points.svg")
+}
+
+.points>.points_txt {
+  top: 222px;
+  left: 75px;
+}
+
+.points_txt {
+  font-family: "SquareType B";
+  font-style: italic;
 }
 
 #search>img {
