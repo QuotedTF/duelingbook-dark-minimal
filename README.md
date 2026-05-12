@@ -51,7 +51,7 @@ Duelingbook minimal / material theme built upon https://github.com/mykesXD/Dueli
 
  * ~~Deck Constructor layout fix~~
  
- * Edison field (classic, without pendulum zones)
+ * ~~Edison field (classic, without pendulum zones)~~
  
  * ~~Phase buttons (they broke)~~
  
