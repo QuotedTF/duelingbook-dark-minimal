@@ -10,10 +10,10 @@
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="total.svg"
    version="1.1"
-   viewBox="0 0 1024 640"
+   viewBox="0 0 240 240"
    id="Layer_1">
   <metadata
-     id="metadata196">
+     id="metadata18">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -24,21 +24,22 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="Layer_1"
+     inkscape:snap-page="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-center="true"
+     inkscape:current-layer="layer2"
      inkscape:window-maximized="1"
      inkscape:window-y="-11"
      inkscape:window-x="-11"
-     inkscape:cy="52.5192"
-     inkscape:cx="249.39138"
-     inkscape:zoom="16.172385"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-center="true"
+     inkscape:cy="138.59815"
+     inkscape:cx="70.742599"
+     inkscape:zoom="4.4404796"
+     inkscape:snap-object-midpoints="true"
+     inkscape:object-nodes="true"
      inkscape:snap-intersection-paths="true"
      inkscape:object-paths="true"
-     inkscape:snap-object-midpoints="true"
      showgrid="false"
-     id="namedview194"
+     id="namedview16"
      inkscape:window-height="2066"
      inkscape:window-width="3840"
      inkscape:pageshadow="2"
@@ -48,134 +49,44 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0"
+     inkscape:snap-midpoints="true" />
   <defs
-     id="defs34">
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#75587d;stroke-width:1pt;stroke-opacity:0.921569;fill:#75587d;fill-opacity:0.921569"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path951" />
+    </marker>
     <style
-       id="style2">.cls-1{stroke:#ff7500;}.cls-1,.cls-2,.cls-3{fill:none;stroke-linecap:round;stroke-linejoin:round;}.cls-2{stroke:#09f;}.cls-4{fill:rgba(255,121,0,.85);}.cls-4,.cls-5,.cls-6,.cls-7,.cls-8,.cls-9,.cls-10,.cls-11,.cls-12,.cls-13,.cls-14{stroke-width:0px;}.cls-5{fill:url(#radial-gradient);}.cls-6{fill:rgba(0,204,255,.75);}.cls-7{fill:url(#radial-gradient-2);}.cls-8{fill:url(#radial-gradient-3);}.cls-9{fill:url(#radial-gradient-4);}.cls-10{fill:url(#radial-gradient-6);}.cls-11{fill:url(#radial-gradient-5);}.cls-12{fill:rgba(153,0,204,.6);}.cls-13{fill:rgba(255,255,255,.5);}.cls-14{fill:#fff;}.cls-3{stroke:rgba(153,0,204,.6);}</style>
-    <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(225 -115.5)"
-       r="34.71"
-       fy="150"
-       fx="0"
-       cy="150"
-       cx="0"
-       id="radial-gradient">
-      <stop
-         id="stop4"
-         stop-color="#fff"
-         offset="0" />
-      <stop
-         id="stop6"
-         stop-color="#000"
-         offset="1" />
-    </radialGradient>
-    <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(225 -78.5)"
-       r="34.71"
-       fy="150"
-       fx="0"
-       cy="150"
-       cx="0"
-       id="radial-gradient-2">
-      <stop
-         id="stop9"
-         stop-color="#ff6"
-         offset="0" />
-      <stop
-         id="stop11"
-         stop-color="#000"
-         offset="1" />
-    </radialGradient>
-    <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(225 -41.5)"
-       r="34.71"
-       fy="150"
-       fx="0"
-       cy="150"
-       cx="0"
-       id="radial-gradient-3">
-      <stop
-         id="stop14"
-         stop-color="#c90"
-         offset="0" />
-      <stop
-         id="stop16"
-         stop-color="#000"
-         offset="1" />
-    </radialGradient>
-    <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(225 -4.5)"
-       r="34.71"
-       fy="150"
-       fx="0"
-       cy="150"
-       cx="0"
-       id="radial-gradient-4">
-      <stop
-         id="stop19"
-         stop-color="#0cf"
-         offset="0" />
-      <stop
-         id="stop21"
-         stop-color="#000"
-         offset="1" />
-    </radialGradient>
-    <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(225 69.5)"
-       r="34.71"
-       fy="113"
-       fx="0"
-       cy="113"
-       cx="0"
-       id="radial-gradient-5">
-      <stop
-         id="stop24"
-         stop-color="#6f6"
-         offset="0" />
-      <stop
-         id="stop26"
-         stop-color="#000"
-         offset="1" />
-    </radialGradient>
-    <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(225 106.5)"
-       r="34.71"
-       fy="113"
-       fx="0"
-       cy="113"
-       cx="0"
-       id="radial-gradient-6">
-      <stop
-         id="stop29"
-         stop-color="#ff7be8"
-         offset="0" />
-      <stop
-         id="stop31"
-         stop-color="#000"
-         offset="1" />
-    </radialGradient>
+       id="style2">.cls-1{fill:#6c6;}</style>
   </defs>
-  <path
-     d="M738,81.5h-54V5h54v76.5ZM793,82.5v76.5h-54v-76.5h54ZM793,5v76.5h-54V5h54ZM793,160v76.5h-54v-76.5h54ZM738,82.5v76.5h-54v-76.5h54ZM683,81.5h-54V5h54v76.5ZM573,81.5h-54V5h54v76.5ZM628,82.5v76.5h-54v-76.5h54ZM628,5v76.5h-54V5h54ZM628,160v76.5h-54v-76.5h54ZM573,82.5v76.5h-54v-76.5h54ZM683,236.5h-54v-76.5h54v76.5ZM683,159h-54v-76.5h54v76.5ZM628,237.5v76.5h-54v-76.5h54ZM628,392.5v76.5h-54v-76.5h54ZM628,315v76.5h-54v-76.5h54ZM519,315h54v76.5h-54v-76.5ZM683,391.5h-54v-76.5h54v76.5ZM684,315h54v76.5h-54v-76.5ZM738,237.5v76.5h-54v-76.5h54ZM573,237.5v76.5h-54v-76.5h54ZM683,469h-54v-76.5h54v76.5ZM683,314h-54v-76.5h54v76.5ZM793,237.5v76.5h-54v-76.5h54ZM793,392.5v76.5h-54v-76.5h54ZM793,315v76.5h-54v-76.5h54ZM738,392.5v76.5h-54v-76.5h54ZM738,160v76.5h-54v-76.5h54ZM573,160v76.5h-54v-76.5h54ZM518,81.5h-54V5h54v76.5ZM408,81.5h-54V5h54v76.5ZM463,82.5v76.5h-54v-76.5h54ZM463,5v76.5h-54V5h54ZM463,160v76.5h-54v-76.5h54ZM408,82.5v76.5h-54v-76.5h54ZM518,160v76.5h-54v-76.5h54ZM518,159h-54v-76.5h54v76.5ZM353,81.5h-54V5h54v76.5ZM298,82.5v76.5h-54v-76.5h54ZM298,81.5h-54V5h54v76.5ZM298,160v76.5h-54v-76.5h54ZM353,236.5h-54v-76.5h54v76.5ZM353,159h-54v-76.5h54v76.5ZM298,237.5v76.5h-54v-76.5h54ZM298,315v76.5h-54v-76.5h54ZM298,392.5v76.5h-54v-76.5h54ZM353,391.5h-54v-76.5h54v76.5ZM354,315h54v76.5h-54v-76.5ZM408,237.5v76.5h-54v-76.5h54ZM353,392.5v76.5h-54v-76.5h54ZM353,314h-54v-76.5h54v76.5ZM463,237.5v76.5h-54v-76.5h54ZM463,315v76.5h-54v-76.5h54ZM464,315h54v76.5h-54v-76.5ZM463,392.5v76.5h-54v-76.5h54ZM518,392.5v76.5h-54v-76.5h54ZM464,237.5h54v76.5h-54v-76.5ZM408,392.5v76.5h-54v-76.5h54ZM408,160v76.5h-54v-76.5h54ZM573,392.5v76.5h-54v-76.5h54Z"
-     class="cls-3"
-     id="deck_slots_mc_0_Layer0_0_1_STROKES" />
-  <text
-     xml:space="preserve"
-     style="font-weight:bold;font-size:26.5092px;line-height:1.25;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';letter-spacing:-4.07955px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.365728;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     x="283.87064"
-     y="34.674721"
-     id="text1369-6"
-     transform="scale(0.72855164,1.3725863)"><tspan
-       sodipodi:role="line"
-       x="283.87064"
-       y="34.674721"
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.365728;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="tspan988">合計</tspan></text>
+  <g
+     style="display:inline;opacity:1"
+     inkscape:label="img"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:187.424px;line-height:1.25;font-family:'Chogokuboso Gothic';-inkscape-font-specification:'Chogokuboso Gothic Bold';letter-spacing:-28.8431px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.58576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-11.769723"
+       y="154.88049"
+       id="text1369-6"
+       transform="scale(0.72855164,1.3725863)"><tspan
+         sodipodi:role="line"
+         x="-11.769723"
+         y="154.88049"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.58576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan988">合計</tspan></text>
+  </g>
 </svg>
