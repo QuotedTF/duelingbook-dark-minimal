@@ -290,6 +290,22 @@ select {
     background: #1c1c21;
 }
 
+/*Deck and Extra Deck windows*/
+
+#duel_content>#view>.background {
+  background-color: #323232;
+  border-radius: 0px;
+}
+
+#duel_content>#view>.top {
+  background-color: #323232;
+  border-top: 2px solid #683bb5;
+}
+
+#duel_content>#view>.search_txt, #duel_content>#view>.textinput {
+  top: 7px;
+}
+
 /*Chatting section*/
 
 div.textarea.scrollpane.selectable {
@@ -1268,10 +1284,10 @@ span.arial_rounded20 {
   content: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/field_decks2.svg");
 }
 
-.deck_bg, .side_bg, .extra_bg {
-  /*filter: hue-rotate(300deg) saturate(50%);*/
+/*#deck_constructor>.deck_bg, .side_bg, .extra_bg {
+  filter: hue-rotate(300deg) saturate(50%);
   opacity: 90%;
-}
+}*/
 
 .search_bg {
   filter: saturate(13%) invert(100%) hue-rotate(325deg) brightness(350%) contrast(85%);
@@ -1296,6 +1312,22 @@ span.arial_rounded20 {
   font-size: 22px;
   top: 72px;
   left: 0.5px;
+}
+
+.total_bg {
+  background: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/total.svg");
+}
+
+.total_effect_bg {
+  background: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/monster.svg");
+}
+
+.total_spell_bg {
+  background: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/spell.svg");
+}
+
+.total_trap_bg {
+  background: url("https://raw.githubusercontent.com/QuotedTF/duelingbook-dark-minimal/main/svg/trap.svg");
 }
 
 .points {
